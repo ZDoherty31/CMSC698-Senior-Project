@@ -4,6 +4,8 @@ with open('sb_records.pdf', 'rb') as pdf_file:
     reader = PyPDF2.PdfReader(pdf_file)
     text = ""
 
+    # PDF files complete 
+
     for page in reader.pages:
         text += page.extract_text() + "\n"
 
