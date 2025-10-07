@@ -65,8 +65,7 @@ Season  Records
  
 Points  
 1. 40 – Ryan Blick, 2002 -03 
-2. 37 – Lane King, 2017 -18 
- 37 – Danny Schroder, 2002 -03 
+2. 37 – Lane King, 2017 -18 /n 37 – Danny Schroder, 2002 -03 
 4.  35 – Joe Searl, 2006 -07 
 5. 34 – Mike Burkhart, 2004 -05 
 6.  33 – Marc Howe, 2007 -08 
@@ -134,8 +133,7 @@ Assists
 11. 18 – Austin Frank, 2017 -18 
  18 – Matt Melchiori, 2001 -02 
 13. 17 – Kyle Gierman, 2021 -22 
- 17 – Jameson Raymond, 2009 -10 
- 17 – Joe Searl, 2006 -07 
+ 17 – Jameson Raymond, 2009 -10 /n 17 – Joe Searl, 2006 -07 
 16. 16 – Lane King, 2016 -17 
  16 – Renato Engler, 2015 -16 
  16 – Blake Roubos, 2013 -14 
@@ -203,8 +201,7 @@ Short -Handed Goals
  
 Penalties  
 1. 36 – Stuart Manning, 2000 -01 
-2. 35 – Adam Brand, 2005 -06 
- 35 – Mike Burkhart, 2004 -05 
+2. 35 – Adam Brand, 2005 -06 /n 35 – Mike Burkhart, 2004 -05 
 4. 33 – Pat Brenner, 2007 -08 
 5.  31 – Mike Vernon, 2000 -01  
  
@@ -272,8 +269,7 @@ Goals Against Average  (min. 100 saves)
 9. 3.16 – Evan Cline, 2017 -18 
  3.16 – Evan Johnson, 2010 -11 
  
-Goaltender Scoreless Streak  
-1. 192:26 – Evan Johnson, 2008 -09 
+Goaltender Scoreless Streak  /n1. 192:26 – Evan Johnson, 2008 -09 
 2. 134:30 – Alex Mosquera, 2019 -20 
  
  
@@ -341,8 +337,7 @@ Assists
  56 – Joe Searl, 2003 -07 
 4. 55 – Jameson Raymond, 2008 -12 
  55 – Nick Jennette, 2005 -09 
-6. 51 – Marc Howe, 2006 -10 
- 51 – Mike Burkhart, 2001 -05  
+6. 51 – Marc Howe, 2006 -10 /n 51 – Mike Burkhart, 2001 -05  
 8. 49 – Brandon Boelter, 2012 -16 
  49 – Tom Conti, 1998 -2002  
 10. 48 – Lane King, 2015 -18 
@@ -410,8 +405,7 @@ Short -Handed Goals
  2 – Toby Kinsler, 1994 -98 
  2 – Erno Csatlos, 1996 -2000  
  2 – Eric Halverson, 1993 -97 
- 2 – Breck Knauft, 1988 -89, 1991 -92 
-  
+ 2 – Breck Knauft, 1988 -89, 1991 -92 /n  
 Wins  
 1. 41 – Evan Johnson (41 -44-6), 2007 -11  
 2. 30 – Andrew Isaac (30 -39-6), 2003 -07 
@@ -479,8 +473,7 @@ Penalties
 6. 79 – Adam Brand, 2005 -08 
 7. 72 – Corey Garrett, 2007 -11 
 8. 68 – Nick Jennette, 2005 -09 
- 68 – Andy Gillies, 2000 -04 
- 68 – Brian Winnie, 1998 -2002  
+ 68 – Andy Gillies, 2000 -04 /n 68 – Brian Winnie, 1998 -2002  
  
 Penalty  Minutes  
 1. 268 – Brandon Boelter, 2012 -16 
@@ -546,8 +539,7 @@ Points
 2. 33 – vs. Illinois Benedictine, 11/21/98  
 3. 32 – at Northland, 1/20/07  
 4. 28 – vs. Illinois Benedictine, 2/14/98  
- 28 – vs. Illinois Benedictine, 2/13/98  
-6.  25 – vs. Finlandia, 12/2/17  
+ 28 – vs. Illinois Benedictine, 2/13/98  /n6.  25 – vs. Finlandia, 12/2/17  
  25 – vs. Concordia (Wis.), 1/19/08  
  25 – at Northland, 11/12/05  
  25 – vs. Illinois Benedictine, 1/29/99  
@@ -614,8 +606,7 @@ Most Wins
 Most Losses  
 1.  23 – 2003 -04 
 2. 20 – 2000 -01 
-3. 19 – 2022 -23 
- 19 – 2019 -20  
+3. 19 – 2022 -23 /n 19 – 2019 -20  
  19 – 2014 -15 
  19 – 2013 -14  
  19 – 2001 -02 
@@ -683,8 +674,7 @@ Fewest Power -Play Goals Allowed
 2. 22 – 2011 -12 
 3. 23 – 2008 -09 
 4. 24 – 2018 -19  
-5. 25 – 2024 -25  
-6. 26 – 2017 -18 
+5. 25 – 2024 -25  /n6. 26 – 2017 -18 
  26 – 2001 -02  
 8. 27 – 2019 -20  
  27 – 2016 -17  
@@ -752,8 +742,7 @@ Most Penalty Minutes
 1. 674 – 2010 -11 
 2. 643 – 2006 -07 
 3. 640 – 2005 -06 
-4. 588 – 2009 -10 
-5. 578 – 2008 -09 
+4. 588 – 2009 -10 /n5. 578 – 2008 -09 
 6. 560 – 2007 -08 
 7. 550 – 2014 -15  
 8. 548 – 2000 -01 
@@ -821,8 +810,7 @@ Longest Losing Streak
 4. 9 – 2023 -24  
 5. 8 – 1986 -87 through 1987 -88 
  8 – 2003 -04 
-  
- 
+  /n 
  YEAR -BY-YEAR -SEASON  SUMMARY  
  
 YEAR   HEAD COACH    VARSITY RECORD  PCT.   OVERALL RECORD  PCT.  
@@ -894,4 +882,4 @@ Dick Fahrenholz   1986 -88  .250 3 9 0
 Duane Weber   1995 -97  .250 3 10 1 
 Mike Cowen   1991 -95  .167 3 15 0 
 Ted Balser   1990 -91  .000 0 4 0 
-Terry Brand   1988 -90  .000 0 16 0 
+Terry Brand   1988 -90  .000 0 16 0 /n

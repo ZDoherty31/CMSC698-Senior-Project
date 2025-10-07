@@ -48,8 +48,7 @@ Goals  Scored — Opponent
  9 UW-Oshkosh, 2000  
 5. 8 Carroll, 1996  
  8 Lake Forest, 1995  
- 8  Beloit, 1995  
- 8 Concordia, 1989  
+ 8  Beloit, 1995  /n 8 Concordia, 1989  
 8 Concordia (Minn.), 1997  
 8 University of Chicago, 1999  
  
@@ -99,8 +98,7 @@ Wins
  8 Kevin Aslett, 2012  
  8 Chris Perry, 2003  
  8 Dan Dreyfus, 1984  
-8. 7 Joe Krivit, 2013  
- 7 Steven Solomon, 2010  
+8. 7 Joe Krivit, 2013  /n 7 Steven Solomon, 2010  
  7 Matt Wolin, 2004  
  7 Dan Dreyfus, 1986  
  
@@ -150,8 +148,7 @@ Total  Points
 2.  56 Tom Taggert, 1983 -86 (21 goals, 14 assists)  
 3.  54 James Kimball, 1985 -87 (19 goals, 16 assists)  
 4.  53 Joe Sluhoski, 2004 -07 (21 goals, 11 assists)  
-5.   52 Dave Gretsch, 1986 -88 (22 goals, 8 assists)  
-6.  51 Brian Gaschler, 1988 -90 (21 goals, 9 assists)  
+5.   52 Dave Gretsch, 1986 -88 (22 goals, 8 assists)  /n6.  51 Brian Gaschler, 1988 -90 (21 goals, 9 assists)  
 7.  49 Rodrigo Gomes, 2003 -04 (20 goals, 9 assists)  
  
 Goals  Scored  
@@ -201,8 +198,7 @@ Saves
 1. 499 Martin Griffin, 1993 -96 
 2. 362 Joe Krivit, 2013 -16 
 3. 295 Keanan Leahy, 1996 -99 
-4. 286 Hunter Lanton, 2018 -21 
-5.  283 Tom Murphy, 1999 -2002  
+4. 286 Hunter Lanton, 2018 -21 /n5.  283 Tom Murphy, 1999 -2002  
 6.    235 Mark Hengerer, 1990 -91 
 7.    217 Matt Wolin, 2002 -05 
 8.    194 Dan Dreyfus, 1983 -86 
@@ -252,8 +248,7 @@ Assists   Total  Points
 7. 24 2005   
 8. 23 2007   
  23 2018  
-10. 22 2013  
-  
+10. 22 2013  /n  
 Saves   Shots  Faced   
 1. 164 2000  1. 347 2017  
 2. 161 1996  2. 333 2000  
@@ -303,8 +298,7 @@ Year  Coach  MWC Record  Overall  MWC Finish
 2007  Blake Johnson  4-4-1 7-9-1 5th 
 2006  Blake Johnson  5-3-1 9-6-1 5th  
 2005  Blake Johnson  7-2-0 9-7-1 2nd, Lost in MWC title game  
-2004  Blake Johnson  5-2-2 7-7-3 4th Qualified for MWC Tourney  
-2003  Blake Johnson  5-3-1 9-6-2 4th Qualified for MWC Tourney  
+2004  Blake Johnson  5-2-2 7-7-3 4th Qualified for MWC Tourney  /n2003  Blake Johnson  5-3-1 9-6-2 4th Qualified for MWC Tourney  
 2002  Blake Johnson  2-7-0 3-11-2 8th 
 2001  Blake Johnson  3-5-1 5-10-1 8th 
 2000  Blake Johnson  0-9-0 1-15-0 10th  
@@ -361,8 +355,7 @@ Mitch Stone  1997 -99 8-16-0 (.333)  11-37-0 (.229)
  
 Blake Johnson * 2000 -16 64-69-16 (.483) 98-153-26 (.401) 
  
-Lisa Sammons ** 2016  0-0-0 (.000)  1-1-0 (.500)  
- 
+Lisa Sammons ** 2016  0-0-0 (.000)  1-1-0 (.500)  /n 
 Will Greer  2016 -present  14-43-11 (.287) 31-85-18 (.299) 
  
 TOTALS  48 seasons  133-212-31 (.395) 265-418-54 (.396) 
@@ -414,8 +407,7 @@ ALL -MIDWEST CONFERENCE SELECTIONS
  Dominic Pasquesi, D  Second team  
 2015  Mike Deremo, M   Second team  
 2014  Cameron Pieper, F  Second team  
- Stephen Salansky, M  Second team  
-2013  Mike Deremo, F   Second team  
+ Stephen Salansky, M  Second team  /n2013  Mike Deremo, F   Second team  
  Stephen Salansky, D  Second team  
 2012  Stephen Salansky, D  First team  
 2011  Charlie Mann, D   Second team  
@@ -465,8 +457,7 @@ ALL -MIDWEST CONFERENCE SELECTIONS
 1992  Jon Lindberg, D   First team  
  Henrik Ahlander   Honorable mention  
 1991  Jon Lindberg, D   Honorable mention  
- Greg Beyer   Honorable mention  
- Jon Powell   Honorable mention  
+ Greg Beyer   Honorable mention  /n Jon Powell   Honorable mention  
 1990  Matt Anderson, D  First team  
 1989  Jay Roberts, D   First team  
  Doug Benton, M   First team  
@@ -494,4 +485,4 @@ ALL -MIDWEST CONFERENCE SELECTIONS
 1983  Dan Browdie, F   First team  
 1982  None  
  
-Note: from 1982  through 1996 teams were selected from the North and South Divisions  
+Note: from 1982  through 1996 teams were selected from the North and South Divisions  /n

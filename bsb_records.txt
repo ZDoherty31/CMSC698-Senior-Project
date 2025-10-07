@@ -56,8 +56,7 @@ Games Played
   
 At-Bats  
 1. 601 – Taylor Freeman, 2022 -25 
-2. 587 – Edan Perez, 2022 -25 
-3. 541 – Jacob Charon, 2019 -24 
+2. 587 – Edan Perez, 2022 -25 /n3. 541 – Jacob Charon, 2019 -24 
 4. 519 – Zach Leslie, 2021 -25 
 5. 514 – Matthew Holliday, 2015 -18 
 6. 495 – Travis Weber, 2015 -18 
@@ -116,8 +115,7 @@ Doubles
 6. 35 – Parker Knoll, 2022 -24 
  35 – Andrew Wong, 2003 -06 
  32 – Zach Leslie, 2021 -25 
-9. 30 – Phil Wisniewski, 2010 -13 
-10. 29 – Craig Cook, 1989 -92 
+9. 30 – Phil Wisniewski, 2010 -13 /n10. 29 – Craig Cook, 1989 -92 
 11. 28 – Robert Rashid, 2008 -11 
 12. 27 – Jake Gordon, 2012 -15 
  27 – Brad Hauser, 2004 -07 
@@ -176,8 +174,7 @@ Runs Batted In
 12. 78 – Bill Simon, 1977 -80 
 13. 74 – Andrew Lauber, 2016 -19 
 14. 73 – Brad Hauser, 2004 -07 
- 73 – Shawn Koerner, 1986 -89 
- 
+ 73 – Shawn Koerner, 1986 -89 /n 
 Walks  
 1. 93 – Nolan Spencer, 2016 -19 
 2. 88 – Jacob Charon, 2019 -24 
@@ -236,8 +233,7 @@ Strikeouts  (Least per AB/Minimum 150 ABs)
 8. 1/11.13 – Korey Krueger, 1992 -95 (23 SO/256 AB)  
 9. 1/11.11 – Chris LeFever, 1989 -93 (18 SO/200 AB)  
 10. 1/10.93 – Bill Simon, 1977 -80 (29 SO/317 AB)  
- 
-Sacrifices  (Hits and Flies)  
+ /nSacrifices  (Hits and Flies)  
 1. 21 – Gabe Henriques, 2010 -13 
 2. 19 – Andrew Lauber, 2016 -19 
  19 – Dave Rothschild, 1970 -73 
@@ -296,8 +292,7 @@ CAREER PITCHING RECORDS
  
 Earned  Run Average  (Min. 2 yrs/40 innings/career completed)  
 1. 2.65 – Quinn Berglin, 2021 -24 (53 ER/180.0 IP)  
-2. 3.52 – Chris Olsen, 1966 -68 (45 ER/115.0 IP)  
-3. 3.64 – Steve Bernsten, 1964 -66 (49 ER/121.0 IP)  
+2. 3.52 – Chris Olsen, 1966 -68 (45 ER/115.0 IP)  /n3. 3.64 – Steve Bernsten, 1964 -66 (49 ER/121.0 IP)  
 4. 3.67 – Aaron Sorenson, 2003 -04 (47 ER/115.1 IP)  
 5. 3.81 – Bob Mueller, 1962 -64 (33 ER/78.0 IP)  
 6. 3.97 – Dave Hill, 1976 -78 (55 ER/124.2 IP)  
@@ -356,8 +351,7 @@ Appearances
 9. 43 – Andrew Wilt, 2008 -11 
 10. 41 – Peter Murchie, 1988 -91 
  41 – Rich Faust, 1976 -79 
-12. 40 – Brad Snelson, 1985 -88  
-13. 38 – Tony Caputa, 2017 -20 
+12. 40 – Brad Snelson, 1985 -88  /n13. 38 – Tony Caputa, 2017 -20 
  38 – John Bill, 1976 -79 
  38 – Zach Rabideau, 2015 -18 
   
@@ -416,8 +410,7 @@ No-Hit Games
  1 – Dave Hill, 1976 -78 (1978)  
  1 – Steve Ehren, 1971 -74 (1974)  
  1 – Dan Toycen, 1970 -73 (1970)  
- 1 – Gary Larson, 1959 -61 (1960)   
- 1 – Justin Anthony, 2000 -03 (vs. Beloit 4/26/2001) Beloit 2 LU 1  
+ 1 – Gary Larson, 1959 -61 (1960)   /n 1 – Justin Anthony, 2000 -03 (vs. Beloit 4/26/2001) Beloit 2 LU 1  
  
 2-Hit Games  
 1. 3 – Bart Isaacson, 1988 -91 (1988, '89, '91) LU 2, MSOE 0; LU 7, Beloit 1; LU 2, SNC 1  
@@ -476,8 +469,7 @@ Fewest  Walks/ Per 9 Inning s Pitched  (Min.  2 years/40 innings/career  complet
 1. 1.67 – Lou Clark, 1995 -98 (27 BB/145.2 IP)  
 2. 1.72 – Aaron Sorenson, 2003 -04 (22 BB/115.1 IP)  
 3. 2.33 – Chris Clouthier, 2004 -07 (39 BB/150.1 IP)  
-4. 2.41 – Ken Howell, 1971 -73 (21 BB/78.1 IP)  
-5. 2.64 – Chad Waller, 1998 -2000 (29 BB/99 IP)  
+4. 2.41 – Ken Howell, 1971 -73 (21 BB/78.1 IP)  /n5. 2.64 – Chad Waller, 1998 -2000 (29 BB/99 IP)  
 6. 2.68 – Luke Kostreva, 2007 -10 (32 BB/107.1 IP)  
 7. 2.82 – Chris Olsen, 1966 -68 (36 BB/115.0 IP)  
 8. 3.25 – John Bill, 1976 -79 (85 BB/235.2 IP)  
@@ -536,8 +528,7 @@ Batting  Ave.
  
 At-Bats  
 1. 168 – Parker Knoll, 2024  
-2. 166 – Taylor Freeman, 2024  
-3. 165 – Edan Perez, 2024  
+2. 166 – Taylor Freeman, 2024  /n3. 165 – Edan Perez, 2024  
 4. 164 – Parker Knoll, 2022  
 5. 157 – Shane Santaga, 2025  
  157 – Jeff Cambra, 2022  
@@ -596,8 +587,7 @@ Triples
  
 Home  Runs  
 1. 20 – Jacob Charon, 2022  
-2. 16 – Parker Knoll, 2024  
-3. 15 – Taylor Freeman, 2024  
+2. 16 – Parker Knoll, 2024  /n3. 15 – Taylor Freeman, 2024  
 4. 14 – Taylor Freeman, 2025  
  14 – Edan Perez, 2024  
  14 – Jacob Charon, 2024  
@@ -656,8 +646,7 @@ Walks
 7. 24 – Taylor Freeman, 2023  
  24 – Zach Leslie, 2022  
  24 – Nolan Spencer, 2018  
- 24 – Davide Harris, 2013  
- 24 – Robert Rashid, 2009  
+ 24 – Davide Harris, 2013  /n 24 – Robert Rashid, 2009  
  24 – Paul Scaffidi, 1977  
  
 Strikeouts  (Total No.)  
@@ -716,8 +705,7 @@ Appearances
 3. 18 – Nick Guzzo, 2021  
  18 – Philip Clark, 2012  
 5. 17 – Nick Guzzo, 2019  
-6. 16 – Shane Foley, 2025  
- 16 – Brandon Brust, 2024  
+6. 16 – Shane Foley, 2025  /n 16 – Brandon Brust, 2024  
  16 – Andrew Wilt, 2010  
 9. 15 – Jordan Schaefer, 2023  
  15 – Nick Guzzo, 2018  
@@ -776,8 +764,7 @@ Fewest  Hits Allowed  Per Innings  Pitched  (Min.  20 IP)
  .63 – Rich Camps, 1987 (34 H/53.2 IP)  
 4. .64 – Quinn Berglin, 2023 (27 H/41.2 IP)  
 5. .66 – Elden Santana, 2024 (37 H/56.1 IP)  
-6. .69 – Dan Toycen, 1970 (25 H/36.0 IP)  
-7. .70 – Bill Greer, 1973 (26 H/37.1 IP)  
+6. .69 – Dan Toycen, 1970 (25 H/36.0 IP)  /n7. .70 – Bill Greer, 1973 (26 H/37.1 IP)  
  .70 – Bill Greer, 1972 (17 H/24.1 IP)  
 9. .72 – Quinn Berglin, 2024 (48 H/66.2 IP)  
 10. .73 – Preston Anderson, 2021 (16 H/22.0 IP)  
@@ -836,8 +823,7 @@ No Hit Games
 1. 1 – Jon Tittle, 1968  
  1 – Chris Olsen, 1967  
  1 – Bob Mueller, 1963  
-  
-Shutouts  
+  /nShutouts  
 1. 3 – Aaron Sorenson, 2004  
 2. 2 – Quinn Berglin, 2022  
  2 – Michael Duttlinger, 2022  
@@ -878,8 +864,7 @@ Shutouts
  3 – John Bill, 1979  
 3. 2 – John Bill, 1978  
  2 – Bill Greer, 1973  
-5. 1 – By Many (Last: Kevin Kangas/Alex Fritsch vs. UW -La Crosse, 4/13/07 ) 
- 
+5. 1 – By Many (Last: Kevin Kangas/Alex Fritsch vs. UW -La Crosse, 4/13/07 ) /n 
 GAME RECORDS  
 Runs Scored  
 1. 6 – Sam Kossow vs. Carroll, 4/16/14  
@@ -938,8 +923,7 @@ Triples
  2 – Robert Rashid vs. D’Youville, 3/20/11  
            2 – Billy Bodle vs. Grove City, 3/21/05  
  
-Home Runs  
-1.  3 – Taylor Freeman vs. Olivet, 3/2/24  
+Home Runs  /n1.  3 – Taylor Freeman vs. Olivet, 3/2/24  
  3 – Edan Perez vs. Grinnell, 4/2/23  
  3 – Kevin Fitzsimmons vs. Ripon, 4/6/06  
  3 – Elliot Stith , 1994  
@@ -998,8 +982,7 @@ Stolen Bases
  3 – Tim O’Toole vs. Beloit, 4/7/07  
  3 – Tim O’Toole vs. Grove City, 3/21/05  
  3 – Dave Willie , 1981  
- 3 – Steve Licata vs. Lane, 1972  
- 
+ 3 – Steve Licata vs. Lane, 1972  /n 
 Strikeouts (by LU pitchers)  
 1. 13 – Michael Duttlinger vs. Knox, 3/22/21  
  13 – Kevin Kangas vs. Endicott, 3/23/07  
@@ -1058,8 +1041,7 @@ Winning Pct.
  
 At Bats       
 1. 1449 – 2024  
-2. 1348 – 2022  
-3. 1312 – 2025  
+2. 1348 – 2022  /n3. 1312 – 2025  
 4. 1245 – 2023  
 5. 1230 – 2018  
 6. 1208 – 2015  
@@ -1118,8 +1100,7 @@ Slugging  Percentage
  
 Runs  Batted  In 
 1. 376 – 2024  
-2. 290 – 2022  
-3. 257 – 2023  
+2. 290 – 2022  /n3. 257 – 2023  
 4. 232 – 2025  
 5. 219 – 2006  
 6. 211 – 2018  
@@ -1178,8 +1159,7 @@ Sacrifices  (SH & SF)
 1. 43 – 2025  
 2. 42 – 2023  
 3. 41 – 2024  
-    41 – 2000   
-5. 39 – 2012  
+    41 – 2000   /n5. 39 – 2012  
 6. 33 – 2022  
 7. 31 – 2010  
 8. 30 – 2021  
@@ -1238,8 +1218,7 @@ Saves
 2. 9 – 2022  
 3. 8 – 2025  
 4. 6 – 2018  
-    6 – 2015  
-    6 – 2012  
+    6 – 2015  /n    6 – 2012  
 7. 5 – 1979  
 8. 4 – 2023  
     4 – 2009  
@@ -1298,8 +1277,7 @@ Most  Strikeouts/Innings  Pitched
 5. .887 – 1968 (55 SO/62.0 IP)   
 6. .858 – 2021 (229 SO/267.0 IP)  
 7. .836 – 1986 (115 SO/137.2 IP)  
- 
-Fewest  Walks/Innings  Pitched  
+ /nFewest  Walks/Innings  Pitched  
 1. .367 – 1965 (29 BB/79.0 IP)  
 2. .378 – 1996 (72 BB/190.1 IP)  
 3. .388 – 2009 (98 BB/252.1 IP)  
@@ -1358,8 +1336,7 @@ Fielding Percentage
 7. .947 – 2007  
 8. .946 – 1991  
 9. .943 – 1994  
-    .943 – 1976  
- 
+    .943 – 1976  /n 
 Winning Streak  
 1. 12 – 2024  
 2. 7 – 2024  
@@ -1418,8 +1395,7 @@ Runs Batted In
     23 vs. D’Youville, 3/20/11  
 6. 20 vs. Olivet, 3/2/24  
     20 vs. Illinois College, 4/10/22  
-8. 19 vs. SUNY -Cobleskill, 3/21/22  
-9. 18 vs. Carroll, 4/24/04  
+8. 19 vs. SUNY -Cobleskill, 3/21/22  /n9. 18 vs. Carroll, 4/24/04  
     18 vs. Beloit, 4/28/01  
  
 Doubles  
@@ -1478,8 +1454,7 @@ Homers
     4 vs. Carthage, 5/4/23  
     4 vs. Grinnell, 4/2/22  
     4 vs. Carroll, 4/16/14  
-    4 vs. Carroll, 5/5/07  
-    4 vs. Ripon, 4/6/06  
+    4 vs. Carroll, 5/5/07  /n    4 vs. Ripon, 4/6/06  
     4 vs. St. Norbert, 4/27/03  
     4 vs. St. Norbert, 5/5/01  
  
@@ -1538,8 +1513,7 @@ Strikeouts (by LU pitchers)
     13 vs. University of Chicago, 4/13/24  
     13 vs. Simpson, 3/16/24  
     13 vs. Otterbein, 2/26/23  
-    13 vs. D’Youville, 3/20/11  
-    13 vs. Endicott, 3/23/07  
+    13 vs. D’Youville, 3/20/11  /n    13 vs. Endicott, 3/23/07  
     13 vs. St. Norbert, 4/6/05  
  
  
@@ -1598,8 +1572,7 @@ ALL -MIDWEST CONFERENCE SELECTIONS
  2nd – Jordan Clark SS, Frank Forseth Util.  
 2008  1st – Tim Salm C; 2nd – Tommy Schmidt 1B  
 2007  1st – Brad Hauser OF, Tim O’Toole OF, Ben Webster DH, Kevin Kangas P  
- 2nd – Tommy Schmidt 1B, Hawk Haiduke 2B, Chris Clouthier P  
-2006  1st – Kevin Fitzsimmons 1B, Andrew Wong 3B, Brad Hauser OF, Bryan Rosen OF, Bi lly Bodle OF, Tommy Schmidt DH  
+ 2nd – Tommy Schmidt 1B, Hawk Haiduke 2B, Chris Clouthier P  /n2006  1st – Kevin Fitzsimmons 1B, Andrew Wong 3B, Brad Hauser OF, Bryan Rosen OF, Bi lly Bodle OF, Tommy Schmidt DH  
  2nd – Jordan Clark SS, Alex Fritsch P, B.J. Chase P  
 2005  1st – Doug Coe C, Tim O’Toole 2B,  Andrew Wong SS, Josh Richie P  
  2nd – Chris Clouthier P, Tom Ritzer P  
@@ -1658,14 +1631,12 @@ ALL -MIDWEST CONFERENCE SELECTIONS
 1966  1st – Steve Bernsten P  
 1965  1st – Steve Bernsten P  
 1964  1st – Steve Bernsten P; HM – Dennis Walsh C, Bob Dude OF  
-1963  1st – Bob Dude OF  
- HM – Bob Mueller P, Dennis Walsh C, Dave Robinson 1B, Tim Knabe 3B  
+1963  1st – Bob Dude OF  /n HM – Bob Mueller P, Dennis Walsh C, Dave Robinson 1B, Tim Knabe 3B  
 1962  1st – Steve Gilboy OF, Pete Thomas OF  
 1961  
 1960  
 1959  
-1958  
- 
+1958  /n 
  LAWRENCE  YEAR -BY-YEAR  BASEBALL  RECORDS  RECAP  
  
  
@@ -1702,8 +1673,7 @@ Year  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winn
 1971  Bob Mueller  Jack Thurnblad  1-6  7-5  5-3  8-11  .421  2nd 
  
 1972 * Bob Mueller  Dave Arakawa   3-3  8-6  4-2  11-9  .550  1st 
- 
-Year  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winning  Place  in 
+ /nYear  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winning  Place  in 
       Record  Record  Conf.   Record  Pct.  Conference  
 1973  Bob Mueller  Dave Rothschold  0-7  8-11  3-1  8-18  .308  4th 
  
@@ -1740,8 +1710,7 @@ Year  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winn
 1984  Jeff School  John Huber,   0-4  9-8  4-2  9-12  .429  2nd (lost to  
    Clark Stalker,             Illinois C.  
    Terry Coenen             in playoffs  
- 
-      Spring   Northern  Midwest  Overall  Winning  Place in  
+ /n      Spring   Northern  Midwest  Overall  Winning  Place in  
 Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
  
  
@@ -1778,8 +1747,7 @@ Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Confer
 1994  Jeff School  Josh Szablewski,  2-3-1  9-13  4-12  11-16-1 .411  5th in North  
    Doug Briles,  
    Korey Krueger   
- 
-      Spring   Northern  Midwest  Overall  Winning  Place in  
+ /n      Spring   Northern  Midwest  Overall  Winning  Place in  
 Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
  
 1995  Jeff School  Korey Krueger  0-6  8-12  6-10  8-18  .308  5th in North  
@@ -1816,8 +1784,7 @@ Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Confer
    Jeremy Tollefson  
  
  
-      Spring   Northern  Midwest  Overall  Winning  Place in  
-Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
+      Spring   Northern  Midwest  Overall  Winning  Place in  /nYear  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
  
 2004  Korey Krueger  Chris Stievo   6-6  9-13  6-10  15-19  .441  Third in North  
    Matt Papke  
@@ -1854,13 +1821,11 @@ Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Confer
 2024  Chris Krepline     8-6  23-5  20-3  31-11  .738  First  
 2025  Trent Whitcomb    6-8  15-11  14-7  21-19  .525  First 
  
-*tied with St. Olaf, but coaches picked St. Olaf to represent the Midwest Conference even though Lawrence had beaten St. Olaf  10-4 in their only 
-meeting during the season.  
+*tied with St. Olaf, but coaches picked St. Olaf to represent the Midwest Conference even though Lawrence had beaten St. Olaf  10-4 in their only /nmeeting during the season.  
 #Lawrence lost to Coe in the MWC playoff s but was awarded the title due to a Coe rules infraction during the season.  
 ^The remainder of the 2020 season was canceled due to the Coronavirus pandemic.  
 $Starting with the 2022 season, the Midwest Conference abandoned divisional play in favor of a three -game series with each team in the league. 
-Lawrence won the regular season and won the Midwest Conference Tournament.  
- 
+Lawrence won the regular season and won the Midwest Conference Tournament.  /n 
  
  LAWRENCE  UNIVERSITY  ALL -TIME  BASEBALL  COACHING  SUMMARY  
  
@@ -1897,10 +1862,9 @@ TOTALS   1958 -present  127-312-8 512-730-3 310-522-2 649-1050-11 .383
 NCAA DIVISION III REGIONAL APPEARANCES  
  
 1977 at UW -Oshkosh    St. Olaf   8 Lawrence   1  
-    Coe   6 Lawrence   0  
- 
+    Coe   6 Lawrence   0  /n 
 1979 at UW -Oshkosh   Cal State -Stanislaus  13 Lawrence   1  
     St. Olaf   11 Lawrence   6 
  
 2022 at UW -Stevens Point  Stevens Point   11 Lawrence     6 
-    Coe   6 Lawrence     1    
+    Coe   6 Lawrence     1    /n

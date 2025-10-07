@@ -1,5 +1,5 @@
 Lawrence University Football Records  
-(through the 2024 season)  
+(through the 202 4 season)  
 GAME RECORDS  
 Rushing  
 Attempts   
@@ -38,8 +38,7 @@ Touchdowns
  
 Passing   
 Attempts   
-65 Bill McNamara vs. Coe  1986  
-54 R.J. Rosenthal vs. Macalester  2001  
+65 Bill McNamara vs. Coe  1986  /n54 R.J. Rosenthal vs. Macalester  2001  
 52 Luke Barthelmess vs. Illinois College  2011  
 50 Luke Barthelmess vs. Grinnell  2013  
 50 Luke Barthelmess vs. Knox  2012  
@@ -76,8 +75,7 @@ Yards Gained
 349  Aidan Williams vs. Ripon  2023  
 341  D’Andre  Weaver vs. Finlandia  2021  
 341  Nick Maxam vs. St. Norbert  2008  
- 
-Touchdowns   
+ /nTouchdowns   
 6  Luke Barthelmess vs. Knox  2011   
 5  Aidan Williams vs. Knox  2024  
 5  Luke Barthelmess vs. Illinois College  2011  
@@ -114,8 +112,7 @@ Touchdown Receptions
 4  Tyler Mazur vs. Knox  2011   
 4  Zach Michael vs. St. Norbert  2003  
 3  18 times Last: Alex Lippert vs. Knox  202 4 
- 
-Total Offense   
+ /nTotal Offense   
 Plays   
 73 Luke Barthelmess vs. Illinois  College  2011   
 73 Bill McNamara vs. Coe  1986   
@@ -152,8 +149,7 @@ Touchdowns
 4  Brad Olson vs. Lake Forest  1995  
 4  Dave Mulford vs. Knox  1957  
 4  Al Zupek vs. Knox   1942  
- 
-Field Goals   
+ /nField Goals   
 4  Bryan Althouse vs. Illinois College  2005   
 3  Kraig Krueger vs. Knox  1980  
 3  Jeff Reitz vs. Beloit, Chicago, Knox  1975  
@@ -190,8 +186,7 @@ PAT Attempts
 8  Pat O’Mahoney vs. Maranatha  2014  
 8  Cody Robel vs. Knox   2011  
 8  Dirk Schroer vs. Eureka  1995  
-8  Kraig Krueger vs. Knox  1981  
-8  Jeff Reitz vs. several teams  
+8  Kraig Krueger vs. Knox  1981  /n8  Jeff Reitz vs. several teams  
  
 Punting   
 Total Number Punts   
@@ -228,8 +223,7 @@ Interception Return
 95 Kurt Henrickson vs. Beloit  1977  
 88 Merlyn Trumbower vs. Ripon  1953  
 70 Tom Richardson vs. Knox  1970  
- 
-Pass Breakups  
+ /nPass Breakups  
 6  Ryan Zutter vs. Knox   2002  
 4  Jahlan Paul vs. UChicago  2024  
 4  Sheldon Garmon vs. Carleton  2018  
@@ -266,8 +260,7 @@ Kickoff Return
  
 Punt Return   
 95  Merlin “Smiley” Feind vs. Albion  1932   
-93  Hugh Dellios vs. Knox  1980  
-89 Henry Rutz vs. Monmouth  1963  
+93  Hugh Dellios vs. Knox  1980  /n89 Henry Rutz vs. Monmouth  1963  
  
 Tackles  
 28 Jeff Divjak  vs. St. Norbert  9/25/99  
@@ -310,8 +303,7 @@ Attempts
 300   Scott Reppert  1981   
 288   Justin Berrens  2002  
 279   Justin Berrens  2003  
-272   Lance Alwin  1970  
-267   Bruce Barkwill  1979  
+272   Lance Alwin  1970  /n267   Bruce Barkwill  1979  
 254   Scott Reppert  1982  
 242   Brad Olson  1995  
 230   Jeff Kinziger  1995  
@@ -348,8 +340,7 @@ Average Gain/Game
 149.1  Scott Reppert  1981  
 147.7  Justin Berrens  2003  
 133.8  Lance Alwin  1970  
-125.3  Bruce Barkwill  1979  
- 
+125.3  Bruce Barkwill  1979  /n 
 Touchdowns   
 16  Brad Olson  1997  
 16  Brad Olson  1995  
@@ -386,8 +377,7 @@ Fewest Interceptions
  
 Most Interceptions   
 24  R.J. Rosenthal  2001  
-23  Ron Roberts Jr.  1983  
-20  Jim Petran  1978  
+23  Ron Roberts Jr.  1983  /n20  Jim Petran  1978  
  
 Highest Completion Percentage  
 75.0   Bruce Bigford  1952  
@@ -424,8 +414,7 @@ Average Gain/Game
 233.6  Jim Petran  1978  
 229.2  Luke Barthelmess  2012  
 222.8  Aidan Williams  2023  
-213.3  Luke Barthelmess  2013  
-212.4  Bill McNamara  1986  
+213.3  Luke Barthelmess  2013  /n212.4  Bill McNamara  1986  
  
 Touchdown Passes   
 23  D’Andre Weaver  2021  
@@ -462,8 +451,7 @@ Average Gain/Catch (min. 2/game)
 21.9   Michael Stone  1998  
 20.4   Sam McCreedy  1973  
 20.2   Chris Guenther  1994  
-19.8   Dave Crowell  1966  
- 
+19.8   Dave Crowell  1966  /n 
 Average Gain/Game   
 134.3  Stacy Seidl  1999  
 120.7  Zach Michael  2001  
@@ -500,8 +488,7 @@ Yardage
 2,123  Bill McNamara  1986  
 2,096  Aidan Williams  2023  
  
-Average Gain/Play  
-9.5  Stacy Seidl  1998  
+Average Gain/Play  /n9.5  Stacy Seidl  1998  
 6.6  Jeff Kinziger  1994  
 6.2  Chuck McKee  1967  
 6.1  Ken Meyer  1976  
@@ -538,8 +525,7 @@ Points Scored -Kicking
 67  Gregg Jacobs  1979  
  
 Kicking  
-Field Goals  
-15  Jeff Reitz  1975  
+Field Goals  /n15  Jeff Reitz  1975  
 11  Gregg Jacobs  1979  
  
 Field Goal Attempts  
@@ -576,8 +562,7 @@ Total Number
  
 Best Average (min. 1/game)  
 44.5   Nate Nelson  2009  
-42.8   Ed Grosse  1953  
-42.4   Ken Alvord  2006   
+42.8   Ed Grosse  1953  /n42.4   Ken Alvord  2006   
 41.1   Bill Schreiner  1985  
  
 Punt Returns  
@@ -614,8 +599,7 @@ Total Number Returns
 29  Ty Molitor  1997  
 28  Cameron Wicks  2021  
 25  Jacques Hacquebord  2001  
-24  Brion  Winters  1998  
-24  Ty Molitor  1999  
+24  Brion  Winters  1998  /n24  Ty Molitor  1999  
  
 Return Yards  
 784   Sheldon Watson  2022  
@@ -652,8 +636,7 @@ Yards Returned
  
 Average Return (min. 5)  
 27.4   Eli Wallace  1988  
-25.0   Ken Zwolinski  1970  
-23.5   Terrell Myers  2021  
+25.0   Ken Zwolinski  1970  /n23.5   Terrell Myers  2021  
 21.6   Kurt Henrickson  1977  
  
 TD on Interception   
@@ -690,8 +673,7 @@ Tackles for Loss
 Sacks  
 10.5   Chris Lindfelt  1985  
 10.5   Dan Galante  1985  
-10.0   Chris Lindfelt  1986  
- 
+10.0   Chris Lindfelt  1986  /n 
 Opponent Fumbles Recovered  
 6  Eric Karnosky  1989  
 6  Joe Berghuis  1973  
@@ -728,8 +710,7 @@ Yards Gained
 2,477  Craig Ebert   2005 –08  
 2,271  Greg Curtis   1983 –86  
 2,162  Bruce Barkwill   1976 –79   
-2,161  Lance Alwin   1967 –70  
-1,852  Jeff Kinziger   1992 –95  
+2,161  Lance Alwin   1967 –70  /n1,852  Jeff Kinziger   1992 –95  
 1,819  Luke Barthelmess   2010 –13   
 1,783  Bob Montgomery   1972 –75 
    
@@ -766,8 +747,7 @@ Touchdowns
  
 Passing  
 Attempts   
-1,181  Luke Barthelmess    2010 –13   
-844  Jim Petran     1976 –79 
+1,181  Luke Barthelmess    2010 –13   /n844  Jim Petran     1976 –79 
 825  Eric Aspenson     2003 -05, 2007  
 762  Bill McNamara     1985 -87 
 729  R.J. Rosenthal     2000 -02 
@@ -804,8 +784,7 @@ Highest Completion Percentage  (Career completed)
 51.2  Nick Maxam     2006 -09 
 50.6  D’Andre Weaver    2017 -21 
 50.5  Tyler Mazur     2010 -12 
- 
-Passing Yards   
+ /nPassing Yards   
 8,190  Luke Barthelmess   2010 –13  
 5,431  Jim Petran   1976 –79   
 4,941  Eric Aspenson   2003 –05, 2007   
@@ -842,8 +821,7 @@ Average Gain/Completion   (Career completed/ min. 50 completions)
 12.6  Luke Barthelmess    2010 -13 
  
 Average Gain/Game  (Career completed)  
-215.5  Luke Barthelmess    2010 –13  
-169.7  Jim Petran     1976 –79 
+215.5  Luke Barthelmess    2010 –13  /n169.7  Jim Petran     1976 –79 
 158.3  Bill McNamara     1985 -87 
 152.7  R.J. Rosenthal     2000 -02 
 137.5  Ken Meyer     1973 -76 
@@ -880,8 +858,7 @@ Receptions
 Receiving Yards   
 3,842  Zach Michael   2000 –03 
 2,394   Paul Gebhardt   1976 –78   
-2,373   Chris Guenther   1991, 1993 –95    
-2,253  Tyler Mazur   2010 –12  
+2,373   Chris Guenther   1991, 1993 –95    /n2,253  Tyler Mazur   2010 –12  
 2,190  Stacy Seidl   1996 –99   
 2,061   Pat Schwanke   1979 –82   
 1,987  Ed Lamm     1990 –93 
@@ -918,8 +895,7 @@ Total Number Plays
 1,124  Eric Aspenson     2003 –05, 2007  
 1,051  Jim Petran     1976 -79 
 904  Nick Maxam     2006 -09 
-895  Bill McNamara     1985 -87 
-885  D’Andre Weaver    2017 -21 
+895  Bill McNamara     1985 -87 /n885  D’Andre Weaver    2017 -21 
 839  Ken Meyer     1973 -76 
 798  Aidan Williams     2022 -present  
 769  Chuck McKee     1965 -67 
@@ -956,8 +932,7 @@ Total Points
 276  Brad Olson     1994 –97  
 270  Scott Reppert     1979 –82 
 250  Zach Michael   2000 –03  
-227  Jeff Reitz   1974 –77  
-224  Tyler Mazur   2010 –12 
+227  Jeff Reitz   1974 –77  /n224  Tyler Mazur   2010 –12 
 194  Chuck McKee   1965 –67 
 183  Kraig Krueger   1980 –83 
 182  Pat Schwanke   1979 –82 
@@ -994,8 +969,7 @@ Field Goal Conversion Percentage
 60.7  Jeff Reitz     1974 -77 
 58.0  Kraig Krueger     1980 -83 
  
-PAT Conversions   
-116  Jeff Reitz     1974 –77  
+PAT Conversions   /n116  Jeff Reitz     1974 –77  
 96 Kraig Krueger     1980 –83 
 76 Cody Robel     2009 -12 
 76 Gregg Jacobs     1978 -79 
@@ -1032,8 +1006,7 @@ Total Number Punts
 123  Gary Smith     1981 -84 
 121  Steve Ehren     1971 -73 
 115  Dan Rothbauer     2014 -17 
- 
-Best Average ( Career completed/ min. 1  per game)   
+ /nBest Average ( Career completed/ min. 1  per game)   
 42.4  Ken Alvord     2003 –06  
 42.0  Ed Grosse     1952 –53 
 39.3  Chris Sp ielman     1970  
@@ -1071,8 +1044,7 @@ Kickoff Returns
 Total Number Returns   
 85 Adrell Bullock     2003 –06  
 82 Ty Molitor     1997 –2000  
-70 Sam Wagner     2010 -13 
-48 Alic Riedel     2014 -17 
+70 Sam Wagner     2010 -13 /n48 Alic Riedel     2014 -17 
 43 Steve Dobbe     1983 -86 
 42 Trevor Spina     2013 -17 
  
@@ -1109,8 +1081,7 @@ Total Number
 15 Shawn McIntire    1981 -83 
 12 Kurt Henrickson    1976 -79 
 11 Tyler Krzewina     2003 -06 
-11 Steve Jung     1986 -89 
-11 Bill Briesemeister    1985 -88 
+11 Steve Jung     1986 -89 /n11 Bill Briesemeister    1985 -88 
 11 Bob Sell     1982 -85 
 11 Dave Rothschild    1971 -72 
  
@@ -1147,8 +1118,7 @@ Pass Breakups
 Tackles  
 586  Chris Lindfelt     1984 -86, 1988   
 407  Damian LaCroix    1987 –90 
-403  Mike Batt   1990 –93  
-371  Dan Galante   1983 –86  
+403  Mike Batt   1990 –93  /n371  Dan Galante   1983 –86  
 341  Joel Northey   1993 –96  
 340  Rob Geck   1995 –98  
 316  Clint Weninger   1987 –90   
@@ -1185,8 +1155,7 @@ Tackles For Loss
  
 Opponent Fumbles Recovered   
 10 Eric Karnosky     1988 -91  
-7  Andy Paider     2010 –13 
-7  Sean Stokes     1982 –85 
+7  Andy Paider     2010 –13 /n7  Sean Stokes     1982 –85 
 7  Bill Markwardt     1973 –75 
  
 Kicks Blocked   
@@ -1223,8 +1192,7 @@ First Downs   37 vs. Maranatha Baptist  2014
 Field Goals   4 vs. Illinois College   2005  
 Interceptions   7 vs. Knox    1990  
  
-TEAM SEASON RECORDS  
-Total Points   344  1977   
+TEAM SEASON RECORDS  /nTotal Points   344  1977   
 Touchdowns   46 1977   
 Fewest TDs Allowed   1 1922  
 Field Goals   15 1975   
@@ -1261,8 +1229,7 @@ Touchdowns   3 1982, 1970, 1963
 Punting  
 Number   72 2000   
 Average   42.8  1953   
- 
-Fewest Fumbles Lost   2 2023  
+ /nFewest Fumbles Lost   2 2023  
  
 TEAM SEASON DEFENSIVE RECORDS  
 Fewest Points Allowed   10 1922  
@@ -1299,8 +1266,7 @@ Fewest Touchdowns   0 By Many  (Last 2018)
 Punting  
 Most Punts Forced   76 1975  
 Worst Average   26.5  1991  
- 
-Most Fumbles Recovered  23 1973, 1970  
+ /nMost Fumbles Recovered  23 1973, 1970  
 Total Turnovers  Forced   49 1981  
  
 Longest Winning Streak   18 1980 –81 
@@ -1337,8 +1303,7 @@ Ikey Karel  1896  3 2 1 .600
 Eddie Kotal  1930  3 5 0 .375  
 Arthur Jolliffe  1897  3  5 0 .375  
 Tony Aker  2021 -present  3 36 0 .077 
-Chris Harris  2014  2 7 0 .222  
-D.H. Walker  1893  1 1 1 .500  
+Chris Harris  2014  2 7 0 .222  /nD.H. Walker  1893  1 1 1 .500  
 TOTALS  128 507 519 29 .494 
    Note —No team was fielded in 1917 because of World War I , and the 2020 season was canceled due to 
 the COVID pandemic.  
@@ -1362,4 +1327,4 @@ Rich Agness (1)
 Midwest Conference 1986  
  
 Clarence Rasmussen (1)   
-Midwest Conference 1929  
+Midwest Conference 1929  /n

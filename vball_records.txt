@@ -1,5 +1,5 @@
 Lawrence University Volleyball Records  
-(Through 2024 season)  
+(Through 20 24 season)  
  
 Match Records  
 Attack  
@@ -49,8 +49,7 @@ No. Player vs. Opponent    Year
 58 Katie Smith vs. Northland Baptist   10/2/04  
  
 Service  
-Service Aces  
-No. Player  vs. Opponent    Year  
+Service Aces  /nNo. Player  vs. Opponent    Year  
 12 Shannon Arendt vs. Coe    2001  
 10 Alicia Onisawa vs. Mount Mary   10/2/04  
 10 Katie Smith vs. Knox    11/5/04  
@@ -103,8 +102,7 @@ No. Player  vs. Opponent    Year
  
 Season Records  
 Attack  
-Kills  
-No. Player     Year  
+Kills  /nNo. Player     Year  
 553 Lis Pollock    2001  
 512 Lis Pollock    2002  
 448 Shannon Arendt    2003  
@@ -158,8 +156,7 @@ No.  Player     Year
  
 Assists Per Set  
 Avg.  Player     Year  
-11.97  Bridget Griesbach   2001  
-10.45  Georgia Seals    2002  
+11.97  Bridget Griesbach   2001  /n10.45  Georgia Seals    2002  
 10.34  Georgia Seals    2003  
 10.20  Jenny Batog    1999  
 9.85 Leah Anderson    1998  
@@ -212,8 +209,7 @@ No.  Player     Year
  
 Digs Per Set  
 Avg.    Player    Year  
-6.10 (769/126)  Jenny Burris   2003  
-5.55 (627/113)  Kathleen Rowland  2011  
+6.10 (769/126)  Jenny Burris   2003  /n5.55 (627/113)  Kathleen Rowland  2011  
 5.52 (475/86)   Kathleen Rowland  2012  
 5.41 (552/102)  Kathleen Rowland  2013  
 5.28 (438/83)   Cyra Bammer   2016  
@@ -266,8 +262,7 @@ No.  Player     Years
 686 Heidi Konkel    1993 -95 
 676 Emily Stengl    2002 -05 
 652 Jenny Burris    2000 -03 
-639 Terese Swords    2012 -15 
-602 Lisa Hess    1996 -98 
+639 Terese Swords    2012 -15 /n602 Lisa Hess    1996 -98 
 566 Sophia Galassini    2018 -21 
 560 Arianna Cohen    2014 -17 
 556 Tiffany Orcholski    2003 -06 
@@ -321,8 +316,7 @@ No.  Player     Years
 1740  Katie Smith    2003 -06 
 1580  Sydney Nelson    2014 -17 
 1513  Lauren Ray    2014 -17 
-1388  Bridget Griesbach   2001  
-1238  Jenny Batog    1997 -99  
+1388  Bridget Griesbach   2001  /n1238  Jenny Batog    1997 -99  
 1190  Laura Aerts    2008 -09 
 1151  Cora Linos    2023 -24 
  
@@ -375,8 +369,7 @@ No.  Player     Years
 1395  Arianna Neumeyer   2015 -18 
 1213  Emily Stengl    2002 -05 
 1177  Katie Kumbalek    2015 -18 
-1141  Stephanie Kliethermes   2004 -06 
-1134  Sam Nimmer    2008 -11 
+1141  Stephanie Kliethermes   2004 -06 /n1134  Sam Nimmer    2008 -11 
 1081  Kelly Mulcahy    2004 -07 
 1080  Janae Magnuson    1996 -99 
 997 Emma Kane    2009 -12 
@@ -429,8 +422,7 @@ Ave.  Blocks/GP  Player     Years
 0.628  191/304   Laura Trumm    1996 -99 
 0.628  118/188   Colleen Nowlan    2014 -17 
 0.626  211/337   Megan Conley    2012 -15 
- 
-Team Records  
+ /nTeam Records  
 Match Records  
 Attack  
 Kills By LU  
@@ -481,8 +473,7 @@ No.  vs. Opponent    Year
 21 Aurora     9/10/04  
 19 Knox     11/5/04  
 18 Maranatha Baptist   10/24/24  
-18 Mount Mary    9/8/23  
-18 Marian     9/7/11  
+18 Mount Mary    9/8/23  /n18 Marian     9/7/11  
 17 Maranatha Baptist   9/7/24  
 17 Eureka     9/3/21  
 17 Monmouth    10/7/16  
@@ -534,8 +525,7 @@ Avg.    Year
 Hitting Percentage  
 Pct.   Year  
 .283   2001  
-.269   2002  
-.247   1994  
+.269   2002  /n.247   1994  
 .209   1995  
 .208   1998  
 .202   2005  
@@ -587,8 +577,7 @@ Avg.    Year
  
 Blocks Per Set  
 Avg.    Year  
-2.75   1996  
-2.29   2006  
+2.75   1996  /n2.29   2006  
 2.23   1993  
 2.20   1998  
 2.09   1995  
@@ -642,8 +631,7 @@ Year  Coach    Overall   Conference  Place in MWC Tournament
 1984  Fran Kasten   2 16 0 5 Third place  
 1983  Fran Kasten   3 17 2 4 Third place  
 1982  Fran Kasten   3 13 0 8 Fifth place  
-1981  Fran Kasten   2 11 1 7 Fifth place  
-1980  Fran Kasten   2 13 2 6 Fourth place  
+1981  Fran Kasten   2 11 1 7 Fifth place  /n1980  Fran Kasten   2 13 2 6 Fourth place  
 1979  Joyce Fisher  
 1978  Joyce Fisher  
  
@@ -697,8 +685,7 @@ All-Midwest Conference Selections
  Bridget Griesbach, S   Second team  
 2000  Jenny Burris, OH    First team  
  Kayte Hansen, MH   Second team  
- Lis Pollock, MH    Second team  
-1999  Kayte Hansen, MH   First team  
+ Lis Pollock, MH    Second team  /n1999  Kayte Hansen, MH   First team  
  Jenny Batog, S    Second team  
 1998  Mel Knott, OH    First team  
  Lisa Hess, OH    Second team  
@@ -722,4 +709,4 @@ All-Midwest Conference Selections
 1984  None  
 1983  None  
    Note: Teams were split into North Division and South Division from 1984 -2000.  
- 
+ /n
