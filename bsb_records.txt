@@ -3,518 +3,527 @@
  
 CAREER BATTING RECORDS  
 Batting Ave. (Min. 200 AB/Career Completed)  
-1. .415 – Doug Coe, 2004 -05 (83 H/200 AB)  
-2. .407 – Parker Knoll, 2022 -24 (196 H/482 AB)  
-3. .384 – Jacob Charon, 2019 -24 (208H/541 AB)  
-4. .377 – Matthew Holliday, 2015 -18 (194 H/514 AB)  
-5. .376 – Edan Perez, 2022 -25 (221 H/587 AB)  
-6. .374 – Bill Simon, 1977 -80 (120 H/321 AB)  
-7. .371 – Korey Krueger, 1992 -95 (95 H/256 AB)  
-8. .369 – Bill Briesemeister, 1986 -89 (100 H/271 AB)  
-9. .355 – Tommy Schmidt, 2005 -08 (93 H/262 AB)  
-10. .353 – Bart Ott, 1983 -85 (67 H/190 AB)  
- .353 – Graham Satherlie, 1980 -82 (67 H/190 AB)  
-12. .352 – Jason Richards, 1993 -96 (105 H/298 AB)  
- .352 – Doug Briles, 1993 -94 (56 H/159 AB)  
- .352 – Dan Busiel, 1981 -84 (64 H/182 AB)  
-15. .349 – Taylor Freeman, 2022 -25 (210 H/601 AB)  
-16. .348 – Craig Cook, 1989 -92 (77 H/221 AB)  
-17. .346 – Kevin Fitzsimmons, 2003 -06 (128 H/370 AB)  
-18. .345 – Jordan Clark, 2006, 2009 (83 H/238 AB)  
- .345 – Andrew Wong, 2003 -06 (154 H/447 AB)  
- .345 – Jason Shanda, 1999 -2002 (133 H/386 AB)  
+1. .415 – Doug Coe, 2004-05 (83 H/200 AB)  
+2. .407 – Parker Knoll, 2022-24 (196 H/482 AB)  
+3. .384 – Jacob Charon, 2019-24 (208H/541 AB)  
+4. .377 – Matthew Holliday, 2015-18 (194 H/514 AB)  
+5. .376 – Edan Perez, 2022-25 (221 H/587 AB)  
+6. .374 – Bill Simon, 1977-80 (120 H/321 AB)  
+7. .371 – Korey Krueger, 1992-95 (95 H/256 AB)  
+8. .369 – Bill Briesemeister, 1986-89 (100 H/271 AB)  
+9. .355 – Tommy Schmidt, 2005-08 (93 H/262 AB)  
+10. .353 – Bart Ott, 1983-85 (67 H/190 AB)  
+10. .353 – Graham Satherlie, 1980-82 (67 H/190 AB)  
+12. .352 – Jason Richards, 1993-96 (105 H/298 AB)  
+12. .352 – Doug Briles, 1993-94 (56 H/159 AB)  
+12. .352 – Dan Busiel, 1981-84 (64 H/182 AB)  
+13. .349 – Taylor Freeman, 2022-25 (210 H/601 AB)  
+14. .348 – Craig Cook, 1989-92 (77 H/221 AB)  
+15. .346 – Kevin Fitzsimmons, 2003-06 (128 H/370 AB)  
+16. .345 – Jordan Clark, 2006-09 (83 H/238 AB)  
+16. .345 – Andrew Wong, 2003-06 (154 H/447 AB)  
+16. .345 – Jason Shanda, 1999-02 (133 H/386 AB)  
  
 Slugging Ave. (Min. 150 Plate Appearances /Career Completed)  
-1. .736 – Jacob Charon, 2019 -24 (398 TB/541  AB)  
-2. .683 – Parker Knoll, 2022 -24 (329 TB/482AB)  
-3. .670 – Edan Perez, 2022 -25 (388 TB/587 AB)  
-4. .646 – Taylor Freeman, 2022 -25 (388 TB/60 1 AB) 
-5. .620 – Bill Briesemeister, 1986 -89 (168 TB/271 AB)  
-6. .615 – Doug Coe, 2004 -05 (123 TB/200 AB)  
-7. .612 – Paul Gebhardt, 1977 -78 (101 TB/165 AB)  
-8. .577 – Dan Busiel, 1981 -84 (105 TB/182 AB)  
-9. .553 – Graham Satherlie, 1980 -82 (105 TB/190 AB)  
-10. .550 – Andrew Wong, 2003 -06 (246 TB/447 AB)  
-11. .545 – Bill Simon, 1977 -80 (174 TB/317 AB)  
-12. .542 – Bart Ott, 1983 -85 (103 TB/190 AB)  
-13. .534 – Craig Cook, 1989 -92 (118 TB/221 AB)  
-14. .532 – Kevin Fitzsimmons, 2003 -06 (197 TB/370 AB)  
-15. .531 – Tommy Schmidt, 2005 -08 (139 TB/262 AB)  
-16.  .527 – Jason Richards, 1993 -96 (157 TB/298 AB)  
+1. .736 – Jacob Charon, 2019-24 (398 TB/541  AB)  
+2. .683 – Parker Knoll, 2022-24 (329 TB/482AB)  
+3. .670 – Edan Perez, 2022-25 (388 TB/587 AB)  
+4. .646 – Taylor Freeman, 2022-25 (388 TB/60 1 AB) 
+5. .620 – Bill Briesemeister, 1986-89 (168 TB/271 AB)  
+6. .615 – Doug Coe, 2004-05 (123 TB/200 AB)  
+7. .612 – Paul Gebhardt, 1977-78 (101 TB/165 AB)  
+8. .577 – Dan Busiel, 1981-84 (105 TB/182 AB)  
+9. .553 – Graham Satherlie, 1980-82 (105 TB/190 AB)  
+10. .550 – Andrew Wong, 2003-06 (246 TB/447 AB)  
+11. .545 – Bill Simon, 1977-80 (174 TB/317 AB)  
+12. .542 – Bart Ott, 1983-85 (103 TB/190 AB)  
+13. .534 – Craig Cook, 1989-92 (118 TB/221 AB)  
+14. .532 – Kevin Fitzsimmons, 2003-06 (197 TB/370 AB)  
+15. .531 – Tommy Schmidt, 2005-08 (139 TB/262 AB)  
+16.  .527 – Jason Richards, 1993-96 (157 TB/298 AB)  
  
 Games Played  
-1. 160 – Jacob Charon, 2019 -24 
-2. 158 – Zach Leslie, 2021 -25 
-3. 156 – Edan Perez, 2022 -25 
- 156 – Taylor Freeman, 2022 -25 
-5. 140 – Travis Weber, 2015 -18 
-6. 135 – Davide Harris, 2010 -13 
-7. 133 – Matthew Holliday, 2015 -18 
- 133 – Jake Gordon, 2012 -15 
- 133 – Brad Hauser, 2004 -07 
-10. 131 – Phil Wisniewski, 2010 -13 
+1. 160 – Jacob Charon, 2019-24 
+2. 158 – Zach Leslie, 2021-25 
+3. 156 – Edan Perez, 2022-25 
+3. 156 – Taylor Freeman, 2022-25 
+4. 140 – Travis Weber, 2015-18 
+5. 135 – Davide Harris, 2010-13 
+6. 133 – Matthew Holliday, 2015-18 
+6. 133 – Jake Gordon, 2012-15 
+6. 133 – Brad Hauser, 2004-07 
+7. 131 – Phil Wisniewski, 2010-13 
   
 At-Bats  
-1. 601 – Taylor Freeman, 2022 -25 
-2. 587 – Edan Perez, 2022 -25 /n3. 541 – Jacob Charon, 2019 -24 
-4. 519 – Zach Leslie, 2021 -25 
-5. 514 – Matthew Holliday, 2015 -18 
-6. 495 – Travis Weber, 2015 -18 
-7. 482 – Parker Knoll, 2022 -24 
-8. 459 – Jake Gordon, 2012 -15 
-9. 451 – Nolan Spencer, 2016 -19 
- 451 – Jeremy Tollefson, 2000 -03 
-11. 450 – Gabe Henriques, 2010 -13 
-12. 447 – Andrew Wong, 2003 -06 
-13. 441 – Davide Harris, 2010 -13 
-14. 429 – Phil Wisniewski, 2010 -13 
-15. 417 – Robert Rashid, 2008 -11 
- 417 – Brad Hauser, 2004 -07 
+1. 601 – Taylor Freeman, 2022-25 
+2. 587 – Edan Perez, 2022-25 
+3. 541 – Jacob Charon, 2019-24 
+4. 519 – Zach Leslie, 2021-25 
+5. 514 – Matthew Holliday, 2015-18 
+6. 495 – Travis Weber, 2015-18 
+7. 482 – Parker Knoll, 2022-24 
+8. 459 – Jake Gordon, 2012-15 
+9. 451 – Nolan Spencer, 2016-19 
+9. 451 – Jeremy Tollefson, 2000-03 
+10. 450 – Gabe Henriques, 2010-13 
+11. 447 – Andrew Wong, 2003-06 
+12. 441 – Davide Harris, 2010-13 
+13. 429 – Phil Wisniewski, 2010-13 
+14. 417 – Robert Rashid, 2008-11 
+14. 417 – Brad Hauser, 2004-07 
     
 Runs Scored  
-1. 177 – Taylor Freeman, 2022 -25 
-2. 170 – Parker Knoll, 2022 -24 
-3. 161 – Jacob Charon, 2019 -24 
-4. 144 – Edan Perez, 2022 -25 
-5. 114 – Nolan Spencer, 2016 -19 
-6. 95 – Matthew Holliday, 2015 -18 
- 95 – Dave Willie, 1978 -81 
-8.  107 – Zach Leslie, 2021 -25 
-9. 92 – Travis Weber, 2015 -18 
- 92 – Jake Gordon, 2012 -15 
-11. 91 – Andrew Wong, 2003 -06 
-12.  90 – Brad Hauser, 2004 -07 
-13.  89 – Davide Harris, 2010 -13 
-14. 88 – Gabe Henriques, 2010 -13 
-15. 83 – Robert Rashid, 2008 -11 
- 83 – Jason Richards, 1993 -96 
+1. 177 – Taylor Freeman, 2022-25 
+2. 170 – Parker Knoll, 2022-24 
+3. 161 – Jacob Charon, 2019-24 
+4. 144 – Edan Perez, 2022-25 
+5. 114 – Nolan Spencer, 2016-19 
+6. 95 – Matthew Holliday, 2015-18 
+6. 95 – Dave Willie, 1978-81 
+7. 107 – Zach Leslie, 2021-25 
+8. 92 – Travis Weber, 2015-18 
+8. 92 – Jake Gordon, 2012-15 
+9. 91 – Andrew Wong, 2003-06 
+10. 90 – Brad Hauser, 2004-07 
+11. 89 – Davide Harris, 2010-13 
+12. 88 – Gabe Henriques, 2010-13 
+13. 83 – Robert Rashid, 2008-11 
+13. 83 – Jason Richards, 1993-96 
  
 Hits 
-1.  221 – Edan Perez, 2022 -25 
-2. 210 – Taylor Freeman, 2022 -25 
-3. 208 – Jacob Charon, 2019 -24 
-4.  196 – Parker Knoll, 2022 -24 
-5. 194 – Matthew Holliday, 2015 -18 
-6. 155 – Jake Gordon, 2012 -15 
-7. 154 – Andrew Wong, 2003 -06 
-8. 150 – Travis Weber, 2015 -18 
-9. 148 – Nolan Spencer, 2016 -19 
-10. 145 – Jeremy Tollefson, 2000 -03 
-11. 142 – Gabe Henriques, 2010 -13 
-  142 – Robert Rashid, 2008 -11 
- 142 – Brad Hauser, 2004 -07 
-14. 173 – Zach Leslie, 2021 -25 
- 137 – Davide Harris, 2010 -13 
+1.  221 – Edan Perez, 2022-25 
+2. 210 – Taylor Freeman, 2022-25 
+3. 208 – Jacob Charon, 2019-24 
+4.  196 – Parker Knoll, 2022-24 
+5. 194 – Matthew Holliday, 2015-18 
+6. 155 – Jake Gordon, 2012-15 
+7. 154 – Andrew Wong, 2003-06 
+8. 150 – Travis Weber, 2015-18 
+9. 148 – Nolan Spencer, 2016-19 
+10. 145 – Jeremy Tollefson, 2000-03 
+11. 142 – Gabe Henriques, 2010-13 
+11. 142 – Robert Rashid, 2008-11 
+11. 142 – Brad Hauser, 2004-07 
+12. 137 – Zach Leslie, 2021-25 
+12. 137 – Davide Harris, 2010-13 
   
 Doubles  
-1. 51 – Taylor Freeman, 2022 -25 
-2. 48 – Matt hew Holliday, 2015 -18 
-3. 46 – Edan Perez, 2022 -25 
-4. 39 – Jacob Charon, 2019 -24 
-5. 36 – Travis Weber, 2015 -18 
-6. 35 – Parker Knoll, 2022 -24 
- 35 – Andrew Wong, 2003 -06 
- 32 – Zach Leslie, 2021 -25 
-9. 30 – Phil Wisniewski, 2010 -13 /n10. 29 – Craig Cook, 1989 -92 
-11. 28 – Robert Rashid, 2008 -11 
-12. 27 – Jake Gordon, 2012 -15 
- 27 – Brad Hauser, 2004 -07 
-14. 26 – Billy Bodle, 2004 -07 
-15. 24 – Jeremy Tollefson, 2000 -03 
+1. 51 – Taylor Freeman, 2022-25 
+2. 48 – Matthew Holliday, 2015-18 
+3. 46 – Edan Perez, 2022-25 
+4. 39 – Jacob Charon, 2019-24 
+5. 36 – Travis Weber, 2015-18 
+6. 35 – Parker Knoll, 2022-24 
+6. 35 – Andrew Wong, 2003-06 
+7. 32 – Zach Leslie, 2021-25 
+8. 30 – Phil Wisniewski, 2010-13
+9. 29 – Craig Cook, 1989-92 
+10. 28 – Robert Rashid, 2008-11 
+11. 27 – Jake Gordon, 2012-15 
+11. 27 – Brad Hauser, 2004-07 
+12. 26 – Billy Bodle, 2004-07 
+13. 24 – Jeremy Tollefson, 2000-03 
  
 Triples  
-1. 12 – Dave Willie, 1978 -81 
-2. 10 – Travis Weber, 2015 -18 
-3. 9 – Edan Perez, 2022 -25 
- 9 – Andrew Wong, 2003 -06 
-5. 8 – Jacob Charon, 2019 -24 
- 8 – Jake Gordon, 2012 -15 
-7. 7 – Parker Knoll, 2022 -24 
- 7 – Robert Rashid, 2008 -11 
- 7 – Billy Bodle, 2004 -07 
- 7 – Jason Richards, 1993 -96 
- 7 – Paul Gebhardt, 1977 -78  
- 7 – Steve Blomberg, 1971 -72 
-13. 6 – Gabe Henriques, 2010 -13 
- 6 – Jeremy Tollefson, 2000 -03 
- 6 – Elliot Stith, 1993 -96 
+1. 12 – Dave Willie, 1978-81 
+2. 10 – Travis Weber, 2015-18 
+3. 9 – Edan Perez, 2022-25 
+3. 9 – Andrew Wong, 2003-06 
+4. 8 – Jacob Charon, 2019-24 
+4. 8 – Jake Gordon, 2012-15 
+5. 7 – Parker Knoll, 2022-24 
+5. 7 – Robert Rashid, 2008-11 
+5. 7 – Billy Bodle, 2004-07 
+5. 7 – Jason Richards, 1993-96 
+5. 7 – Paul Gebhardt, 1977-78  
+5. 7 – Steve Blomberg, 1971-72 
+6. 6 – Gabe Henriques, 2010-13 
+6. 6 – Jeremy Tollefson, 2000-03 
+6. 6 – Elliot Stith, 1993-96 
  
 Home Runs  
-1. 45 – Jacob Charon, 2019 -24 
-2. 41 – Taylor Freeman, 2022 -25 
-3. 36 – Edan Perez, 2022 -25 
-4.  28 – Parker Knoll, 2022 -24 
-5. 16 – Kevin Fitzsimmons, 2003 -06 
-6. 15 – Zach Leslie, 2021 -25 
-7. 14 – Bill Briesemeister, 1986 -89 
-8. 13 – Patrick McDonnell, 2017 -20 
- 13 – Andrew Wong, 2003 -06 
- 13 – Jim Petran, 1977 -80 
-11. 12 – Jeremy Tollefson, 2000 -03 
- 12 – Steve Blomberg, 1971 -72 
-13. 11 – Bill Simon, 1977 -80 
-14. 10 – Quinn Berglin, 2021 -24 
- 10 – Tommy Schmidt, 2005 -08 
- 10 – Chris McGinley, 1999 -2000, 2002 -03 
- 10 – Dan Busiel, 1981 -84 
- 10 – Brian Fenhaus, 1978 -81 
+1. 45 – Jacob Charon, 2019-24 
+2. 41 – Taylor Freeman, 2022-25 
+3. 36 – Edan Perez, 2022-25 
+4. 28 – Parker Knoll, 2022-24 
+5. 16 – Kevin Fitzsimmons, 2003-06 
+6. 15 – Zach Leslie, 2021-25 
+7. 14 – Bill Briesemeister, 1986-89 
+8. 13 – Patrick McDonnell, 2017-20 
+8. 13 – Andrew Wong, 2003-06 
+8. 13 – Jim Petran, 1977-80 
+9. 12 – Jeremy Tollefson, 2000-03 
+9. 12 – Steve Blomberg, 1971-72 
+10. 11 – Bill Simon, 1977-80 
+11. 10 – Quinn Berglin, 2021-24 
+11. 10 – Tommy Schmidt, 2005-08 
+11. 10 – Chris McGinley, 1999-2000, 2002-03 
+11. 10 – Dan Busiel, 1981-84 
+11. 10 – Brian Fenhaus, 1978-81 
  
 Runs Batted In  
-1. 195 – Jacob Charon, 2019 -24 
-2. 163 – Taylor Freeman, 2022 -25 
-3. 157 – Edan Perez, 2022 -25 
-4. 136 – Zach Leslie, 2021 -25 
-5. 115 – Parker Knoll, 2022 -24 
-6. 113 – Matt Holliday, 2015 -18 
-7. 100 – Andrew Wong, 2003 -06 
-8. 99 – Kevin Fitzsimmons, 2003 -06 
-9. 89 – Travis Weber, 2015 -18 
-10. 80 – Bill Briesemeister, 1986 -89 
-11. 79 – Jeremy Tollefson, 2000 -03 
-12. 78 – Bill Simon, 1977 -80 
-13. 74 – Andrew Lauber, 2016 -19 
-14. 73 – Brad Hauser, 2004 -07 
- 73 – Shawn Koerner, 1986 -89 /n 
+1. 195 – Jacob Charon, 2019-24 
+2. 163 – Taylor Freeman, 2022-25 
+3. 157 – Edan Perez, 2022-25 
+4. 136 – Zach Leslie, 2021-25 
+5. 115 – Parker Knoll, 2022-24 
+6. 113 – Matt Holliday, 2015-18 
+7. 100 – Andrew Wong, 2003-06 
+8. 99 – Kevin Fitzsimmons, 2003-06 
+9. 89 – Travis Weber, 2015-18 
+10. 80 – Bill Briesemeister, 1986-89 
+11. 79 – Jeremy Tollefson, 2000-03 
+12. 78 – Bill Simon, 1977-80 
+13. 74 – Andrew Lauber, 2016-19 
+14. 73 – Brad Hauser, 2004-07 
+14. 73 – Shawn Koerner, 1986-89
+
 Walks  
-1. 93 – Nolan Spencer, 2016 -19 
-2. 88 – Jacob Charon, 2019 -24 
-3. 85 – Taylor Freeman, 2022 -25  
-4. 79 – Paul Scaffidi, 1975 -78 
-5. 76 – Zach Leslie, 2021 -25 
- 76 – Robert Rashid, 2008 -11 
-7. 70 – Davide Harris, 2010 -13 
-8.  66 – Craig Cook, 1989 -92 
-9. 63 – Geoff Grieve, 1975 -78 
-10. 59 – Parker Knoll, 2022 -24 
- 59 – Jason Shanda, 1999 -2002  
-12. 58 – Spenser Ross, 2019 -22 
-13. 57 – Chad Waller, 1998 -2000  
-14. 55 – Gabe Henriques, 2010 -13 
- 55 – Jason Richards, 1993 -96 
- 72 – Edan Perez, 2022 -25 
+1. 93 – Nolan Spencer, 2016-19 
+2. 88 – Jacob Charon, 2019-24 
+3. 85 – Taylor Freeman, 2022-25  
+4. 79 – Paul Scaffidi, 1975-78 
+5. 76 – Zach Leslie, 2021-25 
+5. 76 – Robert Rashid, 2008-11 
+6. 72 – Edan Perez, 2022-25
+7. 70 – Davide Harris, 2010-13 
+8. 66 – Craig Cook, 1989-92 
+9. 63 – Geoff Grieve, 1975-78 
+10. 59 – Parker Knoll, 2022-24 
+10. 59 – Jason Shanda, 1999-2002  
+11. 58 – Spenser Ross, 2019-22 
+12. 57 – Chad Waller, 1998-2000  
+13. 55 – Gabe Henriques, 2010-13 
+13. 55 – Jason Richards, 1993-96 
+ 
  
 Hit-By-Pitch  
-1. 54 – Zach Leslie, 2021 -25 
-2.  34 – Brandon Klar, 2014 -17 
-3. 31 – Nolan Spencer, 2016 -19 
-4. 29 – Edan Perez, 2022 -25 
-5. 27 – Brad Hauser, 2004 -07 
-6. 24 – Luke Miles, 2021 -24 
- 24 – Spenser Ross, 2019 -22 
- 24 – Tim Salm, 2005 -08 
-9. 21 – Jacob Charon, 2019 -24 
-10. 19 – Parker Knoll, 2022 -24 
- 19 – Robert Rashid, 2008 -11 
- 19 – Pat Kennedy, 1999 -2001  
-13. 17 – Doug Coe, 2004 -05 
-14. 16 – Hawk Haiduke, 2006 -09 
-15. 15 – Ryan Zutter, 2000 -03 
+1. 54 – Zach Leslie, 2021-25 
+2. 34 – Brandon Klar, 2014-17 
+3. 31 – Nolan Spencer, 2016-19 
+4. 29 – Edan Perez, 2022-25 
+5. 27 – Brad Hauser, 2004-07 
+6. 24 – Luke Miles, 2021-24 
+6. 24 – Spenser Ross, 2019-22 
+6. 24 – Tim Salm, 2005-08 
+7. 21 – Jacob Charon, 2019-24 
+8. 19 – Parker Knoll, 2022-24 
+8. 19 – Robert Rashid, 2008-11 
+8. 19 – Pat Kennedy, 1999-2001  
+9. 17 – Doug Coe, 2004-05 
+10. 16 – Hawk Haiduke, 2006-09 
+11. 15 – Ryan Zutter, 2000-03 
  
 Strikeouts (Total No.)  
-1. 143 – Jacob Charon, 2019 -24 
- 143 – Taylor Freeman, 2022 -25 
-3. 98 – Edan Perez, 2022 -25 
-4. 92 – Parker Knoll, 2022 -24 
-5. 86 – Brad Hauser, 2004 -07 
-6. 84 – Travis Weber, 2015 -18 
- 84 – Sam Kossow, 2011 -14 
- 84 – Chris McGinley, 1999 -2000, 2002 -03 
-9. 81 – Patrick McDonnell, 2017 -20 
-10. 80 – Andrew Lauber, 2016 -19 
+1. 143 – Jacob Charon, 2019-24 
+1. 143 – Taylor Freeman, 2022-25 
+2. 98 – Edan Perez, 2022-25 
+3. 92 – Parker Knoll, 2022-24 
+4. 86 – Brad Hauser, 2004-07 
+5. 84 – Travis Weber, 2015-18 
+5. 84 – Sam Kossow, 2011-14 
+5. 84 – Chris McGinley, 1999-2000, 2002-03 
+6. 81 – Patrick McDonnell, 2017-20 
+7. 80 – Andrew Lauber, 2016-19 
      
 Strikeouts  (Least per AB/Minimum 150 ABs)  
-1. 1/16.72 – Geoff Grieve, 1975 -78 (18 SO/301 AB)  
-2. 1/15.00 – Erik Johnson, 1993 -96 (16 SO/240 AB)  
-3. 1/14.30 – Blane Lewis, 1973 -76 (23 SO/329 AB)  
-4. 1/14.15 – Shawn Koerner, 1986 -89 (20 SO/283 AB)  
-5. 1/13.53 – Matthew Holliday, 2015 -18 (38 SO/514 AB)  
-6. 1/13.33 – Doug Coe, 2004 -05 (15 SO/200 AB)  
-7. 1/11.35 – Doug Briles, 1993 -94 (14 SO/159 AB)  
-8. 1/11.13 – Korey Krueger, 1992 -95 (23 SO/256 AB)  
-9. 1/11.11 – Chris LeFever, 1989 -93 (18 SO/200 AB)  
-10. 1/10.93 – Bill Simon, 1977 -80 (29 SO/317 AB)  
- /nSacrifices  (Hits and Flies)  
-1. 21 – Gabe Henriques, 2010 -13 
-2. 19 – Andrew Lauber, 2016 -19 
- 19 – Dave Rothschild, 1970 -73 
-4. 18 – Zach Leslie, 2021 -25 
- 18 – Matt Smith, 1999 -2002  
-6. 17 – Hawk Haiduke, 2007 -10 
- 17 – Graham Satherlie, 1980 -82 
-8. 16 – Mike Ladevich, 1977 -80 
-9. 15 – Edan Perez, 2022 -25 
- 15 – Luke Miles, 2021 -24 
+1. 1/16.72 – Geoff Grieve, 1975-78 (18 SO/301 AB)  
+2. 1/15.00 – Erik Johnson, 1993-96 (16 SO/240 AB)  
+3. 1/14.30 – Blane Lewis, 1973-76 (23 SO/329 AB)  
+4. 1/14.15 – Shawn Koerner, 1986-89 (20 SO/283 AB)  
+5. 1/13.53 – Matthew Holliday, 2015-18 (38 SO/514 AB)  
+6. 1/13.33 – Doug Coe, 2004-05 (15 SO/200 AB)  
+7. 1/11.35 – Doug Briles, 1993-94 (14 SO/159 AB)  
+8. 1/11.13 – Korey Krueger, 1992-95 (23 SO/256 AB)  
+9. 1/11.11 – Chris LeFever, 1989-93 (18 SO/200 AB)  
+10. 1/10.93 – Bill Simon, 1977-80 (29 SO/317 AB)  
+
+
+Sacrifices  (Hits and Flies)  
+1. 21 – Gabe Henriques, 2010-13 
+2. 19 – Andrew Lauber, 2016-19 
+2. 19 – Dave Rothschild, 1970-73 
+3. 18 – Zach Leslie, 2021-25 
+3. 18 – Matt Smith, 1999-2002  
+4. 17 – Hawk Haiduke, 2007-10 
+4. 17 – Graham Satherlie, 1980-82 
+5. 16 – Mike Ladevich, 1977-80 
+6. 15 – Edan Perez, 2022-25 
+6. 15 – Luke Miles, 2021-24 
  
 Stolen Bases  
-1.  83 – Taylor Freeman, 2022 -25 
-2. 77 – Parker Knoll, 2022 -24 
-3. 76 – Nolan Spencer, 2016 -19 (76 -85) 
-4. 64 – Davide Harris, 2010 -13 (64 -73) 
-5. 59 – Tim O’Toole, 2004 -07 (59 -69) 
-6. 56 – Jason Richards, 1993 -96 
-7. 55 – Dave Willie, 1978 -81 
-8.  53 – Robert Rashid, 2008 -11 
-9. 44 – Dave Rothschild, 1970 -73 
-10. 38 – Jacob Charon, 2019 -24 
-11. 37 – Jake Gordon, 2012 -15 
-12. 34 – Jeremy Tollefson, 2000 -03 
- 34 – Paul Scaffidi, 1975 -78 
-14. 33 – Edan Perez, 2022 -25 
- 33 – Graham Satherlie, 1980 -82 
+1. 83 – Taylor Freeman, 2022-25 
+2. 77 – Parker Knoll, 2022-24 
+3. 76 – Nolan Spencer, 2016-19 (76-85) 
+4. 64 – Davide Harris, 2010-13 (64-73) 
+5. 59 – Tim O’Toole, 2004-07 (59-69) 
+6. 56 – Jason Richards, 1993-96 
+7. 55 – Dave Willie, 1978-81 
+8. 53 – Robert Rashid, 2008-11 
+9. 44 – Dave Rothschild, 1970-73 
+10. 38 – Jacob Charon, 2019-24 
+11. 37 – Jake Gordon, 2012-15 
+12. 34 – Jeremy Tollefson, 2000-03 
+12. 34 – Paul Scaffidi, 1975-78 
+13. 33 – Edan Perez, 2022-25 
+13. 33 – Graham Satherlie, 1980-82 
  
 Hitting Streak  
 1. 20 – Taylor Freeman, 2025  
- 20 – Nolan Spencer, 2016 -17 
-3. 18 – Davide Harris, 2011 -12 
-4.  17 – Parker Knoll, 2023  
- 17 – Brad Hauser, 2006 -07 
-6.  16 – Gabe Henriques, 2012 -13 
- 16 – Jordan Clark, 2009  
-8.  15 – Jacob Charon, 2024  
- 15 – Tim O’Toole, 2007  
-10. 14 – Jacob Charon, 2022  
- 14 – Parker Knoll, 2022  
- 14 – Luke Barthelmess, 2011  
+1. 20 – Nolan Spencer, 2016-17 
+2. 18 – Davide Harris, 2011-12 
+3. 17 – Parker Knoll, 2023  
+3. 17 – Brad Hauser, 2006-07 
+4. 16 – Gabe Henriques, 2012-13 
+4. 16 – Jordan Clark, 2009  
+5. 15 – Jacob Charon, 2024  
+5. 15 – Tim O’Toole, 2007  
+6. 14 – Jacob Charon, 2022  
+6. 14 – Parker Knoll, 2022  
+6. 14 – Luke Barthelmess, 2011  
  
 Errors   
-1.  62 – Jeremy Tollefson, 2000 -03 
-2. 57 – Andrew Wong, 2003 -06 
-3. 51 – Jerry Haeffel, 1994 -97 
-4. 49 – Gabe Henriques, 2010 -13 
-5. 45 – Nolan Spencer, 2016 -19 
- 45 – Elliot Stith, 1993 -96 
-7. 44 – Edan Perez, 2022 -present  
- 44 – Anthony Ortiz, 2015 -18 
-9. 43 – Shawn Koerner, 1986 -89 
-10. 39 – Joel Birch, 2012 -15 
+1. 62 – Jeremy Tollefson, 2000-03 
+2. 57 – Andrew Wong, 2003-06 
+3. 51 – Jerry Haeffel, 1994-97 
+4. 49 – Gabe Henriques, 2010-13 
+5. 45 – Nolan Spencer, 2016-19 
+5. 45 – Elliot Stith, 1993-96 
+6. 44 – Anthony Ortiz, 2015-18 
+7. 43 – Shawn Koerner, 1986-89 
+8. 39 – Joel Birch, 2012-15 
  
 CAREER PITCHING RECORDS  
  
 Earned  Run Average  (Min. 2 yrs/40 innings/career completed)  
-1. 2.65 – Quinn Berglin, 2021 -24 (53 ER/180.0 IP)  
-2. 3.52 – Chris Olsen, 1966 -68 (45 ER/115.0 IP)  /n3. 3.64 – Steve Bernsten, 1964 -66 (49 ER/121.0 IP)  
-4. 3.67 – Aaron Sorenson, 2003 -04 (47 ER/115.1 IP)  
-5. 3.81 – Bob Mueller, 1962 -64 (33 ER/78.0 IP)  
-6. 3.97 – Dave Hill, 1976 -78 (55 ER/124.2 IP)  
-7. 4.04 – Jim Wilkinson, 1974 -77 (61 ER/136.0 IP)  
-8. 4.09 – Korey Krueger, 1992 -95 (66 ER/145.1 IP)  
-8. 4.22 – Larry Nowlin, 1970 -72 (23 ER/49.0 IP)  
-10. 4.32 – John Bill, 1976 -79 (113 ER/235.2 IP)  
-11. 4.37 – Elden Santana, 2021 -25 (98 ER/202.0 IP)  
-12. 4.49 – Clark Stalker, 1981 -84 (86 ER/172.1 IP)  
+1. 2.65 – Quinn Berglin, 2021-24 (53 ER/180.0 IP)  
+2. 3.52 – Chris Olsen, 1966-68 (45 ER/115.0 IP)
+3. 3.64 – Steve Bernsten, 1964 -66 (49 ER/121.0 IP)  
+4. 3.67 – Aaron Sorenson, 2003-04 (47 ER/115.1 IP)  
+5. 3.81 – Bob Mueller, 1962-64 (33 ER/78.0 IP)  
+6. 3.97 – Dave Hill, 1976-78 (55 ER/124.2 IP)  
+7. 4.04 – Jim Wilkinson, 1974-77 (61 ER/136.0 IP)  
+8. 4.09 – Korey Krueger, 1992-95 (66 ER/145.1 IP)  
+8. 4.22 – Larry Nowlin, 1970-72 (23 ER/49.0 IP)  
+10. 4.32 – John Bill, 1976-79 (113 ER/235.2 IP)  
+11. 4.37 – Elden Santana, 2021-25 (98 ER/202.0 IP)  
+12. 4.49 – Clark Stalker, 1981-84 (86 ER/172.1 IP)  
  
 Wins  (Overall  Record)  
-1. 23 – John Bill, 1976 -79 (23 -12) 
-2. 20 – Quinn Berglin, 2021 -24 (20 -4) 
-3. 17 – Elden Santana, 2021 -25 (17 -13) 
-4. 15 – Bart Isaacson, 1988 -91 (15 -14) 
- 15 – Brad Snelson, 1985 -88 (15 -19) 
- 15 – Clark Stalker, 1981 -84 (15 -13) 
-7. 14 – Korey Krueger, 1992 -95 (14 -10) 
-8. 13 – Peter Murchie, 1988 -91 (13 -12) 
-9. 10 – Jim Wilkinson, 1974 -77 (10 -8) 
- 10 – Chris Olsen, 1966 -68 (10 -8) 
- 10 – B.J. Chase, 2003 -06 (10 -14) 
-12. 9 – Aaron Sorenson, 2003 -04 (9 -6)  
- 9 – Mike Fallon, 1980 -82 (9 -8) 
- 9 – Chris Clouthier, 2004 -07 (9 -12) 
- 9 – Michael Duttlinger, 202 -23 (9 -12) 
- 9 – Jon VandenHeuvel, 1982 -85 (9 -12) 
- 9 – Lou Clark, 1995 -98 (9-13)  
- 9 – Josh Szablewski, 1991 -94 (9 -13) 
- 9 – Drew Doares, 2012 -15 (9 -19) 
- 9 – Kyle Duex, 2015 -18 (9 -20) 
+1. 23 – John Bill, 1976-79 (23-12) 
+2. 20 – Quinn Berglin, 2021-24 (20-4) 
+3. 17 – Elden Santana, 2021-25 (17-13) 
+4. 15 – Bart Isaacson, 1988-91 (15-14) 
+4. 15 – Brad Snelson, 1985-88 (15-19) 
+4. 15 – Clark Stalker, 1981-84 (15-13) 
+5. 14 – Korey Krueger, 1992-95 (14-10) 
+6. 13 – Peter Murchie, 1988-91 (13-12) 
+7. 10 – Jim Wilkinson, 1974-77 (10-8) 
+7. 10 – Chris Olsen, 1966-68 (10-8) 
+7. 10 – B.J. Chase, 2003-06 (10-14) 
+8. 9 – Aaron Sorenson, 2003-04 (9-6)  
+8. 9 – Mie Fallon, 1980-82 (9-8) 
+8. 9 – Chris Clouthier, 2004-07 (9-12) 
+8. 9 – Michael Duttlinger, 2022-23 (9-12) 
+8. 9 – Jon VandenHeuvel, 1982-85 (9-12) 
+8. 9 – Lou Clark, 1995-98 (9-13)  
+8. 9 – Josh Szablewski, 1991-94 (9-13) 
+8. 9 – Drew Doares, 2012-15 (9-19) 
+8. 9 – Kyle Duex, 2015-18 (9-20) 
  
 Saves  
-1. 7 – Shane Foley, 2022 -25 
-2. 6 – Richie LaCien, 2022 -25 
- 6 – Joe Krueger, 1988 -91 
-4. 5 – Zach Rabideau, 2015 -18 
- 5 – Jim Petran, 1977 -80 
- 5 – Rich Faust, 1976 -79 
- 5 – Ken Howell, 1971 -73 
-8. 4 – Philip Clark, 2012 -15 
- 4 – Frank Forseth, 2006 -09 
- 4 – Brad Hauser, 2004 -07 
- 4 – Andrew Wong, 2003 -06 
- 4 – Louie Clark, 1995 -97 
+1. 7 – Shane Foley, 2022-25 
+2. 6 – Richie LaCien, 2022-25 
+2. 6 – Joe Krueger, 1988-91 
+3. 5 – Zach Rabideau, 2015-18 
+3. 5 – Jim Petran, 1977-80 
+3. 5 – Rich Faust, 1976-79 
+3. 5 – Ken Howell, 1971-73 
+4. 4 – Philip Clark, 2012-15 
+4. 4 – Frank Forseth, 2006-09 
+4. 4 – Brad Hauser, 2004-07 
+4. 4 – Andrew Wong, 2003-06 
+4. 4 – Louie Clark, 1995-97 
   
 Appearances  
-1. 59 – Philip Clark, 2012 -15 
-2. 53 – Elden Santana, 2021 -25 
-3. 50 – Nick Guzzo, 2018 -21 
-4. 48 – Kelton Jenkins, 2012 -15 
-5. 47 – Shane Foley, 2022 -25 
- 47 – Drew Doares, 2012 -15 
-7. 46 – Kyle Duex, 2015 -18 
-8. 45 – Atley Gay, 2012 -15 
-9. 43 – Andrew Wilt, 2008 -11 
-10. 41 – Peter Murchie, 1988 -91 
- 41 – Rich Faust, 1976 -79 
-12. 40 – Brad Snelson, 1985 -88  /n13. 38 – Tony Caputa, 2017 -20 
- 38 – John Bill, 1976 -79 
- 38 – Zach Rabideau, 2015 -18 
+1. 59 – Philip Clark, 2012-15 
+2. 53 – Elden Santana, 2021-25 
+3. 50 – Nick Guzzo, 2018-21 
+4. 48 – Kelton Jenkins, 2012-15 
+5. 47 – Shane Foley, 2022-25 
+5. 47 – Drew Doares, 2012-15 
+6. 46 – Kyle Duex, 2015-18 
+7. 45 – Atley Gay, 2012-15 
+8. 43 – Andrew Wilt, 2008-11 
+9. 41 – Peter Murchie, 1988-91 
+9. 41 – Rich Faust, 1976-79 
+10. 40 – Brad Snelson, 1985-88  
+11. 38 – Tony Caputa, 2017-20 
+11. 38 – John Bill, 1976-79 
+11. 38 – Zach Rabideau, 2015-18 
   
 Complete  Games  
-1. 25 – John Bill, 1976 -79 
-2. 19 – Clark Stalker, 1981 -84 
-3. 17 – Korey Krueger, 1992 -95 
-4. 16 – Brad Snelson, 1985 -88 
- 16 – Lou Clark, 1995 -98  
-6.     15 – Peter Murchie, 1988 -91 
- 15 – Tim Weber, 1996 -99 
-8. 13 – Josh Szablewski, 1991 -94 
- 13 – Rich Faust, 1976 -79 
-10. 12 – Aaron Sorenson, 2003 -04 
- 12 – Chris Zimmerman, 1993 -96 
- 12 – Bart Isaacson, 1988 -91 
- 12 – Chris Olsen, 1966 -68 
+1. 25 – John Bill, 1976-79 
+2. 19 – Clark Stalker, 1981-84 
+3. 17 – Korey Krueger, 1992-95 
+4. 16 – Brad Snelson, 1985-88 
+4. 16 – Lou Clark, 1995-98  
+5. 15 – Peter Murchie, 1988-91 
+5. 15 – Tim Weber, 1996-99 
+6. 13 – Josh Szablewski, 1991-94 
+6. 13 – Rich Faust, 1976-79 
+7. 12 – Aaron Sorenson, 2003-04 
+7. 12 – Chris Zimmerman, 1993-96 
+7. 12 – Bart Isaacson, 1988-91 
+7. 12 – Chris Olsen, 1966-68 
  
 Shutouts  
-1. 3 – Quinn Berglin, 2021 -24 
- 3 – Aaron Sorenson, 2003 -04 
- 3 – Jim Wilkinson, 1974 -77 
-4. 2 – Michael Duttlinger, 2020 -23 
- 2 – Andrew Doares, 2012 -15 
- 2 – John Bill, 1976 -79 
- 2 – Steve Bernsten, 1964 -66 
- 2 – Tim Weber, 1996 -99 
+1. 3 – Quinn Berglin, 2021-24 
+1. 3 – Aaron Sorenson, 2003-04 
+1. 3 – Jim Wilkinson, 1974-77 
+2. 2 – Michael Duttlinger, 2020-23 
+2. 2 – Andrew Doares, 2012-15 
+2. 2 – John Bill, 1976-79 
+2. 2 – Steve Bernsten, 1964-66 
+2. 2 – Tim Weber, 1996-99 
  
 Innings  Pitched  
-1. 235.2 – John Bill, 1976 -79 
-2. 204.1 – Kyle Duex, 2015 -18 
-3. 204.0 – Brad Snelson, 1985 -88 
-4. 202.0 – Elden Santana, 2021 -25 
-5. 190.0 – Drew Doares, 2012 -15 
-6. 189.0 – Atley Gay, 2012 -15 
-7. 183.2 – B.J. Chase, 2003 -06 
-8. 182.1 – Josh Richie, 2004 -07 
-9. 181.0 – Peter Murchie, 1988 -91 
-10. 180.0 – Quinn Berglin, 2021 -24 
-11. 179.1 – Rich Faust, 1976 -79 
-12. 172.1 – Clark Stalker, 1981 -84 
-13. 170.1 – Bart Isaacson, 1988 -91 
-14. 151.0 – Josh Szablewski, 1991 -94 
-15. 150.1 – Chris Clouthier, 2004 -07 
+1. 235.2 – John Bill, 1976-79 
+2. 204.1 – Kyle Duex, 2015-18 
+3. 204.0 – Brad Snelson, 1985-88 
+4. 202.0 – Elden Santana, 2021-25 
+5. 190.0 – Drew Doares, 2012-15 
+6. 189.0 – Atley Gay, 2012-15 
+7. 183.2 – B.J. Chase, 2003-06 
+8. 182.1 – Josh Richie, 2004-07 
+9. 181.0 – Peter Murchie, 1988-91 
+10. 180.0 – Quinn Berglin, 2021-24 
+11. 179.1 – Rich Faust, 1976-79 
+12. 172.1 – Clark Stalker, 1981-84 
+13. 170.1 – Bart Isaacson, 1988-91 
+14. 151.0 – Josh Szablewski, 1991-94 
+15. 150.1 – Chris Clouthier, 2004-07 
  
 No-Hit Games  
-1. 1 – Jon Tittle, 1968 -70 (vs. Beloit, 5 -0, 4/27/ 68) 
- 1 – Chris Olsen, 1966 -68 (vs. Beloit, 19 -0, 5/13/ 67) 
- 1 – Bob Mueller, 1962 -64 (vs. St. Olaf, 5 -0, 5/11/ 63) 
+1. 1 – Jon Tittle, 1968-70 (vs. Beloit, 5 -0, 4/27/ 68) 
+1. 1 – Chris Olsen, 1966-68 (vs. Beloit, 19 -0, 5/13/ 67) 
+1. 1 – Bob Mueller, 1962-64 (vs. St. Olaf, 5 -0, 5/11/ 63) 
  
 1-Hit Games  
-1. 2 – Steve Bernsten, 1964 -66 (1966)  
-2. 1 – Josh Richie, 2004 -07 (vs. Fredonia St., 3/25/06) Fredonia 2, LU 0  
- 1 – Aaron Sorenson, 2003 -04 (vs. Oberlin, 3/27/04)  
- 1 – Quinn Berglin, 2021 -24 (vs. Illinois College, 4/15/23)  
- 1 – Dave Hill, 1976 -78 (1978)  
- 1 – Steve Ehren, 1971 -74 (1974)  
- 1 – Dan Toycen, 1970 -73 (1970)  
- 1 – Gary Larson, 1959 -61 (1960)   /n 1 – Justin Anthony, 2000 -03 (vs. Beloit 4/26/2001) Beloit 2 LU 1  
+1. 2 – Steve Bernsten, 1964-66 (1966)  
+2. 1 – Josh Richie, 2004-07 (vs. Fredonia St., 3/25/06) Fredonia 2, LU 0  
+2. 1 – Aaron Sorenson, 2003-04 (vs. Oberlin, 3/27/04)  
+2. 1 – Quinn Berglin, 2021-24 (vs. Illinois College, 4/15/23)  
+2. 1 – Dave Hill, 1976-78 (1978)  
+2. 1 – Steve Ehren, 1971-74 (1974)  
+2. 1 – Dan Toycen, 1970-73 (1970)  
+2. 1 – Gary Larson, 1959-61 (1960)
+2. 1 – Justin Anthony, 2000-03 (vs. Beloit 4/26/2001) Beloit 2 LU 1  
  
 2-Hit Games  
-1. 3 – Bart Isaacson, 1988 -91 (1988, '89, '91) LU 2, MSOE 0; LU 7, Beloit 1; LU 2, SNC 1  
-2. 2 – Mike Fallon, 1980 -82 (1982) LFC 2, LU 2; LU 11, Chicago 1  
+1. 3 – Bart Isaacson, 1988-91 (1988, '89, '91) LU 2, MSOE 0; LU 7, Beloit 1; LU 2, SNC 1  
+2. 2 – Mike Fallon, 1980-82 (1982) LFC 2, LU 2; LU 11, Chicago 1  
 3. 1 – Atley Gay, 2012 (vs. Finlandia, 4/14/12)  
- 1 – Aaron Sorenson, 2003 -04 (vs. Beloit, 5/1/04)  
- 1 – B.J. Chase, 2003 -06 (vs. Finlandia, 4/3/04)  
- 1 – Chad Waller, 1998 -2000 (2000) LU 4, Ripon 1  
-         1 – Josh Szablewski, 1991 -94 (1994) LU 3, Calvin 1  
- 1 – Clark Stalker, 1981 -84 (1982) Ripon 1, LU 0  
- 1 – Dave Hill, 1976 -78 (1977)  
- 1 – Larry Howlin, 1970 -72 (1972)  
- 1 – Steve Bernsten, 1964 -66 (1965)  
- 1 – Tim Weber, 1996 -99(1996)  
+3. 1 – Aaron Sorenson, 2003-04 (vs. Beloit, 5/1/04)  
+3. 1 – B.J. Chase, 2003-06 (vs. Finlandia, 4/3/04)  
+3. 1 – Chad Waller, 1998-2000 (2000) LU 4, Ripon 1  
+3. 1 – Josh Szablewski, 1991-94 (1994) LU 3, Calvin 1  
+3. 1 – Clark Stalker, 1981-84 (1982) Ripon 1, LU 0  
+3. 1 – Dave Hill, 1976-78 (1977)  
+3. 1 – Larry Howlin, 1970-72 (1972)  
+3. 1 – Steve Bernsten, 1964-66 (1965)  
+3. 1 – Tim Weber, 1996-99(1996)  
  
 3-Hit Games  
-1. 6 – John Bill, 1976 -79 
-2. 3 – Rich Camps, 1986 -87  
- 3 – Jim Wilkinson, 1974 -77 
-4. 2 – Chris Zimmerman, 1993 -96 
- 2 – Josh Szablewski, 1991 -94 
- 2 – Brad Snelson, 1985 -88 
- 2 – Jon VandenHeuvel, 1982 -85 
- 2 – Bill Greer, 1972 -74 
+1. 6 – John Bill, 1976-79 
+2. 3 – Rich Camps, 1986-87  
+2. 3 – Jim Wilkinson, 1974-77 
+3. 2 – Chris Zimmerman, 1993-96 
+3. 2 – Josh Szablewski, 1991-94 
+3. 2 – Brad Snelson, 1985-88 
+3. 2 – Jon VandenHeuvel, 1982-85 
+3. 2 – Bill Greer, 1972-74 
  
 Strikeouts  (Total  No.) 
-1. 233 – Elden Santana, 2021 -25 
-2. 193 – Brad Snelson, 1985 -88 
-3. 187 – Quinn Berglin, 2021 -24 
-4. 161 – Peter Murchie, 1988 -91 
-5. 151 – John Bill, 1976 -79 
-6. 147 – Clark Stalker, 1981 -84 
-7. 142 – Rich Faust, 1976 -79 
-8. 136 – Josh Szablewski, 1991 -94 
-9. 130 – Drew Doares, 2012 -15 
-10. 126 – B.J. Chase, 2003 -06 
-11. 125 – Chris Shaw, 2016, 2018 -19 
-12. 120 – Kyle Duex, 2015 -18 
- 120 – Josh Richie, 2004 -04 
-14.  109 – Michael Duttlinger, 2020 -23 
-15. 101 – Steve Bernsten, 1964 -66 
+1. 233 – Elden Santana, 2021-25 
+2. 193 – Brad Snelson, 1985-88 
+3. 187 – Quinn Berglin, 2021-24 
+4. 161 – Peter Murchie, 1988-91 
+5. 151 – John Bill, 1976-79 
+6. 147 – Clark Stalker, 1981-84 
+7. 142 – Rich Faust, 1976-79 
+8. 136 – Josh Szablewski, 1991-94 
+9. 130 – Drew Doares, 2012-15 
+10. 126 – B.J. Chase, 2003-06 
+11. 125 – Chris Shaw, 2016, 2018-19 
+12. 120 – Kyle Duex, 2015-18 
+12. 120 – Josh Richie, 2004-04 
+13. 109 – Michael Duttlinger, 2020-23 
+13. 101 – Steve Bernsten, 1964-66 
  
 Strikeouts/Per 9 Inning s Pitched  (Min.  2 years/40  innings/career  completed)  
-1. 11.09 – Shane Foley, 2022 -25 (74 SO/60.0 IP)  
-2. 10.38 – Elden Santana, 2021 -25 (233 SO/202.0 IP)  
-3. 10.37  – Davis Ogilvie, 2012 -15 (91 SO/79.0 IP)   
-4. 9.35 – Quinn Berglin, 2021 -24 (187 SO/180.0 IP)  
-5. 8.51 – Brad Snelson, 1985 -88 (193 SO/204.0 IP)   
-6. 8.44 – Bob Townsend, 1967 -69 (50 SO/53.1 IP)   
-7. 8.35 – Chris Shaw, 2016, 2018 -19 (125 SO/134.2 IP)  
-8. 8.22 – Bill Greer, 1972 -74 (66 SO/72.1 IP)   
-9. 8.11 – Josh Szablewski, 1991 -94 (136 SO/151.0 IP)   
-10. 8.01 – Peter Murchie, 1988 -91 (161 SO/181 IP)   
+1. 11.09 – Shane Foley, 2022-25 (74 SO/60.0 IP)  
+2. 10.38 – Elden Santana, 2021-25 (233 SO/202.0 IP)  
+3. 10.37  – Davis Ogilvie, 2012-15 (91 SO/79.0 IP)   
+4. 9.35 – Quinn Berglin, 2021-24 (187 SO/180.0 IP)  
+5. 8.51 – Brad Snelson, 1985-88 (193 SO/204.0 IP)   
+6. 8.44 – Bob Townsend, 1967-69 (50 SO/53.1 IP)   
+7. 8.35 – Chris Shaw, 2016, 2018-19 (125 SO/134.2 IP)  
+8. 8.22 – Bill Greer, 1972-74 (66 SO/72.1 IP)   
+9. 8.11 – Josh Szablewski, 1991-94 (136 SO/151.0 IP)   
+10. 8.01 – Peter Murchie, 1988-91 (161 SO/181 IP)   
  
 Fewest  Walks/ Per 9 Inning s Pitched  (Min.  2 years/40 innings/career  completed)  
-1. 1.67 – Lou Clark, 1995 -98 (27 BB/145.2 IP)  
-2. 1.72 – Aaron Sorenson, 2003 -04 (22 BB/115.1 IP)  
-3. 2.33 – Chris Clouthier, 2004 -07 (39 BB/150.1 IP)  
-4. 2.41 – Ken Howell, 1971 -73 (21 BB/78.1 IP)  /n5. 2.64 – Chad Waller, 1998 -2000 (29 BB/99 IP)  
-6. 2.68 – Luke Kostreva, 2007 -10 (32 BB/107.1 IP)  
-7. 2.82 – Chris Olsen, 1966 -68 (36 BB/115.0 IP)  
-8. 3.25 – John Bill, 1976 -79 (85 BB/235.2 IP)  
-9. 3.29 – Clark Stalker, 1981 -84 (63 BB/172.1 IP)  
-10. 3.54 – Tim Weber, 1996 -99 (56 BB/142.1 IP)  
-11. 3.75 – Dave Hill, 1976 -78 (52 BB/124.2 IP)  
-12. 3.78 – Rick Herzog, 1999 -2002 (44 BB/104.2 IP)   
+1. 1.67 – Lou Clark, 1995-98 (27 BB/145.2 IP)  
+2. 1.72 – Aaron Sorenson, 2003-04 (22 BB/115.1 IP)  
+3. 2.33 – Chris Clouthier, 2004-07 (39 BB/150.1 IP)  
+4. 2.41 – Ken Howell, 1971-73 (21 BB/78.1 IP)
+5. 2.64 – Chad Waller, 1998-2000 (29 BB/99 IP)  
+6. 2.68 – Luke Kostreva, 2007-10 (32 BB/107.1 IP)  
+7. 2.82 – Chris Olsen, 1966-68 (36 BB/115.0 IP)  
+8. 3.25 – John Bill, 1976-79 (85 BB/235.2 IP)  
+9. 3.29 – Clark Stalker, 1981-84 (63 BB/172.1 IP)  
+10. 3.54 – Tim Weber, 1996-99 (56 BB/142.1 IP)  
+11. 3.75 – Dave Hill, 1976-78 (52 BB/124.2 IP)  
+12. 3.78 – Rick Herzog, 1999-2002 (44 BB/104.2 IP)   
     
 Fewest  Hits/Innings  Pitched  (Min.  2 years/40 innings/career completed)  
-1. .705 – Bob Mueller, 1962 -64 (55 H/78.0 IP)  
-2. .750 – Quinn Berglin, 2021 -24 (135 H/180.0 IP)  
-3. .768 – Steve Bernsten, 1964 -66 (93 H/121 IP)  
-4. .802 – Dave Hill, 1976 -78 (100 H/124.2 IP)  
-5. .806 – Elden Santana, 2021 -25 (163 H/202.0 IP)  
-6. .927 – Rich Camps, 1986 -87 (59 H/63.2 IP)  
-7. .926 – Bill Greer, 1972 -74 (67 H/72.1 IP)  
-8. .938 – Larry Howlin, 1970 -72 (46 H/49.0 IP)  
-9. .946 – Jim Petran, 1977 -80 (41 H/43.1 IP)  
-10. .956 – Chris Olsen, 1966 -68 (110 H/115.0 IP)  
+1. .705 – Bob Mueller, 1962-64 (55 H/78.0 IP)  
+2. .750 – Quinn Berglin, 2021-24 (135 H/180.0 IP)  
+3. .768 – Steve Bernsten, 1964-66 (93 H/121 IP)  
+4. .802 – Dave Hill, 1976-78 (100 H/124.2 IP)  
+5. .806 – Elden Santana, 2021-25 (163 H/202.0 IP)  
+6. .927 – Rich Camps, 1986-87 (59 H/63.2 IP)  
+7. .926 – Bill Greer, 1972-74 (67 H/72.1 IP)  
+8. .938 – Larry Howlin, 1970-72 (46 H/49.0 IP)  
+9. .946 – Jim Petran, 1977-80 (41 H/43.1 IP)  
+10. .956 – Chris Olsen, 1966-68 (110 H/115.0 IP)  
  
 SEASON RECORDS  
 Games Played  
 1. 42 – Edan Perez, 2024  
- 42 – Parker Knoll, 2024  
- 42 – Taylor Freeman, 2024  
-4. 41 – Jacob Charon, 2024  
-5. 40 – Edan Perez, 2025  
- 40 – Shane Santaga, 2025  
- 40 – CJ Filipek, 2025  
-8. 39 – Taylor Freeman, 2025  
-9. 38 – Zach Leslie, 2022  
- 38 – Parker Knoll, 2022  
+1. 42 – Parker Knoll, 2024  
+1. 42 – Taylor Freeman, 2024  
+2. 41 – Jacob Charon, 2024  
+3. 40 – Edan Perez, 2025  
+3. 40 – Shane Santaga, 2025  
+3. 40 – CJ Filipek, 2025  
+4. 39 – Taylor Freeman, 2025  
+5. 38 – Zach Leslie, 2022  
+5. 38 – Parker Knoll, 2022  
    
 Runs  Scored  
 1. 68 – Parker Knoll, 2024  
 2. 58 – Taylor Freeman, 2025  
- 58 – Taylor Freeman, 2024  
- 58 – Edan Perez, 2024  
-5. 56 – Jacob Charon, 2024  
-6. 53 – Parker Knoll, 2022  
-7. 50 – Jacob Charon 2022  
-8. 49 – Parker Knoll, 2023  
-9. 40 – Tate Hartlaub, 2025  
-10. 39 – Jeff Cambra, 2022  
- 39 – Nolan Spencer, 2018  
+2. 58 – Taylor Freeman, 2024  
+2. 58 – Edan Perez, 2024  
+3. 56 – Jacob Charon, 2024  
+4. 53 – Parker Knoll, 2022  
+5. 50 – Jacob Charon 2022  
+6. 49 – Parker Knoll, 2023  
+7. 40 – Tate Hartlaub, 2025  
+8. 39 – Jeff Cambra, 2022  
+8. 39 – Nolan Spencer, 2018  
  
 Batting  Ave.  
 1. .508 – Korey Krueger, 1993 (32 H/63 AB)  
@@ -528,26 +537,27 @@ Batting  Ave.
  
 At-Bats  
 1. 168 – Parker Knoll, 2024  
-2. 166 – Taylor Freeman, 2024  /n3. 165 – Edan Perez, 2024  
+2. 166 – Taylor Freeman, 2024
+3. 165 – Edan Perez, 2024  
 4. 164 – Parker Knoll, 2022  
 5. 157 – Shane Santaga, 2025  
- 157 – Jeff Cambra, 2022  
-7. 154 – Jacob Charon, 2024  
-8. 150 – Parker Knoll, 2023  
- 148 – Taylor Freeman, 2025  
-10. 147 – Travis Weber, 2018  
+5. 157 – Jeff Cambra, 2022  
+6. 154 – Jacob Charon, 2024  
+7. 150 – Parker Knoll, 2023  
+8. 148 – Taylor Freeman, 2025  
+9. 147 – Travis Weber, 2018  
  
 Hits 
-1. 72 – Jacob Charon 2024  
+1. 72 – Jacob Charon, 2024  
 2. 66 – Edan Perez, 2024  
- 66 – Parker Knoll, 2024  
- 66 – Parker Knoll, 2022  
-5. 65 – Taylor Freeman, 2025  
-6. 64 – Parker Knoll, 2023  
-7. 63 – Edan Perez, 2023  
-8. 56 – Taylor Freeman, 2024  
- 56 – Jacob Charon, 2022  
- 56 – Jeff Cambra, 2022  
+2. 66 – Parker Knoll, 2024  
+2. 66 – Parker Knoll, 2022  
+3. 65 – Taylor Freeman, 2025  
+4. 64 – Parker Knoll, 2023  
+5. 63 – Edan Perez, 2023  
+6. 56 – Taylor Freeman, 2024  
+6. 56 – Jacob Charon, 2022  
+6. 56 – Jeff Cambra, 2022  
   
 Slugging  Percentage  
 1. .984 – Steve Blomberg, 1972 (60 TB/61 AB)  
@@ -562,104 +572,106 @@ Doubles
 1. 17 – Taylor Freeman, 2022  
 2. 16 – Matt hew Holliday, 2015  
 3. 15 – Edan Perez, 2025  
- 15 – Zach Leslie, 2022  
- 15 – Matthew Holliday, 2018  
-6. 14 – Taylor Freeman, 2024  
- 14 – Andrew Wong, 2005  
-8. 13 – Jacob Charon, 2024  
- 13 – Parker Knoll, 2022  
- 13 – Travis Weber, 2018  
- 13 – Andrew Wong, 2004  
+3. 15 – Zach Leslie, 2022  
+3. 15 – Matthew Holliday, 2018  
+4. 14 – Taylor Freeman, 2024  
+4. 14 – Andrew Wong, 2005  
+5. 13 – Jacob Charon, 2024  
+5. 13 – Parker Knoll, 2022  
+5. 13 – Travis Weber, 2018  
+5. 13 – Andrew Wong, 2004  
  
 Triples  
 1. 7 – Paul Gebhardt, 1977  
 2. 6 – Steve Blomberg, 1971  
 3. 5 – Parker Knoll, 2022  
- 5 – Clayton Agler, 2021  
- 5 – Gabe Henriques, 2012  
- 5 – Andrew Wong, 2005  
- 5 – Dave Willie, 1981  
-8. 4 – Edan Perez, 2023  
- 4 – Jacob Charon, 2021  
- 4 – Jake Gordon, 2015  
- 4 – Robert Rashid, 2011  
- 4 – Dave Willie, 1980  
+3. 5 – Clayton Agler, 2021  
+3. 5 – Gabe Henriques, 2012  
+3. 5 – Andrew Wong, 2005  
+3. 5 – Dave Willie, 1981  
+4. 4 – Edan Perez, 2023  
+4. 4 – Jacob Charon, 2021  
+4. 4 – Jake Gordon, 2015  
+4. 4 – Robert Rashid, 2011  
+4. 4 – Dave Willie, 1980  
  
 Home  Runs  
 1. 20 – Jacob Charon, 2022  
-2. 16 – Parker Knoll, 2024  /n3. 15 – Taylor Freeman, 2024  
+2. 16 – Parker Knoll, 2024
+3. 15 – Taylor Freeman, 2024  
 4. 14 – Taylor Freeman, 2025  
- 14 – Edan Perez, 2024  
- 14 – Jacob Charon, 2024  
-7. 10 – Parker Knoll, 2023  
-8. 9 – Edan Perez, 2023  
- 9 – Steve Blomberg, 1972  
-10. 8 – Jacob Charon, 2023  
- 8 – Quinn Berglin, 2021  
- 8 – Kevin Fitzsimmons, 2005  
- 8 – Paul Gebhardt, 1977  
+4. 14 – Edan Perez, 2024  
+4. 14 – Jacob Charon, 2024  
+5. 10 – Parker Knoll, 2023  
+6. 9 – Edan Perez, 2023  
+6. 9 – Steve Blomberg, 1972  
+7. 8 – Jacob Charon, 2023  
+7. 8 – Quinn Berglin, 2021  
+7. 8 – Kevin Fitzsimmons, 2005  
+7. 8 – Paul Gebhardt, 1977  
  
 Runs  Batted  In 
-1.  61 – Jacob Charon, 2024  
- 61 – Jacob Charon, 2022  
-3. 57 – Edan Perez, 2024  
-4.  54 – Parker Knoll, 2024  
-5. 49 – Taylor Freeman, 2024  
-6. 48 – Taylor Freeman, 2025  
-7. 44 – CJ Filipek, 2025  
-8. 42 – Edan Perez, 2023  
-9. 39 – Kevin Fitzsimmons, 2006  
-10. 38 – Matthew Holliday, 2018  
+1. 61 – Jacob Charon, 2024  
+1. 61 – Jacob Charon, 2022  
+2. 57 – Edan Perez, 2024  
+3. 54 – Parker Knoll, 2024  
+4. 49 – Taylor Freeman, 2024  
+5. 48 – Taylor Freeman, 2025  
+6. 44 – CJ Filipek, 2025  
+7. 42 – Edan Perez, 2023  
+8. 39 – Kevin Fitzsimmons, 2006  
+9. 38 – Matthew Holliday, 2018  
  
 Sacrifices  
 1. 10 – Tate Hartlaub, 2024  
- 10 – Matt Smith, 2000  
- 10 – Graham Satherlie, 1981   
-4. 8 – Tate Hartlaub, 2025  
- 8 – Andrew Lauber, 2016  
- 8 – Gabe Henriques, 2010  
- 8 – Mike Ladevich, 1979  
-8. 7 – Luke Miles, 2023  
- 7 – Keith Sampson, 1992  
- 7 – Brian Fenhaus, 1980  
-        7 – Ben Atkinson, 1999  
+1. 10 – Matt Smith, 2000  
+1. 10 – Graham Satherlie, 1981   
+2. 8 – Tate Hartlaub, 2025  
+2. 8 – Andrew Lauber, 2016  
+2. 8 – Gabe Henriques, 2010  
+2. 8 – Mike Ladevich, 1979  
+3. 7 – Luke Miles, 2023  
+3. 7 – Keith Sampson, 1992  
+3. 7 – Brian Fenhaus, 1980  
+3. 7 – Ben Atkinson, 1999  
  
 Stolen  Bases  
 1. 35 – Taylor Freeman, 2025  
- 35 – Parker Knoll, 2022  
-3. 32 – Robert Rashid, 2010  
-4. 30 – Nolan Spencer, 2018  
-5. 28 – Taylor Freeman, 2024  
-6. 27 – Dave Willie, 1981  
-7. 24 – Davide Harris, 2013  
-8. 23 – Tim O’Toole, 2005  
- 23 – Jason Richards, 1995  
-10. 22 – Tim O’Toole, 2006  
+1. 35 – Parker Knoll, 2022  
+2. 32 – Robert Rashid, 2010  
+3. 30 – Nolan Spencer, 2018  
+4. 28 – Taylor Freeman, 2024  
+5. 27 – Dave Willie, 1981  
+6. 24 – Davide Harris, 2013  
+7. 23 – Tim O’Toole, 2005  
+7. 23 – Jason Richards, 1995  
+8. 22 – Tim O’Toole, 2006  
  
 Walks  
 1. 31 – Jacob Charon, 2024  
 2. 28 – Taylor Freeman, 2024  
 3. 27 – Edan Perez, 2024  
- 27 – Parker Knoll, 2024  
-5. 25 – Taylor Freeman, 2025  
- 25 – Nolan Spencer, 2017  
-7. 24 – Taylor Freeman, 2023  
- 24 – Zach Leslie, 2022  
- 24 – Nolan Spencer, 2018  
- 24 – Davide Harris, 2013  /n 24 – Robert Rashid, 2009  
- 24 – Paul Scaffidi, 1977  
+3. 27 – Parker Knoll, 2024  
+4. 25 – Taylor Freeman, 2025  
+4. 25 – Nolan Spencer, 2017  
+5. 24 – Taylor Freeman, 2023  
+5. 24 – Zach Leslie, 2022  
+5. 24 – Nolan Spencer, 2018  
+5. 24 – Davide Harris, 2013 
+5. 24 – Robert Rashid, 2009  
+5. 24 – Paul Scaffidi, 1977  
  
 Strikeouts  (Total No.)  
 1. 44 – Taylor Freeman, 2024  
 2. 43 – William Polanco, 2024  
- 43 – Taylor Freeman, 2023  
-4. 38 – Jake Land, 2023  
- 38 – Jacob Charon, 2023  
-6. 35 – Parker Knoll, 2023  
-7. 34 – Taylor Freeman, 2022  
- 34 – Carl Olsen, 2016  
-9. 33 – Jacob Charon, 2024  
- 33 – Patrick McDonnell, 2018  
+2. 43 – Taylor Freeman, 2023  
+3. 38 – Jake Land, 2023  
+3. 38 – Jacob Charon, 2023  
+4. 35 – Parker Knoll, 2023  
+5. 34 – Taylor Freeman, 2022  
+5. 34 – Carl Olsen, 2016  
+6. 33 – Jacob Charon, 2024  
+6. 33 – Patrick McDonnell, 2018  
  
 Strikeouts  (Least  Per AB/Minimum 50 AB)  
 1. 1/59.0 – Mark Faust, 1976 (1 SO/59 AB)  
@@ -676,51 +688,52 @@ Hit-By-Pitch
 5. 13 – Zach Leslie, 2022  
 6. 12 – Luke Miles, 2023  
 7. 11 – Nolan Spencer, 2017  
- 11 – Brandon Klar, 2016  
- 11 – Tim Salm, 2008  
-10. 10 – CJ Filipek, 2025  
- 10 – Spenser Ross, 2021  
- 10 – Doug McEneaney, 2008  
- 10 – Pat Kennedy, 2000  
+7. 11 – Brandon Klar, 2016  
+7. 11 – Tim Salm, 2008  
+8. 10 – CJ Filipek, 2025  
+8. 10 – Spenser Ross, 2021  
+8. 10 – Doug McEneaney, 2008  
+8. 10 – Pat Kennedy, 2000  
  
 Errors  
 1. 26 – Jerry Haeffel, 1997  
 2. 23 – Edan Perez, 2023  
 3. 21 – Joel Birch, 2012  
 4. 21 – Mike Brady, 2018  
- 21 – Jeremy Tollefson, 2001  
-6. 19 – Doug McEneaney, 2008  
- 19 – Andrew Wong, 2004  
-8. 18 – Anthony Ortiz, 2015  
- 18 – Brandon Vamarasi, 2014  
- 18 – Phil Wisniewski, 2011  
- 18 – Jordan Clark, 2006  
- 18 – Andrew Wong, 2005  
- 18 – Andy Hazucha, 1982  
+4. 21 – Jeremy Tollefson, 2001  
+5. 19 – Doug McEneaney, 2008  
+5. 19 – Andrew Wong, 2004  
+6. 18 – Anthony Ortiz, 2015  
+6. 18 – Brandon Vamarasi, 2014  
+6. 18 – Phil Wisniewski, 2011  
+6. 18 – Jordan Clark, 2006  
+6. 18 – Andrew Wong, 2005  
+6. 18 – Andy Hazucha, 1982  
  
 SEASON PITCHING RECORDS  
 Appearances  
 1. 19 – Philip Clark, 2015  
- 19 – Kelton Jenkins, 2015  
-3. 18 – Nick Guzzo, 2021  
- 18 – Philip Clark, 2012  
-5. 17 – Nick Guzzo, 2019  
-6. 16 – Shane Foley, 2025  /n 16 – Brandon Brust, 2024  
- 16 – Andrew Wilt, 2010  
-9. 15 – Jordan Schaefer, 2023  
- 15 – Nick Guzzo, 2018  
- 15 – Sam Ausloos, 2011  
- 15 – Sam Ausloos, 2010  
+1. 19 – Kelton Jenkins, 2015  
+2. 18 – Nick Guzzo, 2021  
+2. 18 – Philip Clark, 2012  
+3. 17 – Nick Guzzo, 2019  
+4. 16 – Shane Foley, 2025 
+4. 16 – Brandon Brust, 2024  
+4. 16 – Andrew Wilt, 2010  
+5. 15 – Jordan Schaefer, 2023  
+5. 15 – Nick Guzzo, 2018  
+5. 15 – Sam Ausloos, 2011  
+5. 15 – Sam Ausloos, 2010  
  
 Complete  Games  
 1. 8 – John Bill, 1979  
 2. 7 – Aaron Sorenson, 2004  
- 7 – Josh Szablewski, 1994  
- 7 – Chris Zimmerman, 1994  
- 7 – Peter Murchie, 1990  
- 7 – Rich Camps, 1987  
- 7 – Clark Stalker, 1981  
- 7 – John Bill, 1978  
+2. 7 – Josh Szablewski, 1994  
+2. 7 – Chris Zimmerman, 1994  
+2. 7 – Peter Murchie, 1990  
+2. 7 – Rich Camps, 1987  
+2. 7 – Clark Stalker, 1981  
+2. 7 – John Bill, 1978  
  
 Innings  Pitched  
 1. 71.0 – Kyle Duex, 2018  
@@ -761,37 +774,38 @@ Most  Strikeouts  Per Innings  Pitched  (Min.  20 IP)
 Fewest  Hits Allowed  Per Innings  Pitched  (Min.  20 IP) 
 1. .58 – Mike Brady, 2018 (12 H/20.2 IP)  
 2. .63 – Cam Ruth, 2024 (17 H/27.0 IP)  
- .63 – Rich Camps, 1987 (34 H/53.2 IP)  
-4. .64 – Quinn Berglin, 2023 (27 H/41.2 IP)  
-5. .66 – Elden Santana, 2024 (37 H/56.1 IP)  
-6. .69 – Dan Toycen, 1970 (25 H/36.0 IP)  /n7. .70 – Bill Greer, 1973 (26 H/37.1 IP)  
- .70 – Bill Greer, 1972 (17 H/24.1 IP)  
-9. .72 – Quinn Berglin, 2024 (48 H/66.2 IP)  
-10. .73 – Preston Anderson, 2021 (16 H/22.0 IP)  
- .73 – Dave Hill, 1977 (34 H/46.2 IP)  
+2. .63 – Rich Camps, 1987 (34 H/53.2 IP)  
+3. .64 – Quinn Berglin, 2023 (27 H/41.2 IP)  
+4. .66 – Elden Santana, 2024 (37 H/56.1 IP)  
+5. .69 – Dan Toycen, 1970 (25 H/36.0 IP)  
+6. .70 – Bill Greer, 1973 (26 H/37.1 IP)  
+6. .70 – Bill Greer, 1972 (17 H/24.1 IP)  
+7. .72 – Quinn Berglin, 2024 (48 H/66.2 IP)  
+8. .73 – Preston Anderson, 2021 (16 H/22.0 IP)  
+8. .73 – Dave Hill, 1977 (34 H/46.2 IP)  
  
 Fewest  Walks  Allowed  Per Innings  Pitched  (Min.  20 IP) 
 1. .09 – Chris Isley, 1965 (3 BB/34.1 IP)  
 2. .12 – Louie Clark, 1997 (3 BB/24.2 IP)  
 3. .13 – Chris Clouthier, 2006 (5 BB/37.0 IP)  
 4. .14 – Nick Katz, 2024 (8 BB/57.2 IP)  
- .14 – Louie Clark, 1995 (6 BB/44.0 IP)  
- .14 – Chris Olsen, 1968 (4 BB/28.0 IP)  
-7. .17 – Louie Clark, 1996 (6 BB/34.1 IP)  
+4. .14 – Louie Clark, 1995 (6 BB/44.0 IP)  
+4. .14 – Chris Olsen, 1968 (4 BB/28.0 IP)  
+5. .17 – Louie Clark, 1996 (6 BB/34.1 IP)  
  
 Wins  (Season  Record)  
-1. 9 – Quinn Berglin, 2024 (9 -0) 
-2. 8 – John Bill, 1978 (8 -2) 
-3. 7 – John Bill, 1979 (7 -3) 
- 7 – Mike Fallon, 1980 (7 -3) 
-5. 6 – Elden Santana, 2025 (6 -1) 
- 6 – Quinn Berglin, 2022 (6 -2) 
- 6 – Korey Krueger, 1992 (6 -1) 
- 6 – Peter Murchie, 1989 (6 -2) 
- 6 – Brad Snelson, 1988 (6 -4) 
- 6 – Rich Camps, 1987 (6 -2) 
- 6 – Clark Stalker, 1981 (6 -3) 
- 6 – John Bill, 1977 (6 -3) 
+1. 9 – Quinn Berglin, 2024 (9-0) 
+2. 8 – John Bill, 1978 (8-2) 
+3. 7 – John Bill, 1979 (7-3) 
+3. 7 – Mike Fallon, 1980 (7-3) 
+4. 6 – Elden Santana, 2025 (6-1) 
+4. 6 – Quinn Berglin, 2022 (6-2) 
+4. 6 – Korey Krueger, 1992 (6-1) 
+4. 6 – Peter Murchie, 1989 (6-2) 
+4. 6 – Brad Snelson, 1988 (6-4) 
+4. 6 – Rich Camps, 1987 (6-2) 
+4. 6 – Clark Stalker, 1981 (6-3) 
+4. 6 – John Bill, 1977 (6-3) 
  
 Earned  Run Average  (Min.  20 IP) 
 1. 1.94 – Quinn Berglin, 2023 (9 ER/41.2 IP)  
@@ -810,197 +824,203 @@ Saves
 2. 5 – Shane Foley, 2025  
 3. 4 – Jim Petran, 1979  
 4. 3 – Cam Ruth, 2024  
- 3 – Brandon Brust, 2024  
- 3 – Mike Brady, 2018  
- 3 – Zach Rabideau, 2017  
- 3 – Kelton Jenkins, 2015  
- 3 – Frank Forseth, 2009  
- 3 – Brad Hauser, 2007  
- 3 – Louie Clark, 1995  
- 3 – Joe Krueger, 1990  
+4. 3 – Brandon Brust, 2024  
+4. 3 – Mike Brady, 2018  
+4. 3 – Zach Rabideau, 2017  
+4. 3 – Kelton Jenkins, 2015  
+4. 3 – Frank Forseth, 2009  
+4. 3 – Brad Hauser, 2007  
+4. 3 – Louie Clark, 1995  
+4. 3 – Joe Krueger, 1990  
  
 No Hit Games  
 1. 1 – Jon Tittle, 1968  
  1 – Chris Olsen, 1967  
  1 – Bob Mueller, 1963  
-  /nShutouts  
+
+
+Shutouts  
 1. 3 – Aaron Sorenson, 2004  
 2. 2 – Quinn Berglin, 2022  
- 2 – Michael Duttlinger, 2022  
- 2 – Andrew Doares, 2012  
- 2 – John Bill, 1978  
- 2 – Jim Wilkinson, 1976  
- 2 – Steve Bernsten, 1964  
+2. 2 – Michael Duttlinger, 2022  
+2. 2 – Andrew Doares, 2012  
+2. 2 – John Bill, 1978  
+2. 2 – Jim Wilkinson, 1976  
+2. 2 – Steve Bernsten, 1964  
  
 1-Hit Games  
 1. 2 – Steve Bernsten, 1966  
 2. 1 – Quinn Berglin, 2023 (vs. Illinois College, 4/15/23)  
- 1 – Josh Richie, 2006 (vs. Fredonia State, 3/25/06)  
- 1 – Aaron Sorenson, 2004 (vs. Oberlin, 3/27/04)  
- 1 – Justin Anthony, 2001 (vs. Beloit, 4/26/01)  
- 1 – Dave Hill, 1978  
- 1 – Steve Ehren, 1974  
- 1 – Dan Toycen, 1970  
- 1 – Gary Larson, 1960  
+2. 1 – Josh Richie, 2006 (vs. Fredonia State, 3/25/06)  
+2. 1 – Aaron Sorenson, 2004 (vs. Oberlin, 3/27/04)  
+2. 1 – Justin Anthony, 2001 (vs. Beloit, 4/26/01)  
+2. 1 – Dave Hill, 1978  
+2. 1 – Steve Ehren, 1974  
+2. 1 – Dan Toycen, 1970  
+2. 1 – Gary Larson, 1960  
  
 2-Hit Games  
 1. 1 – Atley Gay, 2012 (vs. Finlandia, 4/14/12)  
- 1 – Aaron Sorenson, 2004 (vs. Beloit, 5/1/04)  
- 1 – B.J. Chase, 2004 (vs. Finlandia, 4/3/04)  
- 1 – Chad Waller, 2000  
- 1 – Tim Weber, 1996  
- 1 – Josh Szablewski, 1994  
- 1 – Bart Isaacson, 1991  
- 1 – Bart Isaacson, 1989  
- 1 – Bart Isaacson, 1988  
- 1 – Mike Fallon, 1982  
- 1 – Clark Stalker, 1982  
- 1 – Dave Hill, 1977  
- 1 – Larry Nowlin, 1972  
- 1 – Steve Bernsten, 1965  
+1. 1 – Aaron Sorenson, 2004 (vs. Beloit, 5/1/04)  
+1. 1 – B.J. Chase, 2004 (vs. Finlandia, 4/3/04)  
+1. 1 – Chad Waller, 2000  
+1. 1 – Tim Weber, 1996  
+1. 1 – Josh Szablewski, 1994  
+1. 1 – Bart Isaacson, 1991  
+1. 1 – Bart Isaacson, 1989  
+1. 1 – Bart Isaacson, 1988  
+1. 1 – Mike Fallon, 1982  
+1. 1 – Clark Stalker, 1982  
+1. 1 – Dave Hill, 1977  
+1. 1 – Larry Nowlin, 1972  
+1. 1 – Steve Bernsten, 1965  
  
 3-Hit Games  
 1. 3 – Rich Camps, 1987  
- 3 – John Bill, 1979  
-3. 2 – John Bill, 1978  
- 2 – Bill Greer, 1973  
-5. 1 – By Many (Last: Kevin Kangas/Alex Fritsch vs. UW -La Crosse, 4/13/07 ) /n 
+1. 3 – John Bill, 1979  
+2. 2 – John Bill, 1978  
+2. 2 – Bill Greer, 1973  
+
+
 GAME RECORDS  
 Runs Scored  
-1. 6 – Sam Kossow vs. Carroll, 4/16/14  
-2. 5 – Jacob Charon vs. Illinois College, 4/10/22  
- 5 – Nolan Spencer vs. Iowa Wesleyan, 2/25/18  
- 5 – Jake Gordon vs. Crown, 3/20/15  
- 5 – Jake Gordon vs. Beloit, 4/4/15  
- 5 – Doug McEneaney vs. Thomas , 3/27/08  
- 5 – Ben Webster vs. Carroll, 5/5/07  
- 5 – Bryan Rosen vs. Kalamazoo, 3/20/06  
- 5 – Andrew Wong vs. Carroll, 4/24/04  
+1. 6 – Sam Kossow vs. Carroll, (4/16/14) 
+2. 5 – Jacob Charon vs. Illinois College, (4/10/22)  
+2. 5 – Nolan Spencer vs. Iowa Wesleyan, (2/25/18)  
+2. 5 – Jake Gordon vs. Crown, (3/20/15)  
+2. 5 – Jake Gordon vs. Beloit, (4/4/15)  
+2. 5 – Doug McEneaney vs. Thomas, (3/27/08)  
+2. 5 – Ben Webster vs. Carroll, (5/5/07)  
+2. 5 – Bryan Rosen vs. Kalamazoo, (3/20/06)  
+2. 5 – Andrew Wong vs. Carroll, (4/24/04)  
  
 Hits 
-1. 7 – Taylor Freeman vs. Carthage (7 -7), 5/4/23  
-2. 5 – Jacob Charon vs. Cornell (5 -5), 3/30/24  
- 5 – Parker Knoll vs. UW -Stevens Point (5 -6), 4/27/23  
- 5 – Edan Perez at Cornell (5 -6), 4/16/22  
- 5 – Parker Knoll at Univ. of Chicago (5 -6), 5/7/22  
- 5 – Andrew Lauber vs. Maine -Farmington (5 -7), 3/21/19  
- 5 – Rudy Mueller -Schrader vs. Iowa Wesleyan (5 -7), 2/25/18  
- 5 – Zach Rabideau vs. Iowa Wesleyan (5 -7), 2/25/8  
- 5 – Jake Gordon vs. Carroll (5 -7), 4/16/14  
- 5 – Robert Rashid vs. Ripon (5 -7), 5/1/10  
- 5 – Jordan Clark vs. Carroll (5 -5), 4/18/09  
- 5 – Tommy Schmidt vs. Carroll (5 -5), 5/5/07  
- 5 – Hawk Haiduke vs. Carroll (5 -6), 5/5/07  
- 5 – Doug Coe vs. UW -Oshkosh (5 -5), 4/27/05  
- 5 – Andrew Wong vs. Beloit (5 -6), 4/24/05  
- 5 – Chris Stievo vs. Lakeland (5 -5), 4/13/03  
- 5 – Jason Shanda at Marian (5 -5), 4/10/02  
- 5 – Pat Kennedy at Beloit (5 -5), 4/9/00  
- 5 – Elliot Stith, 1995  
+1. 7 – Taylor Freeman vs. Carthage (7-7), (5/4/23)  
+2. 5 – Jacob Charon vs. Cornell (5-5), (3/30/24)  
+2. 5 – Parker Knoll vs. UW -Stevens Point (5-6), (4/27/23)  
+2. 5 – Edan Perez at Cornell (5-6), (4/16/22)  
+2. 5 – Parker Knoll at Univ. of Chicago (5-6), (5/7/22)  
+2. 5 – Andrew Lauber vs. Maine -Farmington (5-7), (3/21/19)  
+2. 5 – Rudy Mueller -Schrader vs. Iowa Wesleyan (5-7), (2/25/18)  
+2. 5 – Zach Rabideau vs. Iowa Wesleyan (5-7), (2/25/8)  
+2. 5 – Jake Gordon vs. Carroll (5-7), (4/16/14)  
+2. 5 – Robert Rashid vs. Ripon (5-7), (5/1/10)  
+2. 5 – Jordan Clark vs. Carroll (5-5), (4/18/09)  
+2. 5 – Tommy Schmidt vs. Carroll (5-5), (5/5/07)  
+2. 5 – Hawk Haiduke vs. Carroll (5-6), (5/5/07)  
+2. 5 – Doug Coe vs. UW -Oshkosh (5-5), (4/27/05)  
+2. 5 – Andrew Wong vs. Beloit (5-6), (4/24/05)  
+2. 5 – Chris Stievo vs. Lakeland (5-5), (4/13/03)  
+2. 5 – Jason Shanda at Marian (5-5), (4/10/02)  
+2. 5 – Pat Kennedy at Beloit (5-5), (4/9/00)  
+2. 5 – Elliot Stith, 1995  
  
 Runs Batted In  
-1. 9 – Andrew Wong vs. Kalamazoo, 3/20/06  
-2. 8 – Matt Holliday vs. Crown, 3/20/15  
-3. 7 – Edan Perez vs. Ripon, 4/10/24  
- 7 – Jacob Charon vs. Carthage, 4/30/24  
- 7 – Taylor Freeman vs. Cornell, 3/30/24  
- 7 – Edan Perez vs. Grinnell, 4/2/23  
- 7 – Joel Birch vs. Carroll, 4/16/14  
- 7 – Tim Salm vs. Wisconsin Lutheran, 4/30/08  
- 7 – Jason Shanda vs.  Marian, 4/10/02  
- 7 – Elliot Stith , 1993  
+1. 9 – Andrew Wong vs. Kalamazoo, (3/20/06)  
+2. 8 – Matt Holliday vs. Crown, (3/20/15)   
+3. 7 – Edan Perez vs. Ripon, (4/10/24)  
+3. 7 – Jacob Charon vs. Carthage, (4/30/24)  
+3. 7 – Taylor Freeman vs. Cornell, (3/30/24)  
+3. 7 – Edan Perez vs. Grinnell, (4/2/23)  
+3. 7 – Joel Birch vs. Carroll, (4/16/14)  
+3. 7 – Tim Salm vs. Wisconsin Lutheran, (4/30/08)  
+3. 7 – Jason Shanda vs.  Marian, (4/10/02)  
+3. 7 – Elliot Stith, 1993  
     
 Doubles  
-1. 4 – Parker Knoll vs. Beloit, 4/19/22  
-2. 3 – Edan Perez vs. Knox, 4/29/23   
- 3 – Luke Zablocki vs. Beloit, 4/5/14  
- 3 – Doug Coe vs. Lakeland, 4/18/04  
- 3 – Kent Hayes vs. Carroll, 5/4/00  
+1. 4 – Parker Knoll vs. Beloit, (4/19/22)  
+2. 3 – Edan Perez vs. Knox, (4/29/23)   
+3. 3 – Luke Zablocki vs. Beloit, (4/5/14)  
+3. 3 – Doug Coe vs. Lakeland, (4/18/04)  
+3. 3 – Kent Hayes vs. Carroll, (5/4/00)  
  
 Triples  
-1. 2 – Clayton Agler vs. Northland, 3/13/21  
- 2 – Jacob Charon vs. Ripon, 5/13/21  
- 2 – Robert Rashid vs. D’Youville, 3/20/11  
-           2 – Billy Bodle vs. Grove City, 3/21/05  
+1. 2 – Clayton Agler vs. Northland, (3/13/21)  
+1. 2 – Jacob Charon vs. Ripon, (5/13/21)  
+1. 2 – Robert Rashid vs. D’Youville, (3/20/11)  
+1. 2 – Billy Bodle vs. Grove City, (3/21/05)  
  
-Home Runs  /n1.  3 – Taylor Freeman vs. Olivet, 3/2/24  
- 3 – Edan Perez vs. Grinnell, 4/2/23  
- 3 – Kevin Fitzsimmons vs. Ripon, 4/6/06  
- 3 – Elliot Stith , 1994  
- 3 – Steve Blomberg vs. St. Olaf, 4/28/72  
+Home Runs 
+1. 3 – Taylor Freeman vs. Olivet, (3/2/24)  
+1. 3 – Edan Perez vs. Grinnell, (4/2/23)  
+1. 3 – Kevin Fitzsimmons vs. Ripon, (4/6/06)  
+1. 3 – Elliot Stith, 1994  
+1. 3 – Steve Blomberg vs. St. Olaf, (4/28/72)  
  
 Total Bases  
-1. 15 – Taylor Freeman at Carthage, 5/4/23  
-2. 14 – Taylor Freeman vs. Olivet, 3/2/24  
-3. 13 – Travis Weber at Ripon, 4/17/16  
- 13 – Kevin Fitzsimmons vs. Ripon, 4/6/06  
-5.  12 – Edan Perez at Grinnell, 4/2/23  
- 12 – Jason Shanda at Marian, 4/10/02  
- 12 – Elliot Stith, 1994  
- 12 – Steve Blomberg vs. St. Olaf, 4/28/72  
-9.  11 – Taylor Freeman vs. Monmouth, 5/9/25  
- 11 – Tim O’Toole vs. UW -Whitewater, 5/8/07  
- 11 – Andrew Wong vs. Kalamazoo, 3/20/06  
+1. 15 – Taylor Freeman at Carthage, (5/4/23)  
+2. 14 – Taylor Freeman vs. Olivet, (3/2/24)  
+3. 13 – Travis Weber at Ripon, (4/17/16)  
+3. 13 – Kevin Fitzsimmons vs. Ripon, (4/6/06)  
+4. 12 – Edan Perez at Grinnell, (4/2/23)  
+4. 12 – Jason Shanda at Marian, (4/10/02)  
+4. 12 – Elliot Stith, 1994  
+4. 12 – Steve Blomberg vs. St. Olaf, (4/28/72)  
+5. 11 – Taylor Freeman vs. Monmouth, (5/9/25)  
+5. 11 – Tim O’Toole vs. UW -Whitewater, (5/8/07)  
+5. 11 – Andrew Wong vs. Kalamazoo, (3/20/06)  
  
 Walks  
-1. 5 – Robert Rashid vs. Ripon, 4/4/09  
-2. 4 – Parker Knoll at Grinnell, 4/2/23  
- 4 – Quinn Berglin vs. Wisconsin Lutheran, 3/5/22  
- 4 – Davide Harris at Carroll, 5/5/13  
- 4 – Davide Harris at Finlandia, 4/15/12  
- 4 – A.J. Nathan vs. Ripon, 5/1/10  
- 4 – Jason Richards vs. Graceland, 4/2/94  
- 4 – John Huber 1982  
- 4 – Dave Willie 1981  
+1. 5 – Robert Rashid vs. Ripon, (4/4/09)  
+2. 4 – Parker Knoll at Grinnell, (4/2/23)  
+2. 4 – Quinn Berglin vs. Wisconsin Lutheran, (3/5/22)  
+2. 4 – Davide Harris at Carroll, (5/5/13)  
+2. 4 – Davide Harris at Finlandia, (4/15/12)  
+2. 4 – A.J. Nathan vs. Ripon, (5/1/10)  
+2. 4 – Jason Richards vs. Graceland, (4/2/94)  
+2. 4 – John Huber, 1982  
+2. 4 – Dave Willie, 1981  
  
 Stolen Bases  
-1. 5 – Nolan Spencer vs. Minnesota -Morris, 3/17/18  
- 5 – Jerry Kaminski vs. Lakeland, 1969  
-3.  4 – Nick Pastrone vs. Maine -Farmington, 3/21/19  
- 4 – Robert Rashid vs. Carroll, 4/10/10  
- 4 – A.J. Nathan vs. Carroll, 4/10/10  
- 4 – Tim O’Toole vs. Knox, 3/19/06  
- 4 – Hawk Haiduke vs. Fredonia State, 3/25/06  
-8. 3 – Tate Hartlaub vs. Williams, 3/26/25  
- 3 – Taylor Freeman vs. Hamilton, 3/25/25  
- 3 – Tate Hartlaub vs. Heidelberg, 2/24/24  
- 3 – Taylor Freeman vs. Simpson, 3/16/24  
- 3 – Taylor Freeman vs. Grinnell, 4/6/24  
- 3 – Parker Knoll vs. Millikin, 3/9/24  
- 3 – Parker Knoll vs. University of Chicago, 5/6/23  
- 3 – Parker Knoll vs. Cornell, 4/7/23  
- 3 – Parker Knoll vs. SUNY -Cobleskill, 3/21/22  
- 3 – Parker Knoll vs. Union (N.Y.), 3/23/22  
- 3 – Jacob Charon vs. Union (N.Y.), 3/23/22  
- 3 – Jacob Charon vs. Knox, 4/30/22  
- 3 – Clayton Agler vs. St. Norbert, 4/3/21  
- 3 – Dan Rothbauer vs. Carroll, 5/6/16  
- 3 – Nolan Spencer vs. Carroll, 5/6/16  
- 3 – Davide Harris at Carroll, 5/5/13  
- 3 – Davide Harris vs. Colby, 3/18/12  
- 3 – Davide Harris vs. Carroll, 5/7/11  
- 3 – Tim O’Toole vs. Beloit, 4/7/07  
- 3 – Tim O’Toole vs. Grove City, 3/21/05  
- 3 – Dave Willie , 1981  
- 3 – Steve Licata vs. Lane, 1972  /n 
+1. 5 – Nolan Spencer vs. Minnesota-Morris, (3/17/18)  
+1. 5 – Jerry Kaminski vs. Lakeland, 1969  
+2. 4 – Nick Pastrone vs. Maine-Farmington, (3/21/19)  
+2. 4 – Robert Rashid vs. Carroll, (4/10/10)  
+2. 4 – A.J. Nathan vs. Carroll, (4/10/10)  
+2. 4 – Tim O’Toole vs. Knox, (3/19/06)  
+2. 4 – Hawk Haiduke vs. Fredonia State, (3/25/06)  
+3. 3 – Tate Hartlaub vs. Williams, (3/26/25)  
+3. 3 – Taylor Freeman vs. Hamilton, (3/25/25)  
+3. 3 – Tate Hartlaub vs. Heidelberg, (2/24/24)  
+3. 3 – Taylor Freeman vs. Simpson, (3/16/24)  
+3. 3 – Taylor Freeman vs. Grinnell, (4/6/24)  
+3. 3 – Parker Knoll vs. Millikin, (3/9/24)  
+3. 3 – Parker Knoll vs. University of Chicago, (5/6/23)  
+3. 3 – Parker Knoll vs. Cornell, (4/7/23)  
+3. 3 – Parker Knoll vs. SUNY -Cobleskill, (3/21/22)  
+3. 3 – Parker Knoll vs. Union (N.Y.), (3/23/22)  
+3. 3 – Jacob Charon vs. Union (N.Y.), (3/23/22)  
+3. 3 – Jacob Charon vs. Knox, (4/30/22)  
+3. 3 – Clayton Agler vs. St. Norbert, (4/3/21)  
+3. 3 – Dan Rothbauer vs. Carroll, (5/6/16)  
+3. 3 – Nolan Spencer vs. Carroll, (5/6/16)  
+3. 3 – Davide Harris at Carroll, (5/5/13)  
+3. 3 – Davide Harris vs. Colby, (3/18/12)  
+3. 3 – Davide Harris vs. Carroll, (5/7/11)  
+3. 3 – Tim O’Toole vs. Beloit, (4/7/07)  
+3. 3 – Tim O’Toole vs. Grove City, (3/21/05)  
+3. 3 – Dave Willie, 1981  
+3. 3 – Steve Licata vs. Lane, 1972
+
+
 Strikeouts (by LU pitchers)  
-1. 13 – Michael Duttlinger vs. Knox, 3/22/21  
- 13 – Kevin Kangas vs. Endicott, 3/23/07  
- 13 – Chris Isley, 1965  
-3. 12 – Quinn Berglin vs. Simpson, 3/16/24  
- 12 – Elden Santana at Monmouth, 5/4/24  
- 12 – Elden Santana vs. University of Chicago, 5/6/23  
- 12 – Elden Santana at Grinnell, 4/2/23  
- 12 – Kevin Kangas vs. Ripon, 4/28/07  
-8. 11 – Quinn Berglin at Grinnell, 4/2/22  
- 11 – Kyle Duex vs. Beloit, 5/5/18  
- 11 – Kevin Kangas vs. Beloit, 4/7/07   
- 11 – Aaron Sorenson vs. Oberlin, 3/27/04  
- 11 – Josh Richie vs. Beloit, 5/2/04  
- 11 – Aaron Sorenson vs. St. Norbert 5/7/04  
- 11 – Josh Szablewski vs. Graceland (Iowa), 4/2/94  
- 11 – Clark Stalker 1981  
- 11 – Stephen Bernsten vs. St. Olaf, 5/8/65  
+1. 13 – Michael Duttlinger vs. Knox, (3/22/21)  
+1. 13 – Kevin Kangas vs. Endicott, (3/23/07)  
+1. 13 – Chris Isley, 1965  
+2. 12 – Quinn Berglin vs. Simpson, (3/16/24)  
+2. 12 – Elden Santana at Monmouth, (5/4/24)  
+2. 12 – Elden Santana vs. University of Chicago, (5/6/23)  
+2. 12 – Elden Santana at Grinnell, (4/2/23)  
+2. 12 – Kevin Kangas vs. Ripon, (4/28/07)  
+3. 11 – Quinn Berglin at Grinnell, (4/2/22)  
+3. 11 – Kyle Duex vs. Beloit, (5/5/18)  
+3. 11 – Kevin Kangas vs. Beloit, (4/7/07)   
+3. 11 – Aaron Sorenson vs. Oberlin, (3/27/04)  
+3. 11 – Josh Richie vs. Beloit, (5/2/04)  
+3. 11 – Aaron Sorenson vs. St. Norbert (5/7/04)  
+3. 11 – Josh Szablewski vs. Graceland (Iowa), (4/2/94)  
+3. 11 – Clark Stalker, 1981  
+3. 11 – Stephen Bernsten vs. St. Olaf, (5/8/65)  
  
 TEAM SEASON HITTING RECORDS  
 Games  Played     
@@ -1009,44 +1029,45 @@ Games  Played
 3. 39 – 2022  
 4. 37 – 2023  
 5. 36 – 2018  
-    36 – 2016  
-    36 – 2015  
-    36 – 2010  
-9. 35 – 2017  
-    35 – 2013  
-    35 – 2012  
-    35 – 2011  
+5. 36 – 2016  
+5. 36 – 2015  
+5. 36 – 2010  
+6. 35 – 2017  
+6. 35 – 2013  
+6. 35 – 2012  
+6. 35 – 2011  
      
 Wins      
-1. 31 – 2024 (31 -11) 
-2. 26 – 2022 (26 -13) 
-3. 21 – 2025 (21 -19) 
-    21 – 1977 (21 -10) 
-5. 16 – 1979 (16 -11)  
-6. 15 – 2023 (15 -22) 
-    15 – 2021 (15 -19) 
-    15 – 2018 (15 -21) 
-    15 – 2004 (15 -19) 
-    15 – 1989 (15 -9)  
-    15 – 1981 (15 -12-1) 
-    15 – 1980 (15 -10) 
+1. 31 – 2024 (31-11) 
+2. 26 – 2022 (26-13) 
+3. 21 – 2025 (21-19) 
+3. 21 – 1977 (21-10) 
+5. 16 – 1979 (16-11)  
+6. 15 – 2023 (15-22) 
+6. 15 – 2021 (15-19) 
+6. 15 – 2018 (15-21) 
+6. 15 – 2004 (15-19) 
+6. 15 – 1989 (15-9)  
+6. 15 – 1981 (15-12-1) 
+6. 15 – 1980 (15-10) 
  
 Winning Pct.  
-1. .738 – 2024 (31 -11) 
-2. .681 – 1987 (14 -6-2) 
-3. .677 – 1977 (21 -10) 
-4. .667 – 2022 (26 -13) 
-5. .625 – 1989 (15 -9) 
-6. .600 – 1980 (15 -10) 
+1. .738 – 2024 (31-11) 
+2. .681 – 1987 (14-6-2) 
+3. .677 – 1977 (21-10) 
+4. .667 – 2022 (26-13) 
+5. .625 – 1989 (15-9) 
+6. .600 – 1980 (15-10) 
  
 At Bats       
 1. 1449 – 2024  
-2. 1348 – 2022  /n3. 1312 – 2025  
+2. 1348 – 2022 
+3. 1312 – 2025  
 4. 1245 – 2023  
 5. 1230 – 2018  
 6. 1208 – 2015  
 7. 1165 – 2012  
-8. 1157  – 2016  
+8. 1157 – 2016  
 9. 1128 – 2010  
 10. 1118 – 2006  
      
@@ -1071,8 +1092,8 @@ Hits
 6. 373 – 2023  
 7. 349 – 2016  
 8. 346 – 2012   
-    346 – 2005  
-10. 323 – 2010  
+8. 346 – 2005  
+9. 323 – 2010  
  
 Batting  Ave.       
 1. .342 – 2006 (382 H/1117 AB)  
@@ -1085,7 +1106,7 @@ Batting  Ave.
 8. .307 – 1992 (166 H/541 AB)      
 9. .305 – 2018 (375 H/1230 AB)  
 10. .302 – 2016 (349 H/1157 AB)   
-    .302 – 2002 (291 H/962 AB)  
+10. .302 – 2002 (291 H/962 AB)  
        
 Slugging  Percentage     
 1. .547 – 2024 (793 TB/1449 AB)  
@@ -1100,7 +1121,8 @@ Slugging  Percentage
  
 Runs  Batted  In 
 1. 376 – 2024  
-2. 290 – 2022  /n3. 257 – 2023  
+2. 290 – 2022
+3. 257 – 2023  
 4. 232 – 2025  
 5. 219 – 2006  
 6. 211 – 2018  
@@ -1117,19 +1139,19 @@ Doubles
 5. 67 – 2023  
 6. 66 – 2015  
 7. 64 – 2014  
-    64 – 2005  
-9. 62 – 2016  
-10. 60 – 2009  
+7. 64 – 2005  
+8. 62 – 2016  
+9. 60 – 2009  
     
 Triples   
 1. 16 – 2002  
 2. 12 – 2016  
-    12 – 2005  
-4. 11 – 1977  
-5. 10 – 2022  
-    10 – 2012  
-    10 – 1981  
-    10 – 1971  
+2. 12 – 2005  
+3. 11 – 1977  
+4. 10 – 2022  
+4. 10 – 2012  
+4. 10 – 1981  
+4. 10 – 1971  
    
 Home  Runs  
 1. 73 – 2024  
@@ -1139,35 +1161,36 @@ Home  Runs
 5. 25 – 2006  
 6. 23 – 2008  
 7. 22 – 2005  
-    22 – 1984  
-9. 21 – 2007  
-    21 – 1980  
+7. 22 – 1984  
+8. 21 – 2007  
+8. 21 – 1980  
       
 Stolen  Bases       
 1. 99 – 2010  
 2. 98 – 2025  
-    98 – 2024   
-4. 85 – 2022  
-5. 82 – 2023  
-6. 75 – 2006  
-7. 71 – 2021  
-8. 67 – 1980        
-9. 66 – 1981       
-10. 58 – 2018  
+2. 98 – 2024   
+3. 85 – 2022  
+4. 82 – 2023  
+5. 75 – 2006  
+6. 71 – 2021  
+7. 67 – 1980        
+8. 66 – 1981       
+9. 58 – 2018  
       
 Sacrifices  (SH & SF)  
 1. 43 – 2025  
 2. 42 – 2023  
 3. 41 – 2024  
-    41 – 2000   /n5. 39 – 2012  
-6. 33 – 2022  
-7. 31 – 2010  
-8. 30 – 2021  
-    30 – 2005  
-10. 29 – 2016  
-    29 – 2007  
-    29 – 1981   
-    29 – 1979   
+3. 41 – 2000 
+4. 39 – 2012  
+5. 33 – 2022  
+6. 31 – 2010  
+7. 30 – 2021  
+7. 30 – 2005  
+8. 29 – 2016  
+8. 29 – 2007  
+8. 29 – 1981   
+8. 29 – 1979   
       
 Walks  
 1. 225 – 2024  
@@ -1180,7 +1203,7 @@ Walks
 8. 133 – 1981  
 9. 127 – 1999  
  
-Strikeouts  (Most  by LU Batters)    
+Strikeouts  (Most by LU Batters)    
 1. 351 – 2024  
 2. 332 – 2023  
 3. 287 – 2025  
@@ -1192,7 +1215,7 @@ Strikeouts  (Most  by LU Batters)
 9. 210 – 2021  
 10. 209 – 2017  
  
-Strikeouts  (Least  per AB) 
+Strikeouts  (Least per AB) 
 1. 1/8.7 – 1991 (64 SO/554 AB)  
 2. 1/8.4 – 1976 (84 SO/709 AB)  
 3. 1/7.6 – 1977 (116 SO/878 AB)  
@@ -1203,30 +1226,31 @@ Wins
 1. 31 – 2024  
 2. 26 – 2022  
 3. 21 – 2025  
-    21 – 1977       
-5. 16 – 1979       
-6. 15 – 2023  
-    15 – 2021  
-    15 – 2018  
-    15 – 2004   
-    15 – 1989       
-    15 – 1981    
-    15 – 1980  
+3. 21 – 1977       
+4. 16 – 1979       
+5. 15 – 2023  
+5. 15 – 2021  
+5. 15 – 2018  
+5. 15 – 2004   
+5. 15 – 1989       
+5. 15 – 1981    
+5. 15 – 1980  
  
 Saves    
 1. 10 – 2024  
 2. 9 – 2022  
 3. 8 – 2025  
 4. 6 – 2018  
-    6 – 2015  /n    6 – 2012  
-7. 5 – 1979  
-8. 4 – 2023  
-    4 – 2009  
-    4 – 2007  
-    4 – 2005  
-    4 – 1991  
-    4 – 1977  
-    4 – 2000  
+4. 6 – 2015
+4. 6 – 2012  
+5. 5 – 1979  
+6. 4 – 2023  
+6. 4 – 2009  
+6. 4 – 2007  
+6. 4 – 2005  
+6. 4 – 1991  
+6. 4 – 1977  
+6. 4 – 2000  
  
 Earned  Run Ave.  
 1. 3.26 – 1989 (61 ER/168.1 IP)  
@@ -1236,7 +1260,7 @@ Earned  Run Ave.
 Complete  Games      
 1. 19 – 1994      
 2. 16 – 1978      
-    16 – 1977      
+3. 16 – 1977      
   
 Innings  Pitched   
 1. 350.1 – 2024  
@@ -1277,7 +1301,8 @@ Most  Strikeouts/Innings  Pitched
 5. .887 – 1968 (55 SO/62.0 IP)   
 6. .858 – 2021 (229 SO/267.0 IP)  
 7. .836 – 1986 (115 SO/137.2 IP)  
- /nFewest  Walks/Innings  Pitched  
+
+Fewest  Walks/Innings  Pitched  
 1. .367 – 1965 (29 BB/79.0 IP)  
 2. .378 – 1996 (72 BB/190.1 IP)  
 3. .388 – 2009 (98 BB/252.1 IP)  
@@ -1285,45 +1310,45 @@ Most  Strikeouts/Innings  Pitched
  
 Shutouts         
 1. 5 – 2022  
-    5 – 2004  
-3. 3 – 2024  
-    3 – 2012  
-    3 – 1976   
-6. 2 – 2025  
-    2 – 2009  
-    2 – 2006  
-    2 – 1996        
-    2 – 1980        
-    2 – 1978        
-    2 – 1964        
+1. 5 – 2004  
+2. 3 – 2024  
+2. 3 – 2012  
+2. 3 – 1976   
+3. 2 – 2025  
+3. 2 – 2009  
+3. 2 – 2006  
+3. 2 – 1996        
+3. 2 – 1980        
+3. 2 – 1978        
+3. 2 – 1964        
       
 No-Hit Games  
 1. 1 – 1968  
-    1 – 1967  
-    1 – 1963  
+1. 1 – 1967  
+1. 1 – 1963  
  
 1-Hit Games  
 1. 2 – 1966  
 2. 1 – 2023  
-    1 – 2022  
-    1 – 2006  
-    1 – 2004  
-    1 – 1979  
-    1 – 1978  
-    1 – 1970  
-    1 – 1960  
-    1 – 2001  
+2. 1 – 2022  
+2. 1 – 2006  
+2. 1 – 2004  
+2. 1 – 1979  
+2. 1 – 1978  
+2. 1 – 1970  
+2. 1 – 1960  
+2. 1 – 2001  
  
 2-Hit Games      
 1. 2 – 2004  
-    2 – 1991     
-    2 – 1989     
-    2 – 1982     
+1. 2 – 1991     
+1. 2 – 1989     
+1. 2 – 1982     
  
 3-Hit Games  
 1. 3 – 1987  
-    3 – 1979    
-    3 – 1976  
+1. 3 – 1979    
+1. 3 – 1976  
  
 TEAM MISCELLANEOUS SEASON  RECORDS  
 Fielding Percentage  
@@ -1332,539 +1357,190 @@ Fielding Percentage
 3. .950 – 2013  
 4. .949 – 2006  
 5. .948 – 2025  
-    .948 – 2021  
-7. .947 – 2007  
-8. .946 – 1991  
-9. .943 – 1994  
-    .943 – 1976  /n 
+5. .948 – 2021  
+6. .947 – 2007  
+7. .946 – 1991  
+8. .943 – 1994  
+8. .943 – 1976
+
 Winning Streak  
 1. 12 – 2024  
 2. 7 – 2024  
-    7 – 2012   
-    7 – 1980  
-    7 – 1979  
-6. 6 – 2022  
-    6 – 1996  
+2. 7 – 2012   
+2. 7 – 1980  
+2. 7 – 1979  
+3. 6 – 2022  
+3. 6 – 1996  
  
 TEAM GAME RECORDS  
 At-Bats  
-1. 59 vs. Ripon, 4/6/06  
-2. 53 vs. Ripon, 5/1/10  
-3. 50 vs. Iowa Wesleyan, 2/25/18  
-    50 vs. Carroll, 4/16/14  
-5. 49 vs. Beloit, 4/24/05  
-    49 vs. Carroll, 4/18/03  
-7. 48 vs. UW -Stevens Point, 4/23/24  
-    48 vs. Carroll, 5/6/08  
-9. 47 vs. Cornell, 4/7/23  
-    47 vs. RPI, 3/24/15  
-    47 vs. Carroll, 5/5/07  
-    47 vs. Beloit, 4/28/01  
+1. 59 vs. Ripon, (4/6/06)  
+2. 53 vs. Ripon, (5/1/10)  
+3. 50 vs. Iowa Wesleyan, (2/25/18)  
+3. 50 vs. Carroll, (4/16/14)  
+4. 49 vs. Beloit, (4/24/05)  
+4. 49 vs. Carroll, (4/18/03)  
+5. 48 vs. UW -Stevens Point, (4/23/24)  
+5. 48 vs. Carroll, (5/6/08)  
+6. 47 vs. Cornell, (4/7/23)  
+6. 47 vs. RPI, (3/24/15)  
+6. 47 vs. Carroll, (5/5/07)  
+6. 47 vs. Beloit, (4/28/01)  
  
 Runs  
-1. 29 vs. Knox, 4/29/23  
-2. 24 vs. Ripon, 4/10/24  
-    24 vs. Iowa Wesleyan, 2/25/18  
-    24 vs. Carroll, 5/16/14  
-    24 vs. D’Youville, 3/20/11  
-6. 23 vs. Illinois College, 4/10/22  
-7. 21 vs. Olivet, 3/2/24  
-    21 vs. Maine -Farmington, 3/21/19  
-    21 vs. Crown, 3/20/15  
-10. 20 vs. Beloit, 4/28/01  
-    20 vs. St. Norbert, 5/7/81  
+1. 29 vs. Knox, (4/29/23)  
+2. 24 vs. Ripon, (4/10/24)  
+2. 24 vs. Iowa Wesleyan, (2/25/18)  
+2. 24 vs. Carroll, (5/16/14)  
+2. 24 vs. D’Youville, (3/20/11)  
+3. 23 vs. Illinois College, (4/10/22)  
+4. 21 vs. Olivet, (3/2/24)  
+4. 21 vs. Maine-Farmington, (3/21/19)  
+4. 21 vs. Crown, (3/20/15)  
+5. 20 vs. Beloit, (4/28/01)  
+5. 20 vs. St. Norbert, (5/7/81)  
  
 Hits  
-1. 26 vs. Knox, 4/29/23  
-2. 25 vs. Iowa Wesleyan, 2/25/18  
-    25 vs. Carroll, 4/16/14  
-4. 24 vs. Illinois College, 4/10/22  
-5. 23 vs. D’Youville, 3/20/11  
-    23 vs. Beloit, 4/28/01  
-7. 22 vs. Keuka, 3/24/16  
-8. 21 vs. Carthage, 5/4/23  
-    21 vs. Carroll, 5/5/07  
-    21 vs. Grove City, 3/21/05  
-    21 vs. St. Norbert, 5/7/81  
+1. 26 vs. Knox, (4/29/23)  
+2. 25 vs. Iowa Wesleyan, (2/25/18)  
+2. 25 vs. Carroll, (4/16/14)  
+3. 24 vs. Illinois College, (4/10/22)  
+4. 23 vs. D’Youville, (3/20/11)  
+4. 23 vs. Beloit, (4/28/01)  
+5. 22 vs. Keuka, (3/24/16)  
+6. 21 vs. Carthage, (5/4/23)  
+6. 21 vs. Carroll, (5/5/07)  
+6. 21 vs. Grove City, (3/21/05)  
+6. 21 vs. St. Norbert, (5/7/81)  
  
 Runs Batted In  
-1. 26 vs. Knox, 4/29/23  
-2. 23 vs. Ripon, 4/10/24  
-    23 vs. Iowa Wesleyan, 2/25/18  
-    23 vs. Carroll, 4/16/14  
-    23 vs. D’Youville, 3/20/11  
-6. 20 vs. Olivet, 3/2/24  
-    20 vs. Illinois College, 4/10/22  
-8. 19 vs. SUNY -Cobleskill, 3/21/22  /n9. 18 vs. Carroll, 4/24/04  
-    18 vs. Beloit, 4/28/01  
+1. 26 vs. Knox, (4/29/23)  
+2. 23 vs. Ripon, (4/10/24)  
+2. 23 vs. Iowa Wesleyan, (2/25/18)  
+2. 23 vs. Carroll, (4/16/14)  
+2. 23 vs. D’Youville, (3/20/11)  
+3. 20 vs. Olivet, (3/2/24)  
+3. 20 vs. Illinois College, (4/10/22)  
+4. 19 vs. SUNY -Cobleskill, (3/21/22) 
+5. 18 vs. Carroll, (4/24/04)  
+5. 18 vs. Beloit, (4/28/01)  
  
 Doubles  
-1. 9 vs. Iowa Wesleyan, 2/25/18  
-2. 8 vs. Marian, 4/17/05  
-    8 vs. Lakeland, 4/18/04  
-4. 7 vs. Illinois College, 4/10/22  
-    7 vs. Northland, 3/30/18  
-    7 vs. Utica, 3/19/13  
-7. 6 vs. Knox, 3/22/24  
-    6 vs. Cornell, 3/30/24  
-    6 vs. Knox, 4/29/23  
-    6 vs. Beloit, 4/19/22  
-    6 vs. SUNY -Cobleskill, 3/21/22  
-    6 vs. St. Norbert, 4/20/21  
-    6 vs. Beloit, 4/9/17  
-    6 vs. Carroll, 5/6/08  
-    6 vs. St. Norbert, 5/6/01  
+1. 9 vs. Iowa Wesleyan, (2/25/18)  
+2. 8 vs. Marian, (4/17/05)  
+2. 8 vs. Lakeland, (4/18/04)  
+3. 7 vs. Illinois College, (4/10/22)  
+3. 7 vs. Northland, (3/30/18)  
+3. 7 vs. Utica, (3/19/13)  
+4. 6 vs. Knox, (3/22/24)  
+4. 6 vs. Cornell, (3/30/24)  
+4. 6 vs. Knox, (4/29/23)  
+4. 6 vs. Beloit, (4/19/22)  
+4. 6 vs. SUNY-Cobleskill, (3/21/22)  
+4. 6 vs. St. Norbert, (4/20/21)  
+4. 6 vs. Beloit, (4/9/17)  
+4. 6 vs. Carroll, (5/6/08)  
+4. 6 vs. St. Norbert, (5/6/01)  
   
 Triples  
-1. 4 vs. Wisconsin Lutheran, 3/7/21  
-    4 vs. Grove City, 3/21/05  
-3. 3 vs. St. Norbert, 5/9/10  
-    3 vs. Kalamazoo, 3/20/06  
-    3 vs. Thomas, 3/27/02  
-6. 2 vs. Knox, 3/23/24  
-    2 vs. Concordia Chicago, 2/25/23  
-    2 vs. Ripon, 5/13/21  
-    2 vs. Minnesota -Morris, 3/19/21  
-    2 vs. Northland, 3/13/21  
-    2 vs. Maine -Farmington, 3/21/19  
-    2 vs. Massachusetts College of Liberal Arts, 3/21/19  
-    2 vs. Carleton, 3/23/17  
-    2 vs. Keuka, 3/24/16  
-    2 vs. D’Youville, 3/20/11  
-    2 vs. Carroll, 4/18/09  
-    2 vs. Plymouth State, 3/23/04  
-    2 vs. Colby, 3/25/01   
+1. 4 vs. Wisconsin Lutheran, (3/7/21)  
+1. 4 vs. Grove City, (3/21/05)  
+2. 3 vs. St. Norbert, (5/9/10)  
+2. 3 vs. Kalamazoo, (3/20/06)  
+2. 3 vs. Thomas, (3/27/02)  
+3. 2 vs. Knox, (3/23/24)  
+3. 2 vs. Concordia Chicago, (2/25/23)  
+3. 2 vs. Ripon, (5/13/21)  
+3. 2 vs. Minnesota-Morris, (3/19/21)  
+3. 2 vs. Northland, (3/13/21)  
+3. 2 vs. Maine-Farmington, (3/21/19)  
+3. 2 vs. Massachusetts College of Liberal Arts, (3/21/19)  
+3. 2 vs. Carleton, (3/23/17)  
+3. 2 vs. Keuka, (3/24/16)  
+3. 2 vs. D’Youville, (3/20/11)  
+3. 2 vs. Carroll, (4/18/09)  
+3. 2 vs. Plymouth State, (3/23/04)  
+3. 2 vs. Colby, (3/25/01)   
  
 Homers  
-1. 7 vs. Grinnell, 4/2/23  
-2. 6 vs. Ripon, 4/12/22  
-3. 5 vs. Olivet, 3/2/24  
-    5 vs. Elmhurst, 3/3/24  
-    5 vs. UW -Stevens Point, 4/23/24  
-    5 vs. Knox, 4/29/23  
-    5 vs. Illinois College, 5/13/22  
-    5 vs. Carroll, 5/6/08  
-6. 4 vs. Illinois College, 4/27/25  
-    4 vs. Ripon, 4/22/25  
-    4 vs. Monmouth, 5/5/24  
-    4 vs. Monmouth, 5/4/24  
-    4 vs. Illinois College, 4/27/24  
-    4 vs. Ripon, 4/10/24  
-    4 vs. Cornell, 3/30/24  
-    4 vs. Carthage, 5/4/23  
-    4 vs. Grinnell, 4/2/22  
-    4 vs. Carroll, 4/16/14  
-    4 vs. Carroll, 5/5/07  /n    4 vs. Ripon, 4/6/06  
-    4 vs. St. Norbert, 4/27/03  
-    4 vs. St. Norbert, 5/5/01  
+1. 7 vs. Grinnell, (4/2/23)  
+2. 6 vs. Ripon, (4/12/22)  
+3. 5 vs. Olivet, (3/2/24)  
+3. 5 vs. Elmhurst, (3/3/24)  
+3. 5 vs. UW-Stevens Point, (4/23/24)  
+3. 5 vs. Knox, (4/29/23)  
+3. 5 vs. Illinois College, (5/13/22)  
+3. 5 vs. Carroll, (5/6/08)  
+4. 4 vs. Illinois College, (4/27/25)  
+4. 4 vs. Ripon, (4/22/25)  
+4. 4 vs. Monmouth, (5/5/24)  
+4. 4 vs. Monmouth, (5/4/24)  
+4. 4 vs. Illinois College, (4/27/24)  
+4. 4 vs. Ripon, (4/10/24)  
+4. 4 vs. Cornell, (3/30/24)  
+4. 4 vs. Carthage, (5/4/23)  
+4. 4 vs. Grinnell, (4/2/22)  
+4. 4 vs. Carroll, (4/16/14)  
+4. 4 vs. Carroll, (5/5/07) 
+4. 4 vs. Ripon, (4/6/06)  
+4. 4 vs. St. Norbert, (4/27/03)  
+4. 4 vs. St. Norbert, (5/5/01)  
  
 Total Bases  
-1. 44 vs. Knox, 4/29/23  
-2. 40 vs. Carroll, 4/16/14  
-    40 vs. Carroll, 5/6/08  
-4. 38 vs. Carthage, 5/4/23  
-5. 37 vs. Olivet, 3/2/24  
-    37 vs. Illinois College, 4/10/22  
-7. 36 vs. UW -Stevens Point, 4/23/24   
-    36 vs. Iowa Wesleyan, 2/25/18  
-    36 vs. Carroll, 5/5/07  
-10. 35 vs. D’Youville, 3/20/11  
+1. 44 vs. Knox, (4/29/23)  
+2. 40 vs. Carroll, (4/16/14)  
+2. 40 vs. Carroll, (5/6/08)  
+3. 38 vs. Carthage, (5/4/23)  
+4. 37 vs. Olivet, (3/2/24)  
+4. 37 vs. Illinois College, (4/10/22)  
+5. 36 vs. UW -Stevens Point, (4/23/24)   
+5. 36 vs. Iowa Wesleyan, (2/25/18)  
+5. 36 vs. Carroll, (5/5/07)  
+6. 35 vs. D’Youville, (3/20/11)  
  
 Walks  
-1. 17 vs. Wisconsin Lutheran, 3/5/22  
-2. 15 vs. Ripon, 4/10/24  
-    15 vs. Grinnell, 4/2/23  
-4. 13 vs. Crown, 3/20/15  
-    13 vs. Union, 3/20/00  
-6. 12 vs. Maine -Farmington, 3/21/19  
-    12 vs. Ripon, 5/1/10  
-8. 11 vs. Knox, 4/29/23  
-    11 vs. Ripon, 4/4/09  
+1. 17 vs. Wisconsin Lutheran, (3/5/22)  
+2. 15 vs. Ripon, (4/10/24)  
+2. 15 vs. Grinnell, (4/2/23)  
+3. 13 vs. Crown, (3/20/15)  
+3. 13 vs. Union, (3/20/00)  
+4. 12 vs. Maine-Farmington, (3/21/19)  
+4. 12 vs. Ripon, (5/1/10)  
+5. 11 vs. Knox, (4/29/23)  
+5. 11 vs. Ripon, (4/4/09)  
  
 Stolen Bases  
-1. 16 vs. Maine -Farmington, 3/21/19  
-2. 12 vs. Carroll, 4/11/10  
-3. 10 vs. North Central, 3/5/16  
-    10 vs. Carroll, 4/10/10  
-    10 vs. Fredonia State, 3/25/06  
-6. 9 vs. Minnesota -Morris, 3/17/18  
-    9 vs. Finlandia, 4/14/12  
-8. 8 vs. Finlandia, 4/17/10  
-9. 7 vs. Williams, 3/26/25  
-    7 vs. Heidelberg, 2/24/24  
-    7 vs. Grinnell, 4/2/23  
-    7 vs. Minnesota -Morris, 3/19/21  
-    7 vs. Northland, 3/13/21  
-    7 vs. D’Youville, 3/20/11  
-    7 vs. Carroll, 4/11/10  
-    7 vs. Carroll, 4/7/05  
-    7 vs. Luther, 3/23/03  
+1. 16 vs. Maine -Farmington, (3/21/19)  
+2. 12 vs. Carroll, (4/11/10)  
+3. 10 vs. North Central, (3/5/16)  
+3. 10 vs. Carroll, (4/10/10)  
+3. 10 vs. Fredonia State, (3/25/06)  
+4. 9 vs. Minnesota-Morris, (3/17/18)  
+4. 9 vs. Finlandia, (4/14/12)  
+5. 8 vs. Finlandia, (4/17/10)  
+6. 7 vs. Williams, (3/26/25)  
+6. 7 vs. Heidelberg, (2/24/24)  
+6. 7 vs. Grinnell, (4/2/23)  
+6. 7 vs. Minnesota-Morris, (3/19/21)  
+6. 7 vs. Northland, (3/13/21)  
+6. 7 vs. D’Youville, (3/20/11)  
+6. 7 vs. Carroll, (4/11/10)  
+6. 7 vs. Carroll, (4/7/05)  
+6. 7 vs. Luther, (3/23/03)  
  
 Strikeouts (by LU pitchers)  
-1. 18 vs. Elmhurst, 3/3/24  
-2. 15 vs. Monmouth, 3/30/25  
-    15 vs. Monmouth, 5/4/24  
-    15 vs. Grinnell, 4/2/23  
-5. 14 vs. University of Chicago, 5/6/23  
-    14 vs. Grinnell, 4/2/23  
-    14 vs. Knox, 3/22/21  
-    14 vs. Beloit, 5/5/18  
-9. 13 vs. Grinnell, 4/12/25  
-    13 vs. University of Chicago, 4/13/24  
-    13 vs. Simpson, 3/16/24  
-    13 vs. Otterbein, 2/26/23  
-    13 vs. D’Youville, 3/20/11  /n    13 vs. Endicott, 3/23/07  
-    13 vs. St. Norbert, 4/6/05  
- 
- 
-ALL -AMERICA SELECTIONS  
-2025  Taylor Freeman 2B, D3baseball.com/Fourth Team  
-2024  Jacob Charon  OF, D3baseball.com/First Team , American Baseball Coaches Association/First Team  
-Parker Knoll  OF, D3baseball.com/Fourth Team , American Baseball Coaches Association/First Team  
-Quinn Berglin P, D3baseball.com/Fifth Team , American Baseball Coaches Association/Fourth Team  
-Edan Perez O F, D3baseball.com/Fifth Team  
-2022  Jacob Charon  OF, American Baseball Coaches Association/Second Team   
-2015  Jake Gordon OF, Jewish Sports Review/First Team  
-2014  Jake Gordon OF, Jewish Sports Review/First Team  
- 
-ALL -REGION SELECTIONS  
-2025  Taylor Freeman 2B, D3baseball.com First Team, American Baseball Coaches Association Second Team  
- Elden Santana P, American Baseball Coaches Association Third Team  
-2024  Jacob Charon OF, American Baseball Coaches Association /Player of the Year, D3baseball.com /Player of the Year  
- Parker Knoll OF, American Baseball Coaches Association /First Team, D3baseball.com /First Team  
- Quinn Berglin P, American Baseball Coaches Association /First Team, D3baseball.com /First Team  
- Edan Perez OF, American Baseball Coaches Association /Second Team; D3baseball.com /Second Team  
-2023  Quinn Berglin P, American Baseball Coaches Association /Second  Team  
- Edan Perez OF, American Baseball Coaches Association /Third Team  
-2022  Jacob Charon OF, American Baseball Coaches Association/First Team, D3baseball.com /First Team  
- Quinn Berglin P, D3baseball.com /Second Tea, American Baseball Coaches Association/Third Team  
- Taylor Freeman 2B, American Baseball Coaches Association/Third Team  
-2021  Quinn Berglin P, D3baseball.com /Second Team  
-2018  Matt Holliday 1B, American Baseball Coaches Association/Third Team, D3baseball.com/Third Team  
-2015  Jake Gordon OF, D3baseball.com/Third Team  
-2014  Jake Gordon OF, D3baseball.com/Second Team  
-2010  Robert Rashid OF, American Baseball Coaches Association/Third Team  
- 
-ALL -MIDWEST CONFERENCE SELECTIONS  
-2025  1st – Taylor Freeman 2B (Position Player of the Year), Elden Santana P, Tate Hartlaub SS  
- 2nd – Edan Perez LF, Shane Foley P  
-2024  1st – Jacob Charon RF (Position Player of the Year), Quinn Berglin P (Pitcher of the Year), Parker Knoll CF, Edan Perez LF ,  
- Elden Santana P, Chris Krepline (Coach of the Year)  
- 2nd – Brandon Brust P, Nick Katz P, Taylor Freeman 2B, Zach Leslie 1B  
-2023  1st – Quinn Berglin P, Edan Perez LF, Parker Knoll CF  
- 2nd – Jacob Charon RF  
-2022  1st – Jacob Charon RF (Position Player of the Year), Quinn Berglin P (Pitcher of the Year),  
- Parker Knoll CF (Newcomer of the Year), Taylor Freeman 2B, Michael Duttlinger P , Chris Krepline (Coach of the Year)  
- 2nd – Zach Leslie 1B, Jeff Cambra LF  
-2021  1st – Quinn Berglin 1B (North Division Newcomer of the Year)  
-2020  No all -conference team selected due to COVID -19 pandemic  
-2019  1st – Nolan Spencer SS, Patrick McDonnell C  
-2018  1st – Chris Shaw P (North Division Pitcher of the Year), Matthew Holliday 1B, Kyle Duex P  
-2017  1st – Matthew Holliday 1B  
-2016  1st – Matthew Holliday 1B, Nolan Spencer SS  
-2015  1st – Jake Gordon OF, Matthew Holliday OF  
-2014  1st – Jake Gordon OF  
-2013  1st – Alex Brewer P  
-2012  1st – Eric Bohling 3B  
-2011  None  
-2010  1st – Robert Rashid OF  
-2009  1st – Wes Otte OF, Aaron Leitner P  
- 2nd – Jordan Clark SS, Frank Forseth Util.  
-2008  1st – Tim Salm C; 2nd – Tommy Schmidt 1B  
-2007  1st – Brad Hauser OF, Tim O’Toole OF, Ben Webster DH, Kevin Kangas P  
- 2nd – Tommy Schmidt 1B, Hawk Haiduke 2B, Chris Clouthier P  /n2006  1st – Kevin Fitzsimmons 1B, Andrew Wong 3B, Brad Hauser OF, Bryan Rosen OF, Bi lly Bodle OF, Tommy Schmidt DH  
- 2nd – Jordan Clark SS, Alex Fritsch P, B.J. Chase P  
-2005  1st – Doug Coe C, Tim O’Toole 2B,  Andrew Wong SS, Josh Richie P  
- 2nd – Chris Clouthier P, Tom Ritzer P  
-2004  1st – Aaron Sorenson P, Doug Coe C, Kevin Fitzsimmons 1B, Andrew Wong 3B  
- 2nd – Josh Richie P, Brad Hauser OF  
-2003  1st – Aaron Sorenson P  
- 2nd – Morgan Boltz Util., Chris McGinley 1B, Jeremy Tollefson SS, Chad Zutter 2B  
-2002  1st – Jason Shanda C  
- 2nd – Chad Zutter 2B, Jeremy Tollefson SS, Ryan Zutter Util., Mike Hart Util.  
-2001  2nd – Pat Kennedy 2B, Jon Otto 1B, Jason Shanda C, Chris Stievo Util.  
-2000  1st – Chad Waller P, Jeremy Tollefson SS, Eric Busch Util.  
- 2nd – Kent Hayes OF  
-1999  1st – Eric Busch Util.; 2nd – Tim Weber P, Chad Waller SS, Ken DePagter OF  
-1998  1st – Ken DePagter OF  
- 2nd – Louie Clark Util.  
-1997  2nd – Josh Johnson 3B  
-1996  1st – Jason Richards OF, Erik Johnson DH  
- 2nd – Andrew Zlotoff C  
-1995  1st – Elliot Stith SS, Jason Ri chards OF, Korey Krueger Util.  
- 2nd – Louie Clark 1B/P  
-1994  1st – Doug Briles C, Jason Richards OF, Elliot Stith Util.  
-1993  1st – Josh Szablewski P, Korey  Krueger OF, Elliot Stith Util  
- HM – Doug Briles C  
-1992  1st – Craig Cook Util.  
-1991  1st – Bart Isaacson P, Joe Krueger 3B, Jon Maki OF  
-1990  1st – Peter Murchie P , Craig Cook SS, Chris LeFever OF, Joe Krueger Util.  
-1989  1st – Bill Brieseme ister 1B, Shawn Koerner SS, Armond Johnson OF, Joe Krueger Util.  
-1988  1st – Brad Snelson P, Bill McNamara 1B, Joe Krueger 3B  
-1987  1st – Bill Briesemeister 1B, Shawn Koerner SS  
-1986  1st – Mike Podpora OF  
-1985  1st – Bart Ott DH, Sean Stokes OF  
-1984  1st – Clark Stalker P, John Huber 2B, Tim Dantoin DH, Dan Busiel OF, Bart Ott IF  
-1983  2nd – Bart Ott SS  
-1982  1st – Graham Satherlie OF  
- 2nd – Andy Hazucha IF  
-1981  1st – Dave Wille 2B, Dan Busiel OF  
- 2nd – Sam Levin C  
-1980  1st – Bill Simon C, Jim Petran SS, Kurt H enrickson OF, Brian Fenhaus DH  
- 2nd – Dave Wille 2B, Mike Bill OF  
-1979  1st – John Bill P, Jim Petran SS, Bill Simon C, Andy Hazucha OF, Dave Wille 2B  
-1978  1st – John Bill P, Bill Simon C, Jim Petran 3B, Mike Ladevich 2B, Paul Scaffidi OF , Jeff Heimerman OF  
-1977  1st – Geoff Grieve 1B, Jim Wilkinson OF, M ark Faust OF, Paul Gebhardt 3B  
- 2nd – Bryan Hacker P, Bill Simon C, Jim Petran SS  
-1976  1st – Geoff Grieve 1B, Blaine Lewis 2B, Mark Faust OF  
- 2nd – Paul Scaffidi OF  
-1975  
-1974  
-1973  1st – Dave Rothschild SS  
-1972  1st – Steve Blomberg 3B, Dave Arakawa 2B  
-1971  1st – Dave Arakawa 2B, Steve Blomberg 3B, Dave Rothschild SS  
-1970  1st – Dave Rothschild SS, Roger Hildebrand OF  
-1969  1st – Jerry Kaminski OF, Bob Townsend P  
-1968  1st – Dennis Kirchoff SS, Chris Olsen P  
-1967  1st – Dennis Kirchoff SS  
- 2nd – Dick Briden OF, Dave Matz OF, Gary Hietpas C, Chris Olsen P  
-1966  1st – Steve Bernsten P  
-1965  1st – Steve Bernsten P  
-1964  1st – Steve Bernsten P; HM – Dennis Walsh C, Bob Dude OF  
-1963  1st – Bob Dude OF  /n HM – Bob Mueller P, Dennis Walsh C, Dave Robinson 1B, Tim Knabe 3B  
-1962  1st – Steve Gilboy OF, Pete Thomas OF  
-1961  
-1960  
-1959  
-1958  /n 
- LAWRENCE  YEAR -BY-YEAR  BASEBALL  RECORDS  RECAP  
- 
- 
-Year  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winning  Place  in 
-      Record  Record  Conf.   Record  Pct.  Conference  
- 
-1958  Don Boya  Bill Wood   _____   0-7  0-2  0-7  .000  _____  
- 
-1959  Don Boya  Rick Ramsey   _____   1-9  1-7  1-9  .100  _____  
- 
-1960  Don Boya  Ken Haberle   _____   3-7  3-5  3-7  .300  _____  
- 
-1961  Don Boya  Jim Schultze   _____   2-7  2-2  2-7  .222  _____  
- 
-1962  Don Boya  Wally Krueger   _____   2-9  2-6  2-9  .182  _____  
- 
-1963  Don Boya  Bill Robinson   _____   3-8  3-5  3-8  .273  4th 
- 
-1964  Clyde Rusk  Bob Dude   _____   4-5  4-4  4-5  .444  _____  
-   Bob Mueller  
- 
-1965  Clyde Rusk  Chris Isley   _____   2-9  2-6  2-9  .182  4th 
- 
-1966  Roger Merb  Steve Bernsten  _____   5-6  3-5  5-6  .455  _____  
- 
-1967  Roger Merb  Gary Hietpas   _____   7-7  4-4  7-7  .500  _____  
- 
-1968  Bob Mueller  Chris Olsen   _____   5-4  5-2  5-4  .556  _____  
- 
-1969  Bob Mueller  Bob Townsend  0-7  6-7  4-4  6-14  .300  _____  
- 
-1970  Bob Mueller  Roger Hildebrand  0-5  4-10  3-5  4-15  .211  _____  
- 
-1971  Bob Mueller  Jack Thurnblad  1-6  7-5  5-3  8-11  .421  2nd 
- 
-1972 * Bob Mueller  Dave Arakawa   3-3  8-6  4-2  11-9  .550  1st 
- /nYear  Head  Coach  Team  Captain  (s) Spring   Northern  Midwest   Overall  Winning  Place  in 
-      Record  Record  Conf.   Record  Pct.  Conference  
-1973  Bob Mueller  Dave Rothschold  0-7  8-11  3-1  8-18  .308  4th 
- 
-1974  Bob Kastner  Tom Brown   1-7  6-8  1-3  7-15  .318  _____  
- 
-1975  Rich Agness  Jerry Goodbody,  1-7  5-9  1-3  6-16  .273  _____  
-   Blane Lewis  
- 
-1976  Rich Agness  Blane Lewis,   1-6  7-9  3-2  8-15  .348  3rd 
-   Jim Wilkinson  
- 
-1977  Rich Agness  Jim Wilkinson,  5-3  16-7  7-2  21-10  .677  1st, 
-   Mark Faust             NCAA Region  
- 
-1978  Rich Agness  Geoff Grieve,   3-6  11-6  5-3  14-12  .538  2nd 
-   John Bill  
- 
-1979  Rich Agness  John Bill   1-5  15-6  8-0  16-11  .593  1st, 
-                NCAA Region  
- 
-1980 # Rich Agness  Jim Petran,   2-4  13-6  6-5  15-10  .600  1st 
-   Bill Simon  
- 
-1981  Rich Agness  Brian Fenhaus,  1-5  14-7-1  2-4  15-12-1 .554  Lost in 1st  
-   Dave Willie             round of MC  
-                playoffs  
- 
-1982  Jeff School  Andy Hazucha,  0-5  9-8-1  2-5-1  9-13-1  .413  3rd in North  
-   Graham Satherlie            division  
- 
-1983  Jeff School  John Huber,   0-4  8-7  4-4  8-11  .421  3rd in North  
-   Clark Stalker             division  
- 
-1984  Jeff School  John Huber,   0-4  9-8  4-2  9-12  .429  2nd (lost to  
-   Clark Stalker,             Illinois C.  
-   Terry Coenen             in playoffs  
- /n      Spring   Northern  Midwest  Overall  Winning  Place in  
-Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
- 
- 
-1985  Jeff School  Bart Ott,   0-5  5-11  0-6  5-16  .238  4th in North  
-   Sean Stokes             division    
- 
-1986  Jeff School  Sean Stokes,   0-3  5-13  1-7  5-16  .238  4th in North  
-   Ted Malkowski            division  
- 
-1987  Jeff School  Mike Podpora   1-1-2  13-5  9-3  14-6-2  .682  2nd in North  
-   Scott Schanhofer            division  
- 
-1988  Jeff School  Scott Schanhofer,  1-3  11-9  4-8  12-12  .500  4th in North  
-   Bill Briesemeister            division  
- 
-1989  Jeff School  Bill Briesemeister,  4-0  11-9  6-6  15-9  .625  2nd/North  
-   Armond Johnson            3rd in MC  
- 
-1990  Jeff School  Cory Kadlec,   1-3  10-10  6-6  11-13  .458  2nd/North  
-   Joe Krueger             3rd in MC  
- 
-1991  Jeff School  Joe Krueger,   2-1-1  10-9  4-8  12-10-1 .543  2nd/North  
-   Bart Isaacson             lost tie  
-                breaker to  
-                St. Norbert  
-1992  Jeff School  Steve Carroll,   1-3  9-9  3-9  10-12  .455  4th in North  
-   Chris LeFever  
- 
-1993  Jeff School  Chris LeFever,  0-4  7-9  6-6  7-13  .350  2nd in North  
-   Josh Szablewski            lost tie  
-                breaker to  
-                Beloit  
- 
-1994  Jeff School  Josh Szablewski,  2-3-1  9-13  4-12  11-16-1 .411  5th in North  
-   Doug Briles,  
-   Korey Krueger   
- /n      Spring   Northern  Midwest  Overall  Winning  Place in  
-Year  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
- 
-1995  Jeff School  Korey Krueger  0-6  8-12  6-10  8-18  .308  5th in North  
-   Jason Richards  
- 
-1996  Jeff School  Erik Johnson   1-4-2  9-12  5-11  10-16-2 .393  4th in North  
-   Jason Richards  
-   Elliot Stith  
- 
-1997  Jeff School  Andrew Zlotoff  1-5-1  3-15  2-14  4-20-1  .180  5th in North  
- 
-1998  Korey Krueger Lou Clark   2-9-1  2-14  2-14  4-23-1  .174  5th in North  
-     Oli Silva  
- 
-1999  Korey Krueger Eric Busch   1-10    3-13  5-24  .208  5th in North   
-    Kenny DePagter  
-    Tim Weber  
- 
-2000  Korey Krueger Eric Busch   3-7    7-9  11-21  .343  Tied 3rd in North  
-    Kent Hayes  
-    Chad Waller  
- 
-2001  Korey Krueger  Chad Cherny   0-10  6-16  5-11  6-26  .187  Fourth in North  
-     Matt Smith  
-     Pat Kennedy  
-     Jason Shanda  
- 
-2002  Korey Krueger  Jason Shanda   5-7  8-12  4-12  13-19  .406  Fourth in North  
-     Matt Smith  
- 
-2003  Korey Krueger Ryan Zutter   1-9  8-12  6-10  9-21  .300  Tied 3rd in North  
-   Mike Hart  
-   Justin Anthony  
-   Jeremy Tollefson  
- 
- 
-      Spring   Northern  Midwest  Overall  Winning  Place in  /nYear  Head Coach  Team Captain  (s) Record  Record  Conf.   Record  Pct.  Conference  
- 
-2004  Korey Krueger  Chris Stievo   6-6  9-13  6-10  15-19  .441  Third in North  
-   Matt Papke  
- 
-2005  Korey Krueger  Tom Ritzer   6-6  7-15  6-10  13-21  .382  Third in North   
-   Anthony Kouba  
-   Matt Papke  
-   Ben Clark  
- 
-2006  Korey Krueger B.J. Chase   6-6  8-14  7-9  14-20  .411  Third in North  
-   Kevin Fitzsimmons  
-   Andrew Wong   
- 
-2007  Korey Krueger Brad Hauser   1-8  11-13  6-10  12-21  .363  Third in North  
- 
-2008  Mike Barthelmess Tim Salm   3-5  8-13  5-11  11-18  .379  Tied third in North  
-   Tommy Schmidt  
- 
-2009  Jason Anderson Frank Forseth  3-6  9-14  5-11  12-20  .375  Fourth in North  
-2010  Jason Anderson Robert Rashid  1-8  6-21  2-14  7-29  .194  Fifth in North  
-2011  Jason Anderson Robert Rashid  1-7  2-25  1-15  3-32  .086  Fifth in North  
-2012  Jason Anderson Eric Bohling   2-8  12-13  5-11  14-21  .400  Fourth in North  
-2013  Jason Anderson    6-3  5-21  2-14  11-24  .314  Fifth in North  
-2014  Jason Anderson    2-8  4-19  3-13  6-27  .182  Fifth in North  
-2015  Jason Anderson    6-3  6-21  2-14  12-24  .333  Fifth in North  
-2016  Jason Anderson    6-6  5-19  5-11  11-25  .306  Fifth in North  
-2017  Jason Anderson    3-10  2-19-1  1-15-1  5-29-1  .157  Fourth in North  
-2018  Jason Anderson    5-10  10-11  8-8  15-21  .417  Second in North  
-2019  Chris Krepline     3-8  2-15  2-14  5-23  .179  Fifth in North  
-2020^  Chris Krepline       1-3    1-3  .250  N/A 
-2021  Chris Krepline       15-19  8-16  15-19  .441  Fourth in North  
-2022 $  Chris Krepline     5-5  21-11  18-6  26-13  .667  First   
-2023  Chris Krepline     4-7  11-14  10-14  15-22  .405  Eighth  
-2024  Chris Krepline     8-6  23-5  20-3  31-11  .738  First  
-2025  Trent Whitcomb    6-8  15-11  14-7  21-19  .525  First 
- 
-*tied with St. Olaf, but coaches picked St. Olaf to represent the Midwest Conference even though Lawrence had beaten St. Olaf  10-4 in their only /nmeeting during the season.  
-#Lawrence lost to Coe in the MWC playoff s but was awarded the title due to a Coe rules infraction during the season.  
-^The remainder of the 2020 season was canceled due to the Coronavirus pandemic.  
-$Starting with the 2022 season, the Midwest Conference abandoned divisional play in favor of a three -game series with each team in the league. 
-Lawrence won the regular season and won the Midwest Conference Tournament.  /n 
- 
- LAWRENCE  UNIVERSITY  ALL -TIME  BASEBALL  COACHING  SUMMARY  
- 
-     Spring   Northern   Midwest   Overall  Winning   MWC  Titles  
-Coach    Years   Record  Record  Conference  Record  Pct.      
- 
-Don Boya   1958 -63 0-0  11-47  11-27  11-47  .190   
- 
-Clyde Rusk   1964 -65 0-0  6-14  6-10  6-14  .300   
- 
-Roger Merb   1966 -67 0-0  12-13  7-9  12-13  .480   
- 
-Bob Mueller   1968 -73 4-28  38-43  24-17  42-71  .372  1972  
- 
-Bob Kastner   1974   1-7  6-8  1-3  7-15  .318   
- 
-Rich Agness   1975 -81 14-36  81-50-1 32-19  95-86-1 .525  1977, '79, '80  
- 
-Jeff School   1982 -97 14-54-7 136-159-1 66-117-1 150-213-8 .415   
- 
-Korey Krueger  1998 -2007  31-79-1 62-119  52-108  102-215-1 .322  
- 
-Mike Barthelmess  2008   3-5  8-13  5-11  11-18  .379   
- 
-Jason Anderson  2009 -18 35-68  61-183-1 34-126-1 96-252-1 .277  
- 
-Chris Krepline   2019 -24 20-26  73-67  58-53  93-91  .505  2022 , 2024  
- 
-Trent Whitcomb  2025 -present  6-8  15-11  14-7  21-19  .525  2025  
- 
-TOTALS   1958 -present  127-312-8 512-730-3 310-522-2 649-1050-11 .383    
- 
- 
-NCAA DIVISION III REGIONAL APPEARANCES  
- 
-1977 at UW -Oshkosh    St. Olaf   8 Lawrence   1  
-    Coe   6 Lawrence   0  /n 
-1979 at UW -Oshkosh   Cal State -Stanislaus  13 Lawrence   1  
-    St. Olaf   11 Lawrence   6 
- 
-2022 at UW -Stevens Point  Stevens Point   11 Lawrence     6 
-    Coe   6 Lawrence     1    /n
+1. 18 vs. Elmhurst, (3/3/24)  
+2. 15 vs. Monmouth, (3/30/25)  
+2. 15 vs. Monmouth, (5/4/24)  
+2. 15 vs. Grinnell, (4/2/23)  
+3. 14 vs. University of Chicago, (5/6/23)  
+3. 14 vs. Grinnell, (4/2/23)  
+3. 14 vs. Knox, (3/22/21)  
+3. 14 vs. Beloit, (5/5/18)  
+4. 13 vs. Grinnell, (4/12/25)  
+4. 13 vs. University of Chicago, (4/13/24)  
+4. 13 vs. Simpson, (3/16/24)  
+4. 13 vs. Otterbein, (2/26/23)  
+4. 13 vs. D’Youville, (3/20/11) 
+4. 13 vs. Endicott, (3/23/07)  
+4. 13 vs. St. Norbert, (4/6/05)  
