@@ -1,1 +1,18 @@
+# Firebase sensitive files
+*firebase-adminsdk*.json
+senior-projects-e4df3-firebase-adminsdk-fbsvc-c28468482d.json
 serviceAccountKey.json
+
+# Large data files
+*.json
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# macOS
+.DS_Store
