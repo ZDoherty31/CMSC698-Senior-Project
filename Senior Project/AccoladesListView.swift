@@ -2,7 +2,7 @@
 //  AccoladesListView.swift
 //  Senior Project
 //
-//  Created by Zoe Kasules on 11/13/25.
+//  Created by Zoe Kasules on 05/20/2026.
 //
 
 import SwiftUI
