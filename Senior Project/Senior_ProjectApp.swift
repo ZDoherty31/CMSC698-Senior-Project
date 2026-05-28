@@ -6,12 +6,25 @@
 //
 
 import SwiftUI
+import FirebaseCore
+import FirebaseAuth
+import Combine
 
 @main
 struct Senior_ProjectApp: App {
+    @UIApplicationDelegateAdaptor(AppDelegate.self) var delegate
+    @StateObject private var authVM = AuthViewModel()
+
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            if authVM.user == nil {
+                LoginView(authVM: authVM)
+                    .environmentObject(authVM)
+            } else {
+                SportsSelectionView(authVM: authVM)
+                    .environmentObject(authVM)
+            }
         }
     }
 }
+
